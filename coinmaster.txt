@@ -231,7 +231,7 @@
     "udid": "4013429C-5229-4EEF-BD59-96827A1BC8E9",
     "ten": "Admin Khanh Phan 2",
     "ngaymua": "2025-12-04",
-    "ngayhethan": "2026-01-03"
+    "ngayhethan": "2026-02-02"
   },
   {
     "udid": "8F652AA1-BAE1-4658-8103-629FFD4FEA8B",
