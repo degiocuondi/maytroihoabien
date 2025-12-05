@@ -289,7 +289,7 @@
   },
   {
     "udid": "E3E10103-A63E-4EE6-A409-74A2E5051BBA",
-    "ten": "Admin Nguyễn Huệ",
+    "ten": "Nguyễn Huệ",
     "ngaymua": "2025-12-05",
     "ngayhethan": "2026-01-04"
   },
