@@ -388,5 +388,11 @@
     "ten": "Test Menu",
     "ngaymua": "2025-12-06",
     "ngayhethan": "2026-01-05"
+  },
+  {
+    "udid": "BD8B3D0F-76DB-4E19-8117-39D6E6F97DDC",
+    "ten": "Tiến",
+    "ngaymua": "2025-12-06",
+    "ngayhethan": "2026-03-06"
   }
 ]
