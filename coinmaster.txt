@@ -712,5 +712,11 @@
     "ten": "Admin Tài Báo",
     "ngaymua": "2025-12-09",
     "ngayhethan": "2026-01-08"
+  },
+  {
+    "udid": "C8CF8B9CC18A4B44ACAA97F93539E0A0",
+    "ten": "Admin Tài Báo 2",
+    "ngaymua": "2025-12-09",
+    "ngayhethan": "2026-01-08"
   }
 ]
