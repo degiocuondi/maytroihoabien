@@ -706,5 +706,11 @@
     "ten": "Admin Duyên",
     "ngaymua": "2025-12-09",
     "ngayhethan": "2026-03-09"
+  },
+  {
+    "udid": "6B3827F14DFF846959B3699BA2CCAFB9D",
+    "ten": "Admin Tài Báo",
+    "ngaymua": "2025-12-09",
+    "ngayhethan": "2026-01-08"
   }
 ]
