@@ -694,5 +694,11 @@
     "ten": "Trọng Tín",
     "ngaymua": "2025-12-09",
     "ngayhethan": "2026-01-08"
+  },
+  {
+    "udid": "A8A45DAF-F0CD-4814-86B9-4827513964E1",
+    "ten": "Điển Doanh",
+    "ngaymua": "2025-12-09",
+    "ngayhethan": "2026-01-08"
   }
 ]
