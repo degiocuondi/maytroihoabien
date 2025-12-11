@@ -318,12 +318,6 @@
     "ngayhethan": "2026-03-05"
   },
   {
-    "udid": "55A5B8B3-F656-4531-8539-718E3E39E126",
-    "ten": "Tấn Lộc",
-    "ngaymua": "2025-12-05",
-    "ngayhethan": "2026-03-05"
-  },
-  {
     "udid": "3BF41057-F575-462F-85C0-43B9F8A5DD70",
     "ten": "Hoàng Đzai",
     "ngaymua": "2025-12-05",
