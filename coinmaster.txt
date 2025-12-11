@@ -853,7 +853,7 @@
   },
   {
     "udid": "1CBF6B7C-50C5-49F1-9DEE-39858773BBAD",
-    "ten": "Test",
+    "ten": "test",
     "ngaymua": "2025-12-11",
     "ngayhethan": "2025-12-14"
   },
