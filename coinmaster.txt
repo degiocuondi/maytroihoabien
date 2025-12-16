@@ -1342,5 +1342,11 @@
     "ten": "Khang",
     "ngaymua": "2025-12-16",
     "ngayhethan": "2026-01-15"
+  },
+  {
+    "udid": "F85467B6-441D-488D-BD2F-F92C938C2999",
+    "ten": "Mạnh Luxury",
+    "ngaymua": "2025-12-16",
+    "ngayhethan": "2026-01-15"
   }
 ]
