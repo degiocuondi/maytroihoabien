@@ -1492,5 +1492,11 @@
     "ten": "Toàn",
     "ngaymua": "2025-12-19",
     "ngayhethan": "2026-01-18"
+  },
+  {
+    "udid": "21D24E78-D5AB-41B7-BAE9-6716BD9A320E",
+    "ten": "Lượng",
+    "ngaymua": "2025-12-19",
+    "ngayhethan": "2026-01-02"
   }
 ]
