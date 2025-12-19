@@ -1518,12 +1518,6 @@
     "ngayhethan": "2026-01-18"
   },
   {
-    "udid": "F56B8FD5-0E55-4EA0-9FAB-5D9637730987",
-    "ten": "Mã Lượng",
-    "ngaymua": "2025-12-19",
-    "ngayhethan": "2026-01-18"
-  },
-  {
     "udid": "B9843F5A-60A1-4B44-BB73-22D1EA62B5D6",
     "ten": "test",
     "ngaymua": "2025-12-19",
