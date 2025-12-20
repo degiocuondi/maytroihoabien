@@ -120,12 +120,6 @@
     "ngayhethan": "2026-03-04"
   },
   {
-    "udid": "5C91A119-5797-4109-ADAE-75BC3409DD15",
-    "ten": "Tân",
-    "ngaymua": "2025-12-04",
-    "ngayhethan": "2026-03-04"
-  },
-  {
     "udid": "AEA7A21D-98DB-4D4B-A22F-30E053DE03F4",
     "ten": "Hồng Cẩm",
     "ngaymua": "2025-12-04",
