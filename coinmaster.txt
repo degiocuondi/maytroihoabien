@@ -366,12 +366,6 @@
     "ngayhethan": "2026-03-06"
   },
   {
-    "udid": "043D5CDA-82FD-4918-9956-B2B3284A122A",
-    "ten": "Quang Trung",
-    "ngaymua": "2025-12-06",
-    "ngayhethan": "2026-01-05"
-  },
-  {
     "udid": "AA8B574E-1960-4D74-89E4-7D4661055D54",
     "ten": "Hương Ly",
     "ngaymua": "2025-12-06",
