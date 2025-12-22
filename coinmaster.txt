@@ -1618,5 +1618,11 @@
     "ten": "Tùng Mũm Mĩm",
     "ngaymua": "2025-12-21",
     "ngayhethan": "2026-06-19"
+  },
+  {
+    "udid": "A475A7A9-0D76-4AD6-A3FD-B13B82905600",
+    "ten": "Kubi",
+    "ngaymua": "2025-12-22",
+    "ngayhethan": "2026-01-21"
   }
 ]
