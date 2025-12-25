@@ -1320,12 +1320,6 @@
     "ngayhethan": "2026-03-17"
   },
   {
-    "udid": "0DCE9E3C-DF09-4795-A4EC-C804EF55F821",
-    "ten": "Mạnh Hùng",
-    "ngaymua": "2025-12-17",
-    "ngayhethan": "2026-01-16"
-  },
-  {
     "udid": "450F1A2A-8D2A-45B9-9D23-EB874EAAF975",
     "ten": "test",
     "ngaymua": "2025-12-17",
