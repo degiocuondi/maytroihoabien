@@ -510,12 +510,6 @@
     "ngayhethan": "2026-03-07"
   },
   {
-    "udid": "CDF8E56A-C56A-4AA5-9E88-C280121A86C7",
-    "ten": "Quách Tiến",
-    "ngaymua": "2025-12-08",
-    "ngayhethan": "2026-03-08"
-  },
-  {
     "udid": "E45A5094-797C-420B-842D-E8365C004DC8",
     "ten": "Nínnn Tèo",
     "ngaymua": "2025-12-08",
