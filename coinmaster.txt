@@ -42,12 +42,6 @@
     "ngayhethan": "2026-03-04"
   },
   {
-    "udid": "1707720C-08F1-42A5-A093-6704466047B0",
-    "ten": "Bee",
-    "ngaymua": "2025-12-04",
-    "ngayhethan": "2026-03-04"
-  },
-  {
     "udid": "BD3BF2FC-BD7A-46E5-82A9-E7EEF9025983",
     "ten": "Anh Quan",
     "ngaymua": "2025-12-04",
