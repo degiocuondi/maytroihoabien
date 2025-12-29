@@ -264,12 +264,6 @@
     "ngayhethan": "2026-01-04"
   },
   {
-    "udid": "1FD69922-A2F0-4CD3-BD8A-BFA0EF8F6CD9",
-    "ten": "Trần Sang",
-    "ngaymua": "2025-12-05",
-    "ngayhethan": "2026-01-04"
-  },
-  {
     "udid": "04B6D937-90EB-444B-AA7A-531BF88A7F5E",
     "ten": "Tuấn",
     "ngaymua": "2025-12-05",
