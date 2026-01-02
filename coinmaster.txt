@@ -1918,5 +1918,11 @@
     "ten": "Vũ Nguyễn",
     "ngaymua": "2026-01-02",
     "ngayhethan": "2026-02-01"
+  },
+  {
+    "udid": "B42C2856-6118-4A27-8A78-E73B0F5299BC",
+    "ten": "HVT",
+    "ngaymua": "2026-01-02",
+    "ngayhethan": "2026-02-01"
   }
 ]
