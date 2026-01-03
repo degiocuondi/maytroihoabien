@@ -1614,12 +1614,6 @@
     "ngayhethan": "2026-01-16"
   },
   {
-    "udid": "948AD76A-9AF1-4F89-BA29-F2EA1C42223F",
-    "ten": "Xuân Nhật",
-    "ngaymua": "2025-12-22",
-    "ngayhethan": "2026-03-22"
-  },
-  {
     "udid": "88E192E2-5695-4C11-B886-C3E9635576E2",
     "ten": "Phong Phan",
     "ngaymua": "2025-12-22",
