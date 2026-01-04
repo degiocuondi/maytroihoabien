@@ -1966,5 +1966,11 @@
     "ten": "Gia Long",
     "ngaymua": "2026-01-04",
     "ngayhethan": "2026-02-03"
+  },
+  {
+    "udid": "933085EA-21F2-4115-9434-ED8A502D993E",
+    "ten": "Minh Đức",
+    "ngaymua": "2026-01-04",
+    "ngayhethan": "2026-02-03"
   }
 ]
