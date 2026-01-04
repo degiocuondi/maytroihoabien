@@ -1981,7 +1981,7 @@
   },
   {
     "udid": "F031A576-D9EB-462A-93AB-04693FCEE0E5",
-    "ten": "Tài Báo",
+    "ten": "Mr Khói",
     "ngaymua": "2026-01-04",
     "ngayhethan": "2026-02-03"
   }
