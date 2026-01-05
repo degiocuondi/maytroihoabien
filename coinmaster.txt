@@ -738,12 +738,6 @@
     "ngayhethan": "2026-03-10"
   },
   {
-    "udid": "731311AF-AB61-48E8-BFC2-F996395809AD",
-    "ten": "Đức Vượng",
-    "ngaymua": "2025-12-10",
-    "ngayhethan": "2026-01-09"
-  },
-  {
     "udid": "31F7DD8A-DEC7-4A14-B867-F7B72D02EDBE",
     "ten": "Mạnh Cường",
     "ngaymua": "2025-12-10",
