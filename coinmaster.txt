@@ -1800,12 +1800,6 @@
     "ngayhethan": "2026-01-29"
   },
   {
-    "udid": "85357CCD-9CC7-4523-87E6-61F7019C55BC",
-    "ten": "Duy",
-    "ngaymua": "2025-12-30",
-    "ngayhethan": "2026-01-29"
-  },
-  {
     "udid": "08F2C597-56AD-4AF2-9545-89E7FF1AD276",
     "ten": "Hoàng Sơn",
     "ngaymua": "2025-12-30",
