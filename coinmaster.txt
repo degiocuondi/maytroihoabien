@@ -1956,12 +1956,6 @@
     "ngayhethan": "2026-02-03"
   },
   {
-    "udid": "67D55514-8E3B-4F26-AA39-B62119D483AD",
-    "ten": "Đình Trung",
-    "ngaymua": "2026-01-04",
-    "ngayhethan": "2026-01-19"
-  },
-  {
     "udid": "2CCA23C8-7BC5-4569-B8FE-E5129B3CF6F0",
     "ten": "Nguyễn Lương",
     "ngaymua": "2026-01-04",
