@@ -1740,12 +1740,6 @@
     "ngayhethan": "2026-01-27"
   },
   {
-    "udid": "BD052D9C-3F38-46A9-A234-6A8400652BE3",
-    "ten": "Nice",
-    "ngaymua": "2025-12-28",
-    "ngayhethan": "2026-01-27"
-  },
-  {
     "udid": "A0972513-1F95-4724-957E-4F83E37FDA1B",
     "ten": "Gobta",
     "ngaymua": "2025-12-28",
