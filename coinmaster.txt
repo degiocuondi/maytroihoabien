@@ -2070,12 +2070,6 @@
     "ngayhethan": "2026-01-29"
   },
   {
-    "udid": "072A3F04-915A-4EF5-8CCC-D3795CE9271F",
-    "ten": "Vẫn Vậy",
-    "ngaymua": "2026-01-06",
-    "ngayhethan": "2026-02-05"
-  },
-  {
     "udid": "8B3C49F1-D420-47AE-8C41-20EE0C44E2CC",
     "ten": "Đình Trung",
     "ngaymua": "2026-01-06",
