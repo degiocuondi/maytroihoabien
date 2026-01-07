@@ -307,9 +307,9 @@
   },
   {
     "udid": "84EC3E65-BA49-4848-A864-02B12617D7AC",
-    "ten": "Test Menu",
+    "ten": "test",
     "ngaymua": "2025-12-06",
-    "ngayhethan": "2026-01-05"
+    "ngayhethan": "2026-02-06"
   },
   {
     "udid": "BD8B3D0F-76DB-4E19-8117-39D6E6F97DDC",
