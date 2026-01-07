@@ -1896,12 +1896,6 @@
     "ngayhethan": "2026-02-01"
   },
   {
-    "udid": "F28A5AD6-E389-4181-B864-79CDBBDAD6A6",
-    "ten": "Nguyen Thanh",
-    "ngaymua": "2026-01-02",
-    "ngayhethan": "2026-02-01"
-  },
-  {
     "udid": "855B24DA-53B5-4234-BD06-39766137131F",
     "ten": "Công Hạnh",
     "ngaymua": "2026-01-03",
