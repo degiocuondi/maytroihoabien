@@ -2152,5 +2152,11 @@
     "ten": "Văn Chinh",
     "ngaymua": "2026-01-08",
     "ngayhethan": "2026-02-07"
+  },
+  {
+    "udid": "3271C5BD-33D4-4782-9ACC-E06B19B06C37",
+    "ten": "Chiến Xã Hội",
+    "ngaymua": "2026-01-08",
+    "ngayhethan": "2026-02-07"
   }
 ]
