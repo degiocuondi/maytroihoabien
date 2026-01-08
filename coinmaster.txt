@@ -1531,9 +1531,9 @@
   },
   {
     "udid": "E6D3F853-2157-4386-8260-85E0F68D1777",
-    "ten": "Poke",
+    "ten": "Văn Tuấn",
     "ngaymua": "2025-12-21",
-    "ngayhethan": "2026-01-05"
+    "ngayhethan": "2026-02-07"
   },
   {
     "udid": "541638B4-A040-4AA8-A694-5E069FEF63EA",
