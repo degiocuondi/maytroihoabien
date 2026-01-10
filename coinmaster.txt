@@ -1248,12 +1248,6 @@
     "ngayhethan": "2025-12-18"
   },
   {
-    "udid": "CBE1AB35-DCFC-4743-B5EC-9D93F9F20D83",
-    "ten": "Đức Việt",
-    "ngaymua": "2025-12-16",
-    "ngayhethan": "2026-04-03"
-  },
-  {
     "udid": "0DCE3472-F65B-4D63-A8BD-96CB554C7C2C",
     "ten": "Sơn",
     "ngaymua": "2025-12-16",
