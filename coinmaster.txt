@@ -1638,12 +1638,6 @@
     "ngayhethan": "2026-01-28"
   },
   {
-    "udid": "50285792-9808-4034-B5F0-8663E9DFAADC",
-    "ten": "Đương",
-    "ngaymua": "2025-12-25",
-    "ngayhethan": "2026-03-25"
-  },
-  {
     "udid": "5EBF6CB3-6533-4228-A297-FC665A625D35",
     "ten": "Thawatchai",
     "ngaymua": "2025-12-25",
