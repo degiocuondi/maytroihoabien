@@ -2034,12 +2034,6 @@
     "ngayhethan": "2026-01-24"
   },
   {
-    "udid": "0E0697C0-7E5C-442E-ACFA-35B5BCD15F2B",
-    "ten": "Thanh Chung",
-    "ngaymua": "2026-01-06",
-    "ngayhethan": "2026-04-06"
-  },
-  {
     "udid": "795F5DF6-559C-475A-A07E-C8FE6514485E",
     "ten": "Cô Trương",
     "ngaymua": "2026-01-06",
