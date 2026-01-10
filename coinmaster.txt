@@ -2022,12 +2022,6 @@
     "ngayhethan": "2026-03-05"
   },
   {
-    "udid": "C2DBF808-9F63-4FEF-BB75-EE27523B5C85",
-    "ten": "VT Kiệt",
-    "ngaymua": "2026-01-07",
-    "ngayhethan": "2026-05-14"
-  },
-  {
     "udid": "24500970-4878-4E56-80DD-E7D8AA44CB86",
     "ten": "Hùng",
     "ngaymua": "2026-01-07",
