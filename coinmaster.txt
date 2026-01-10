@@ -2022,12 +2022,6 @@
     "ngayhethan": "2026-02-05"
   },
   {
-    "udid": "8B3C49F1-D420-47AE-8C41-20EE0C44E2CC",
-    "ten": "Đình Trung",
-    "ngaymua": "2026-01-06",
-    "ngayhethan": "2026-01-24"
-  },
-  {
     "udid": "795F5DF6-559C-475A-A07E-C8FE6514485E",
     "ten": "Cô Trương",
     "ngaymua": "2026-01-06",
