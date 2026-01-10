@@ -2257,7 +2257,7 @@
   },
   {
     "udid": "96E9F7EC-2DB2-410D-BDE2-CA25BEFFADB7",
-    "ten": "H VT.skip",
+    "ten": "H V T.skip",
     "ngaymua": "2026-01-10",
     "ngayhethan": "2026-02-24"
   }
