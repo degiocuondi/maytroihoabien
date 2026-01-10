@@ -915,7 +915,7 @@
     "udid": "70A717A1-C971-47C7-9D25-D2BB35C9FA70",
     "ten": "Vĩnh Chó Lợn",
     "ngaymua": "2025-12-11",
-    "ngayhethan": "2026-02-09"
+    "ngayhethan": "2026-04-10"
   },
   {
     "udid": "0384D08C-D00C-41DF-93B3-7B9C0931897C",
