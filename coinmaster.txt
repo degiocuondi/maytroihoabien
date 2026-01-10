@@ -2236,5 +2236,11 @@
     "ten": "Đức Việt.skip",
     "ngaymua": "2026-01-10",
     "ngayhethan": "2026-03-21"
+  },
+  {
+    "udid": "9B93C3E7-F9BF-47A4-BE1E-9D305BC17387",
+    "ten": "Tài Báo testskip",
+    "ngaymua": "2026-01-10",
+    "ngayhethan": "2026-03-11"
   }
 ]
