@@ -2257,7 +2257,7 @@
   },
   {
     "udid": "3D81C69E-F56C-4C62-BFBB-722604226771",
-    "ten": "Hữu Nhân",
+    "ten": "Hữu Nhân.skip",
     "ngaymua": "2026-01-11",
     "ngayhethan": "2026-03-12"
   }
