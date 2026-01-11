@@ -2284,5 +2284,11 @@
     "ten": "Phương Nam.skip",
     "ngaymua": "2026-01-11",
     "ngayhethan": "2026-02-10"
+  },
+  {
+    "udid": "769D942F-BF4E-4FEF-ABBF-F07AFA2DCD3A",
+    "ten": "Mắm Tôm",
+    "ngaymua": "2026-01-11",
+    "ngayhethan": "2026-02-10"
   }
 ]
