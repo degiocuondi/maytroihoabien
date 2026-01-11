@@ -2226,12 +2226,6 @@
     "ngayhethan": "2026-03-05"
   },
   {
-    "udid": "8F5EA7BA-D626-4A74-BD75-117FCC4D4194",
-    "ten": "Anh Tuấn",
-    "ngaymua": "2026-01-11",
-    "ngayhethan": "2026-02-10"
-  },
-  {
     "udid": "A79EAA38-965A-4EB2-8A14-85D2D3D02308",
     "ten": "Admin Test.skip",
     "ngaymua": "2026-01-11",
