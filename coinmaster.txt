@@ -2155,7 +2155,7 @@
   },
   {
     "udid": "161018E0-C4AC-4769-B014-D633A130E78B",
-    "ten": "VT Kiệt",
+    "ten": "VT Kiệt.skip",
     "ngaymua": "2026-01-10",
     "ngayhethan": "2026-03-15"
   },
