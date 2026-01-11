@@ -264,12 +264,6 @@
     "ngayhethan": "2026-03-06"
   },
   {
-    "udid": "93310051-BEB1-425C-89F2-4A15D74305C1",
-    "ten": "Dũng",
-    "ngaymua": "2025-12-05",
-    "ngayhethan": "2026-03-05"
-  },
-  {
     "udid": "3BF41057-F575-462F-85C0-43B9F8A5DD70",
     "ten": "Hoàng Đzai",
     "ngaymua": "2025-12-05",
