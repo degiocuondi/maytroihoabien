@@ -1026,12 +1026,6 @@
     "ngayhethan": "2025-12-15"
   },
   {
-    "udid": "AA9513F7-BA0E-4711-9C16-7F1EF2D70A97",
-    "ten": "Lâm",
-    "ngaymua": "2025-12-13",
-    "ngayhethan": "2026-03-19"
-  },
-  {
     "udid": "E0657680-F50C-47FC-9E3E-C8305C20D95A",
     "ten": "test",
     "ngaymua": "2025-12-13",
