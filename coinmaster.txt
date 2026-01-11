@@ -1861,9 +1861,9 @@
   },
   {
     "udid": "8F0F4B30-B733-4BDF-ABB3-10786BAABBFE",
-    "ten": "Phát",
+    "ten": "Phát.skip",
     "ngaymua": "2026-01-05",
-    "ngayhethan": "2026-02-04"
+    "ngayhethan": "2026-02-22"
   },
   {
     "udid": "D7600456-1A72-444E-B39A-DCC9EEE9A72F",
