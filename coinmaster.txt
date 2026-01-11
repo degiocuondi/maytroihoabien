@@ -2308,5 +2308,11 @@
     "ten": "Thành Đoàn.skip",
     "ngaymua": "2026-01-11",
     "ngayhethan": "2026-02-08"
+  },
+  {
+    "udid": "82388A7B-6CFA-4A04-8D72-F87C2465C3B0",
+    "ten": "Gobta.skip",
+    "ngaymua": "2026-01-11",
+    "ngayhethan": "2026-02-20"
   }
 ]
