@@ -2290,5 +2290,11 @@
     "ten": "Mắm Tôm",
     "ngaymua": "2026-01-11",
     "ngayhethan": "2026-02-10"
+  },
+  {
+    "udid": "4F2EB219-3D09-4369-BFAD-A1B995D50A00",
+    "ten": "Lâm.skip",
+    "ngaymua": "2026-01-11",
+    "ngayhethan": "2026-03-16"
   }
 ]
