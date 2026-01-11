@@ -2290,5 +2290,11 @@
     "ten": "Vi Phong.skip",
     "ngaymua": "2026-01-11",
     "ngayhethan": "2026-03-12"
+  },
+  {
+    "udid": "945DD045-530B-4443-8EB6-514F37DBB558",
+    "ten": "Bee.skip",
+    "ngaymua": "2026-01-11",
+    "ngayhethan": "2026-04-11"
   }
 ]
