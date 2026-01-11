@@ -2284,5 +2284,11 @@
     "ten": "Lâm.skip",
     "ngaymua": "2026-01-11",
     "ngayhethan": "2026-03-16"
+  },
+  {
+    "udid": "28D9E813-7963-49E2-8ECE-309CE93A102C",
+    "ten": "Ahmed.skip",
+    "ngaymua": "2026-01-11",
+    "ngayhethan": "2026-02-10"
   }
 ]
