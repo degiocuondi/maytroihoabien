@@ -2064,12 +2064,6 @@
     "ngayhethan": "2026-04-09"
   },
   {
-    "udid": "F6B09D2B-E57C-4853-91B7-654080156E71",
-    "ten": "Yourraporn",
-    "ngaymua": "2026-01-09",
-    "ngayhethan": "2026-01-28"
-  },
-  {
     "udid": "C3610927-CF82-4716-B3F2-6515319B80E4",
     "ten": "Bố Gia Hân",
     "ngaymua": "2026-01-10",
