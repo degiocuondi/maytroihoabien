@@ -1998,12 +1998,6 @@
     "ngayhethan": "2026-04-07"
   },
   {
-    "udid": "FEFFA616-498D-46E7-81DB-6FE39845BBE5",
-    "ten": "Nguyen Thanh",
-    "ngaymua": "2026-01-07",
-    "ngayhethan": "2026-02-01"
-  },
-  {
     "udid": "9511CF92-1443-4512-9350-9B36B511C952",
     "ten": "Thu Hằng",
     "ngaymua": "2026-01-07",
