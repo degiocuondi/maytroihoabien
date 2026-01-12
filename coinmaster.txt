@@ -2362,5 +2362,11 @@
     "ten": "Văn Định",
     "ngaymua": "2026-01-12",
     "ngayhethan": "2026-02-11"
+  },
+  {
+    "udid": "86BF58FE-CA67-4C0D-9872-A2D0C571DADF",
+    "ten": "Thawatchai Admin.skip",
+    "ngaymua": "2026-01-12",
+    "ngayhethan": "2026-02-11"
   }
 ]
