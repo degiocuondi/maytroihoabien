@@ -1338,12 +1338,6 @@
     "ngayhethan": "2026-01-18"
   },
   {
-    "udid": "A3FB6C96-572D-434E-B2B6-1D9D2346BB90",
-    "ten": "Quốc Quyết",
-    "ngaymua": "2025-12-19",
-    "ngayhethan": "2026-01-18"
-  },
-  {
     "udid": "B9843F5A-60A1-4B44-BB73-22D1EA62B5D6",
     "ten": "test",
     "ngaymua": "2025-12-19",
