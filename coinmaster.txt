@@ -354,12 +354,6 @@
     "ngayhethan": "2026-01-05"
   },
   {
-    "udid": "26A7D2DA-1BB0-4CF4-AAEA-E1DE3861B98B",
-    "ten": "Anh Dũng",
-    "ngaymua": "2025-12-06",
-    "ngayhethan": "2026-03-06"
-  },
-  {
     "udid": "448178C1-D8D0-48E2-8507-976ECA6B0600",
     "ten": "Thuận Hưng",
     "ngaymua": "2025-12-06",
