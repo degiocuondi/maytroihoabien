@@ -2332,5 +2332,11 @@
     "ten": "Tuấn.skip",
     "ngaymua": "2026-01-12",
     "ngayhethan": "2026-02-11"
+  },
+  {
+    "udid": "D9BAA3BF-A0BF-44DF-BD3B-B3FB934F0820",
+    "ten": "Dũng Lê.skip",
+    "ngaymua": "2026-01-12",
+    "ngayhethan": "2026-04-27"
   }
 ]
