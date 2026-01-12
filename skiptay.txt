@@ -1,0 +1,8 @@
+[
+{
+    "udid": "425D3AC8-44C7-4D0D-8176-D032ADEB976E",
+    "ten": "Admin.skiptay",
+    "ngaymua": "2026-01-13",
+    "ngayhethan": "2026-02-12"
+  }
+]
