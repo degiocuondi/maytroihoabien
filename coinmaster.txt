@@ -2374,5 +2374,11 @@
     "ten": "Vương",
     "ngaymua": "2026-01-12",
     "ngayhethan": "2026-02-11"
+  },
+  {
+    "udid": "DD7B4600-70D9-42D8-A6CC-31C130DAEE78",
+    "ten": "Khang.skip",
+    "ngaymua": "2026-01-12",
+    "ngayhethan": "2026-02-11"
   }
 ]
