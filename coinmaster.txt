@@ -2350,5 +2350,11 @@
     "ten": "Văn Trường.skip",
     "ngaymua": "2026-01-12",
     "ngayhethan": "2026-02-11"
+  },
+  {
+    "udid": "3893DA3B-3B4D-45CE-9831-65B9A4A54BCC",
+    "ten": "Richard Ninh.skip",
+    "ngaymua": "2026-01-12",
+    "ngayhethan": "2026-02-11"
   }
 ]
