@@ -2392,5 +2392,11 @@
     "ten": "Tờ Pi.skip",
     "ngaymua": "2026-01-13",
     "ngayhethan": "2026-02-12"
+  },
+  {
+    "udid": "79F2E068-8A54-4F0B-BB7A-4C95DA8E3CA8",
+    "ten": "Quyền.skip",
+    "ngaymua": "2026-01-13",
+    "ngayhethan": "2026-02-12"
   }
 ]
