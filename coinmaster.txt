@@ -1332,12 +1332,6 @@
     "ngayhethan": "2025-12-20"
   },
   {
-    "udid": "46B8C618-96C2-45CF-89D8-5CCC1EB4222C",
-    "ten": "Văn Mạnh",
-    "ngaymua": "2025-12-19",
-    "ngayhethan": "2026-03-19"
-  },
-  {
     "udid": "0704B16C-99DC-440F-8AAA-570352E22F3C",
     "ten": "test",
     "ngaymua": "2025-12-19",
