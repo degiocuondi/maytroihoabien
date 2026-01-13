@@ -2304,12 +2304,6 @@
     "ngayhethan": "2026-02-11"
   },
   {
-    "udid": "C0594660-E5F1-48D5-A285-5512A7E292A0",
-    "ten": "Tiến",
-    "ngaymua": "2026-01-12",
-    "ngayhethan": "2026-03-06"
-  },
-  {
     "udid": "7E6B33F2-5763-46A2-83CD-BD113C1E3E50",
     "ten": "Văn Trưởng.skip",
     "ngaymua": "2026-01-12",
