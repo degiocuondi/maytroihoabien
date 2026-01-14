@@ -2506,5 +2506,11 @@
     "ten": "Sasi.skip",
     "ngaymua": "2026-01-14",
     "ngayhethan": "2026-02-13"
+  },
+  {
+    "udid": "FE206123-8409-4B03-90D7-285EB16215FD",
+    "ten": "test.skip",
+    "ngaymua": "2026-01-14",
+    "ngayhethan": "2026-01-16"
   }
 ]
