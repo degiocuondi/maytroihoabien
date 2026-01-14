@@ -2536,5 +2536,11 @@
     "ten": "Văn Quý",
     "ngaymua": "2026-01-15",
     "ngayhethan": "2026-02-14"
+  },
+  {
+    "udid": "B8E0D017-57F3-4C06-9F92-ABCD5777A0AD",
+    "ten": "test.skip",
+    "ngaymua": "2026-01-15",
+    "ngayhethan": "2026-02-14"
   }
 ]
