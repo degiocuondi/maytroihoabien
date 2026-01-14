@@ -2446,5 +2446,11 @@
     "ten": "Chaipot.skip",
     "ngaymua": "2026-01-13",
     "ngayhethan": "2026-02-15"
+  },
+  {
+    "udid": "CFA0F1D9-0872-4EA0-B1B7-4353CA9ED4CB",
+    "ten": "Dow.skip",
+    "ngaymua": "2026-01-14",
+    "ngayhethan": "2026-02-16"
   }
 ]
