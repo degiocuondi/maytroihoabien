@@ -2470,5 +2470,11 @@
     "ten": "Care.skip",
     "ngaymua": "2026-01-14",
     "ngayhethan": "2026-02-13"
+  },
+  {
+    "udid": "63442641-7A3E-414F-B93C-7FE342DD1633",
+    "ten": "Praiya.skip",
+    "ngaymua": "2026-01-14",
+    "ngayhethan": "2026-02-13"
   }
 ]
