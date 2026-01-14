@@ -2470,5 +2470,11 @@
     "ten": "Praiya.skip",
     "ngaymua": "2026-01-14",
     "ngayhethan": "2026-02-13"
+  },
+  {
+    "udid": "AEDBF124-B3B1-45CF-9960-75FE9C103C56",
+    "ten": "Lương Xênh Gái",
+    "ngaymua": "2026-01-14",
+    "ngayhethan": "2026-05-04"
   }
 ]
