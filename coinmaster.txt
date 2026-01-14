@@ -1758,12 +1758,6 @@
     "ngayhethan": "2026-02-03"
   },
   {
-    "udid": "2CCA23C8-7BC5-4569-B8FE-E5129B3CF6F0",
-    "ten": "Nguyễn Lương",
-    "ngaymua": "2026-01-04",
-    "ngayhethan": "2026-04-04"
-  },
-  {
     "udid": "F52DB938-E9C0-470A-9686-15F117626062",
     "ten": "Nhật Quang",
     "ngaymua": "2026-01-05",
