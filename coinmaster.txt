@@ -2113,9 +2113,9 @@
   },
   {
     "udid": "A79EAA38-965A-4EB2-8A14-85D2D3D02308",
-    "ten": "Admin Test.skip",
+    "ten": "test.skip",
     "ngaymua": "2026-01-11",
-    "ngayhethan": "2026-01-14"
+    "ngayhethan": "2026-02-14"
   },
   {
     "udid": "EBA95AE0-3D4C-4ED2-8574-F750513C2C50",
