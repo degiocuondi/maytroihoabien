@@ -1992,12 +1992,6 @@
     "ngayhethan": "2026-04-19"
   },
   {
-    "udid": "0C13C295-F5EA-4FC7-9974-9A9364207801",
-    "ten": "Thanh An",
-    "ngaymua": "2026-01-10",
-    "ngayhethan": "2026-02-09"
-  },
-  {
     "udid": "F662D08A-3E26-4C4A-BC73-625BCFC9AF7F",
     "ten": "Tài Báo",
     "ngaymua": "2026-01-10",
