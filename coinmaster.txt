@@ -2584,5 +2584,11 @@
     "ten": "Anh Tú",
     "ngaymua": "2026-01-16",
     "ngayhethan": "2026-02-15"
+  },
+  {
+    "udid": "BA384778-F55B-4C04-9AFB-C870496042A6",
+    "ten": "Nhi.skip",
+    "ngaymua": "2026-01-16",
+    "ngayhethan": "2026-05-01"
   }
 ]
