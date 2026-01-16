@@ -1236,12 +1236,6 @@
     "ngayhethan": "2025-12-19"
   },
   {
-    "udid": "8E43D297-E08E-4248-B271-EC8F1DCE2065",
-    "ten": "Thông Hunter",
-    "ngaymua": "2025-12-18",
-    "ngayhethan": "2026-03-18"
-  },
-  {
     "udid": "7CF9992B-5F53-4F11-B826-FCAE6B539987",
     "ten": "Tuấn Anh",
     "ngaymua": "2025-12-18",
