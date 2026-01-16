@@ -2617,9 +2617,9 @@
   },
   {
     "udid": "2480FBF7-618E-4597-A928-4D440C5EF5AE",
-    "ten": "Minh Tuấn",
+    "ten": "Minh Tuấn.skip",
     "ngaymua": "2026-01-16",
-    "ngayhethan": "2026-02-15"
+    "ngayhethan": "2026-03-02"
   },
   {
     "udid": "90AB10A7-B8D0-496D-B69E-E6098B46F202",
