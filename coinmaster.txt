@@ -1548,12 +1548,6 @@
     "ngayhethan": "2026-01-25"
   },
   {
-    "udid": "0DBFA305-4569-4679-B103-D271FF3F913A",
-    "ten": "Bam",
-    "ngaymua": "2025-12-27",
-    "ngayhethan": "2026-01-31"
-  },
-  {
     "udid": "4F6ADAAE-CADC-4377-AC85-9721F4781EBF",
     "ten": "Ta",
     "ngaymua": "2025-12-28",
