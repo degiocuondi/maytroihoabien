@@ -2650,5 +2650,11 @@
     "ten": "Bam.skip",
     "ngaymua": "2026-01-17",
     "ngayhethan": "2026-02-26"
+  },
+  {
+    "udid": "17927C40-DAAE-453D-98E1-AE1F98B8B714",
+    "ten": "Lee.skip",
+    "ngaymua": "2026-01-18",
+    "ngayhethan": "2026-02-17"
   }
 ]
