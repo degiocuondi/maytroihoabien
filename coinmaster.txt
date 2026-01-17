@@ -2485,9 +2485,9 @@
   },
   {
     "udid": "FE206123-8409-4B03-90D7-285EB16215FD",
-    "ten": "test.skip",
+    "ten": "Tài.skip",
     "ngaymua": "2026-01-14",
-    "ngayhethan": "2026-01-16"
+    "ngayhethan": "2026-02-01"
   },
   {
     "udid": "38A0F105-EF48-462D-9212-9B413B915514",
