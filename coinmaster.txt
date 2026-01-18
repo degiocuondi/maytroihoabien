@@ -2662,5 +2662,11 @@
     "ten": "Quang Trường",
     "ngaymua": "2026-01-18",
     "ngayhethan": "2026-02-17"
+  },
+  {
+    "udid": "B9E7B8C2-6A10-4122-B5D1-AED79C1FA6B5",
+    "ten": "Thịnh Nguyễn.skip",
+    "ngaymua": "2026-01-18",
+    "ngayhethan": "2026-02-17"
   }
 ]
