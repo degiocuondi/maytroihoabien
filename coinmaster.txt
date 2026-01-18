@@ -258,12 +258,6 @@
     "ngayhethan": "2026-02-04"
   },
   {
-    "udid": "6CA25A2C-A0AE-4B2B-8575-C92173DAC859",
-    "ten": "Nguyễn Sơn",
-    "ngaymua": "2025-12-05",
-    "ngayhethan": "2026-03-05"
-  },
-  {
     "udid": "4C11731F-02EA-4381-B6B6-E2E6F22B9816",
     "ten": "Xuân Công",
     "ngaymua": "2025-12-05",
