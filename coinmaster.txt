@@ -2668,5 +2668,11 @@
     "ten": "Bella.skip",
     "ngaymua": "2026-01-18",
     "ngayhethan": "2026-02-22"
+  },
+  {
+    "udid": "7C83A43F-E749-434B-BF90-958843591404",
+    "ten": "Tân",
+    "ngaymua": "2026-01-18",
+    "ngayhethan": "2026-03-06"
   }
 ]
