@@ -2686,5 +2686,11 @@
     "ten": "Quân",
     "ngaymua": "2026-01-19",
     "ngayhethan": "2026-02-07"
+  },
+  {
+    "udid": "CB78E7C0-1891-43AC-895A-7F7BB3F9E6D9",
+    "ten": "Namkhing.skip",
+    "ngaymua": "2026-01-19",
+    "ngayhethan": "2026-02-23"
   }
 ]
