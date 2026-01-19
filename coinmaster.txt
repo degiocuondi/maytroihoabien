@@ -1908,12 +1908,6 @@
     "ngayhethan": "2026-04-08"
   },
   {
-    "udid": "28F4583B-C27A-4AE8-9D2C-4FA16A1775A9",
-    "ten": "Quân",
-    "ngaymua": "2026-01-08",
-    "ngayhethan": "2026-02-07"
-  },
-  {
     "udid": "6077847D-F755-4906-8214-65DC7CCB5DBD",
     "ten": "Quỳnh Xênh",
     "ngaymua": "2026-01-09",
