@@ -2746,5 +2746,11 @@
     "ten": "Đình Hiếu.skip",
     "ngaymua": "2026-01-20",
     "ngayhethan": "2026-04-30"
+  },
+  {
+    "udid": "0001C75C-C33D-4F71-AB55-A6E23ED4D4FC",
+    "ten": "Thuật.skip",
+    "ngaymua": "2026-01-20",
+    "ngayhethan": "2026-02-19"
   }
 ]
