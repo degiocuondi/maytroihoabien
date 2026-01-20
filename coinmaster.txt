@@ -2107,9 +2107,9 @@
   },
   {
     "udid": "769D942F-BF4E-4FEF-ABBF-F07AFA2DCD3A",
-    "ten": "Mắm Tôm",
+    "ten": "Mắm Tôm.skip",
     "ngaymua": "2026-01-11",
-    "ngayhethan": "2026-02-10"
+    "ngayhethan": "2026-02-19"
   },
   {
     "udid": "4F2EB219-3D09-4369-BFAD-A1B995D50A00",
