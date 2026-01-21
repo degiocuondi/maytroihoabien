@@ -2824,5 +2824,11 @@
     "ten": "Nguyễn Tuấn.skip",
     "ngaymua": "2026-01-21",
     "ngayhethan": "2026-04-01"
+  },
+  {
+    "udid": "6224C814-5589-47B7-A898-3BDB5F41E561",
+    "ten": "Huy Đàm.skip",
+    "ngaymua": "2026-01-21",
+    "ngayhethan": "2026-02-20"
   }
 ]
