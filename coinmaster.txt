@@ -2806,5 +2806,11 @@
     "ten": "Luân",
     "ngaymua": "2026-01-21",
     "ngayhethan": "2026-02-20"
+  },
+  {
+    "udid": "CEC238D6-0965-436C-B2D5-A8BF1A5B23F4",
+    "ten": "Beer",
+    "ngaymua": "2026-01-21",
+    "ngayhethan": "2026-02-20"
   }
 ]
