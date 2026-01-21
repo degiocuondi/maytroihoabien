@@ -2818,5 +2818,11 @@
     "ten": "Trọng Hùng",
     "ngaymua": "2026-01-21",
     "ngayhethan": "2027-02-15"
+  },
+  {
+    "udid": "D92576DC-F752-4A44-9776-E98F054C9B40",
+    "ten": "Nguyễn Tuấn.skip",
+    "ngaymua": "2026-01-21",
+    "ngayhethan": "2026-04-01"
   }
 ]
