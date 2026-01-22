@@ -2872,5 +2872,11 @@
     "ten": "Pakin.skip",
     "ngaymua": "2026-01-22",
     "ngayhethan": "2026-02-21"
+  },
+  {
+    "udid": "632AC9CA-9A03-4887-90AD-D550293ED50A",
+    "ten": "Fee",
+    "ngaymua": "2026-01-22",
+    "ngayhethan": "2026-02-21"
   }
 ]
