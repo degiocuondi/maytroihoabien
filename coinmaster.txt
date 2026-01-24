@@ -2932,5 +2932,11 @@
     "ten": "Thanh Châu",
     "ngaymua": "2026-01-24",
     "ngayhethan": "2026-03-15"
+  },
+  {
+    "udid": "FF33F8D8-28EB-4DE7-84CD-C9788B24C245",
+    "ten": "Hoà Bình",
+    "ngaymua": "2026-01-24",
+    "ngayhethan": "2026-04-24"
   }
 ]
