@@ -996,12 +996,6 @@
     "ngayhethan": "2025-12-16"
   },
   {
-    "udid": "050DDEA3-51F1-4394-823F-A5A8CB0BF7D5",
-    "ten": "Minh Long",
-    "ngaymua": "2025-12-14",
-    "ngayhethan": "2026-03-16"
-  },
-  {
     "udid": "6B219266-4230-4669-B14F-955AB828D666",
     "ten": "Như Quỳnh",
     "ngaymua": "2025-12-14",
