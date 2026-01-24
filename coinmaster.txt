@@ -2932,5 +2932,11 @@
     "ten": "Aom.skip",
     "ngaymua": "2026-01-24",
     "ngayhethan": "2026-02-19"
+  },
+  {
+    "udid": "9DE8CB9F-0636-47A9-8D86-627CFC5656FD",
+    "ten": "Mây Giàu",
+    "ngaymua": "2026-01-24",
+    "ngayhethan": "2026-05-14"
   }
 ]
