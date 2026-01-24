@@ -2935,8 +2935,8 @@
   },
   {
     "udid": "9DE8CB9F-0636-47A9-8D86-627CFC5656FD",
-    "ten": "Mây Giàu",
+    "ten": "Mấy Giàu",
     "ngaymua": "2026-01-24",
-    "ngayhethan": "2026-05-14"
+    "ngayhethan": "2026-05-17"
   }
 ]
