@@ -2956,5 +2956,11 @@
     "ten": "Bas",
     "ngaymua": "2026-01-24",
     "ngayhethan": "2026-02-23"
+  },
+  {
+    "udid": "2586967E-D435-4480-BBA0-B31D6E731CF4",
+    "ten": "Kim Thu.skip",
+    "ngaymua": "2026-01-24",
+    "ngayhethan": "2026-02-23"
   }
 ]
