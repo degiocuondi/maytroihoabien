@@ -2932,5 +2932,11 @@
     "ten": "Mấy Giàu",
     "ngaymua": "2026-01-24",
     "ngayhethan": "2026-05-13"
+  },
+  {
+    "udid": "F64C6D41-10C7-469E-A66B-06EC5F50423B",
+    "ten": "Quang Việt.skip",
+    "ngaymua": "2026-01-24",
+    "ngayhethan": "2026-02-20"
   }
 ]
