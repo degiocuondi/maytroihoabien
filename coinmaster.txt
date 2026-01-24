@@ -2256,12 +2256,6 @@
     "ngayhethan": "2026-02-22"
   },
   {
-    "udid": "6367D8F6-7859-4D63-8ECD-76112CFA1C01",
-    "ten": "Mấy Giàu",
-    "ngaymua": "2026-01-13",
-    "ngayhethan": "2026-04-13"
-  },
-  {
     "udid": "ED18D675-4CBE-41B3-B186-036CA473AA1A",
     "ten": "Hà Ank",
     "ngaymua": "2026-01-13",
