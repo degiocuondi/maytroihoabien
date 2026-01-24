@@ -2346,12 +2346,6 @@
     "ngayhethan": "2026-02-13"
   },
   {
-    "udid": "D80EB9E4-05DF-444C-9816-341743254BDB",
-    "ten": "Minh Khánh",
-    "ngaymua": "2026-01-14",
-    "ngayhethan": "2026-04-14"
-  },
-  {
     "udid": "A67A4FF6-9F2E-436C-BA12-42C9D1A7D1DD",
     "ten": "test.skip",
     "ngaymua": "2026-01-14",
