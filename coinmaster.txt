@@ -2808,12 +2808,6 @@
     "ngayhethan": "2026-02-21"
   },
   {
-    "udid": "C7D8562B-88D7-45AB-B7CC-F95F3A55C9A5",
-    "ten": "Quang Việt.skip",
-    "ngaymua": "2026-01-22",
-    "ngayhethan": "2026-02-21"
-  },
-  {
     "udid": "9A8AE86F-9E9F-4D29-991D-18E64606E929",
     "ten": "Pakin.skip",
     "ngaymua": "2026-01-22",
