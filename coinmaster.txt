@@ -1471,9 +1471,9 @@
   },
   {
     "udid": "8D865474-E66B-4879-ADF2-86028340D8BB",
-    "ten": "L",
+    "ten": "L.skip",
     "ngaymua": "2025-12-28",
-    "ngayhethan": "2026-01-27"
+    "ngayhethan": "2026-02-24"
   },
   {
     "udid": "81C8E7E0-86E5-48B1-823B-791E14AF1BCF",
