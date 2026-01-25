@@ -2280,12 +2280,6 @@
     "ngayhethan": "2026-02-13"
   },
   {
-    "udid": "FE6455E2-9443-4EBE-9542-9FAE51B8C5DB",
-    "ten": "Trần Minh",
-    "ngaymua": "2026-01-14",
-    "ngayhethan": "2026-02-13"
-  },
-  {
     "udid": "CF3A80B7-F71E-4C05-828C-DAD9A48C4BE7",
     "ten": "Care.skip",
     "ngaymua": "2026-01-14",
