@@ -2983,7 +2983,7 @@
   },
   {
     "udid": "04C4848D-6078-41CB-AB5C-C0C175D17223",
-    "ten": "Firstskip",
+    "ten": "First.skip",
     "ngaymua": "2026-01-25",
     "ngayhethan": "2026-02-24"
   }
