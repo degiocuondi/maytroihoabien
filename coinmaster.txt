@@ -3004,5 +3004,11 @@
     "ten": "Tuấn Nam",
     "ngaymua": "2026-01-25",
     "ngayhethan": "2026-04-15"
+  },
+  {
+    "udid": "1921D248-43C7-4078-A32B-234335077FAE",
+    "ten": "Người Dùng.skip",
+    "ngaymua": "2026-01-25",
+    "ngayhethan": "2026-02-28"
   }
 ]
