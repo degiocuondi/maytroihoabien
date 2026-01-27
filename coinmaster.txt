@@ -276,12 +276,6 @@
     "ngayhethan": "2026-01-05"
   },
   {
-    "udid": "7CFCA9A4-76A1-4279-B627-AEFAEFF90855",
-    "ten": "Tùng Tùng",
-    "ngaymua": "2025-12-06",
-    "ngayhethan": "2026-03-06"
-  },
-  {
     "udid": "673668EA-A006-4053-A20D-E92CC1CA5B92",
     "ten": "Đinh Hải",
     "ngaymua": "2025-12-06",
