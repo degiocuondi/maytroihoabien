@@ -3088,5 +3088,11 @@
     "ten": "Raday.skip",
     "ngaymua": "2026-01-27",
     "ngayhethan": "2026-02-26"
+  },
+  {
+    "udid": "E45AC8D1-0547-4C1F-A492-3D48D0FAA28E",
+    "ten": "Bas",
+    "ngaymua": "2026-01-27",
+    "ngayhethan": "2026-02-22"
   }
 ]
