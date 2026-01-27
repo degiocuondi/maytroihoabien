@@ -3064,5 +3064,11 @@
     "ten": "Thor.skip",
     "ngaymua": "2026-01-26",
     "ngayhethan": "2026-02-25"
+  },
+  {
+    "udid": "301E1003-58EE-45E1-8316-1ED8A756159B",
+    "ten": "Hiếu.skip",
+    "ngaymua": "2026-01-27",
+    "ngayhethan": "2026-02-26"
   }
 ]
