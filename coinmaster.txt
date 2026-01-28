@@ -3078,12 +3078,6 @@
     "ngayhethan": "2026-02-26"
   },
   {
-    "udid": "B9E63EEA-2B01-4022-8D60-DD8CF40A2A72",
-    "ten": "Tùng Tùng",
-    "ngaymua": "2026-01-27",
-    "ngayhethan": "2026-03-06"
-  },
-  {
     "udid": "9E2E5FC5-4C1B-4FC2-8A3A-DDBC87516C93",
     "ten": "Raday.skip",
     "ngaymua": "2026-01-27",
