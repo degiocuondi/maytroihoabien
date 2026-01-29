@@ -2364,12 +2364,6 @@
     "ngayhethan": "2026-02-14"
   },
   {
-    "udid": "A9458D0D-30D8-4DA0-9408-ADE7A5F6D735",
-    "ten": "Long Nhật",
-    "ngaymua": "2026-01-15",
-    "ngayhethan": "2026-02-14"
-  },
-  {
     "udid": "FBF924AA-9987-483F-B6A7-3C18C469A360",
     "ten": "Tâm",
     "ngaymua": "2026-01-15",
