@@ -3184,5 +3184,11 @@
     "ten": "Bé Đen",
     "ngaymua": "2026-01-29",
     "ngayhethan": "2026-02-28"
+  },
+  {
+    "udid": "B00893EE-907E-4AF9-A9D8-1A4801772DF0",
+    "ten": "Attachai.skip",
+    "ngaymua": "2026-01-29",
+    "ngayhethan": "2026-02-12"
   }
 ]
