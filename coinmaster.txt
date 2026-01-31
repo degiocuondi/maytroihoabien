@@ -3262,5 +3262,11 @@
     "ten": "Lvh Khói",
     "ngaymua": "2026-01-31",
     "ngayhethan": "2026-05-01"
+  },
+  {
+    "udid": "70B4D84B-1F99-4124-AF9B-67049082E3AE",
+    "ten": "Game.skip",
+    "ngaymua": "2026-01-31",
+    "ngayhethan": "2026-03-02"
   }
 ]
