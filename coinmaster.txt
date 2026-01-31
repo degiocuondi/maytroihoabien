@@ -3256,5 +3256,11 @@
     "ten": "Lvh Khói",
     "ngaymua": "2026-01-31",
     "ngayhethan": "2026-05-01"
+  },
+  {
+    "udid": "CF4CF4FC-6351-451F-87AD-1FE90AF0481F",
+    "ten": "Lvh Khói",
+    "ngaymua": "2026-01-31",
+    "ngayhethan": "2026-05-01"
   }
 ]
