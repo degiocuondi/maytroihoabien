@@ -3228,12 +3228,6 @@
     "ngayhethan": "2026-02-19"
   },
   {
-    "udid": "217BA495-9E2D-492B-A1F7-9E58904215A2",
-    "ten": "Xuân Nhật",
-    "ngaymua": "2026-01-30",
-    "ngayhethan": "2026-03-22"
-  },
-  {
     "udid": "C94461C7-B174-4B5A-8475-8885F9286E23",
     "ten": "Minh Hoàng.skip",
     "ngaymua": "2026-01-30",
