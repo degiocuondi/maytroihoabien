@@ -3234,12 +3234,6 @@
     "ngayhethan": "2026-03-02"
   },
   {
-    "udid": "D625C175-36BB-492B-A068-4F3BA7D95820",
-    "ten": "Lan Tuyền",
-    "ngaymua": "2026-01-31",
-    "ngayhethan": "2026-04-20"
-  },
-  {
     "udid": "26B9CF4F-9FA9-4BDD-A6BF-8496F98B698B",
     "ten": "Lvh Khói",
     "ngaymua": "2026-01-31",
