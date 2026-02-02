@@ -78,12 +78,6 @@
     "ngayhethan": "2026-01-03"
   },
   {
-    "udid": "6314495A-F83A-46D0-B0A3-046CEE15436E",
-    "ten": "Na Nè",
-    "ngaymua": "2025-12-04",
-    "ngayhethan": "2026-03-04"
-  },
-  {
     "udid": "4F3E5393-41AA-485B-BDEA-51160BE6F2BA",
     "ten": "Thanh Thảo",
     "ngaymua": "2025-12-04",
