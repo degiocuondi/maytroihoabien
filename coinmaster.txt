@@ -3328,5 +3328,11 @@
     "ten": "Hoà Bình",
     "ngaymua": "2026-02-02",
     "ngayhethan": "2026-04-24"
+  },
+  {
+    "udid": "1E235450-717F-474B-BBA3-9AB5858C495B",
+    "ten": "Quang Hải.skip",
+    "ngaymua": "2026-02-02",
+    "ngayhethan": "2026-05-03"
   }
 ]
