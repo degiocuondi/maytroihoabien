@@ -3358,5 +3358,11 @@
     "ten": "Việt Hà.skip",
     "ngaymua": "2026-02-03",
     "ngayhethan": "2026-05-30"
+  },
+  {
+    "udid": "DD8B22C3-6803-4FA8-ADF2-B640649D5B56",
+    "ten": "Chiến Đá.skip",
+    "ngaymua": "2026-02-03",
+    "ngayhethan": "2026-03-05"
   }
 ]
