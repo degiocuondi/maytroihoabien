@@ -3352,5 +3352,11 @@
     "ten": "Lvh Khói",
     "ngaymua": "2026-02-03",
     "ngayhethan": "2026-05-04"
+  },
+  {
+    "udid": "8A312F7C-C422-46BD-9199-76E18A998D21",
+    "ten": "Việt Hà.skip",
+    "ngaymua": "2026-02-03",
+    "ngayhethan": "2026-05-30"
   }
 ]
