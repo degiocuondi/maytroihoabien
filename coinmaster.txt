@@ -2289,7 +2289,7 @@
     "udid": "B4CCBB8A-AA5E-4C20-8AF6-83E35C437206",
     "ten": "Sasi.skip",
     "ngaymua": "2026-01-14",
-    "ngayhethan": "2026-02-13"
+    "ngayhethan": "2026-08-12"
   },
   {
     "udid": "FE206123-8409-4B03-90D7-285EB16215FD",
