@@ -3382,5 +3382,11 @@
     "ten": "Kim.skip",
     "ngaymua": "2026-02-05",
     "ngayhethan": "2026-03-07"
+  },
+  {
+    "udid": "908805C7-BD7C-4D10-BC47-88593AB18FD6",
+    "ten": "Mạnh Long.skip",
+    "ngaymua": "2026-02-05",
+    "ngayhethan": "2026-03-07"
   }
 ]
