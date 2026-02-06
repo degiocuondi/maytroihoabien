@@ -3394,5 +3394,11 @@
     "ten": "Tong.skip",
     "ngaymua": "2026-02-05",
     "ngayhethan": "2026-03-07"
+  },
+  {
+    "udid": "1CCF26A5-D306-4C82-A038-AC8373AF6600",
+    "ten": "Huy Công",
+    "ngaymua": "2026-02-06",
+    "ngayhethan": "2026-04-07"
   }
 ]
