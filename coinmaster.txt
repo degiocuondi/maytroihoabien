@@ -2101,9 +2101,9 @@
   },
   {
     "udid": "7E6B33F2-5763-46A2-83CD-BD113C1E3E50",
-    "ten": "Văn Trưởng.skip",
+    "ten": "Văn Trường.skip",
     "ngaymua": "2026-01-12",
-    "ngayhethan": "2026-02-11"
+    "ngayhethan": "2026-04-14"
   },
   {
     "udid": "3893DA3B-3B4D-45CE-9831-65B9A4A54BCC",
