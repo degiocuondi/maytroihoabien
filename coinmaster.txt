@@ -3273,7 +3273,7 @@
     "udid": "0FEA85C0-6E6E-4FD2-8F44-588C69FEA0E3",
     "ten": "Thông.skip",
     "ngaymua": "2026-02-02",
-    "ngayhethan": "2026-05-13"
+    "ngayhethan": "2026-07-15"
   },
   {
     "udid": "3A0C4530-2A0A-46F9-9265-E2A5C96A2A4A",
