@@ -3430,5 +3430,11 @@
     "ten": "Hoà Bình.skip",
     "ngaymua": "2026-02-08",
     "ngayhethan": "2026-05-17"
+  },
+  {
+    "udid": "8406DAD1-0F2F-4A5B-81C1-430B47B6AC2E",
+    "ten": "Lvh Khói",
+    "ngaymua": "2026-02-08",
+    "ngayhethan": "2026-05-09"
   }
 ]
