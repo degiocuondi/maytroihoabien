@@ -3424,5 +3424,11 @@
     "ten": "Đức Dương.skip",
     "ngaymua": "2026-02-08",
     "ngayhethan": "2026-04-09"
+  },
+  {
+    "udid": "5A0BAAFB-C044-48CB-8172-F7736677A2BE",
+    "ten": "Hoà Bình.skip",
+    "ngaymua": "2026-02-08",
+    "ngayhethan": "2026-05-17"
   }
 ]
