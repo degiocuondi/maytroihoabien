@@ -3484,5 +3484,11 @@
     "ten": "Sang.skip",
     "ngaymua": "2026-02-10",
     "ngayhethan": "2026-03-12"
+  },
+  {
+    "udid": "69965F87-9DDA-4879-9BB9-032E8EBEFA31",
+    "ten": "Minh Tiến",
+    "ngaymua": "2026-02-10",
+    "ngayhethan": "2026-03-12"
   }
 ]
