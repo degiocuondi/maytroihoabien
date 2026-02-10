@@ -3478,5 +3478,11 @@
     "ten": "QHải.skip",
     "ngaymua": "2026-02-10",
     "ngayhethan": "2026-03-19"
+  },
+  {
+    "udid": "618D01E7-0E36-4FC9-8015-08725EB7362D",
+    "ten": "Sang.skip",
+    "ngaymua": "2026-02-10",
+    "ngayhethan": "2026-03-12"
   }
 ]
