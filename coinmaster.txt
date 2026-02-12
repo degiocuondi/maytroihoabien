@@ -3508,5 +3508,11 @@
     "ten": "Lee.skip",
     "ngaymua": "2026-02-12",
     "ngayhethan": "2026-02-17"
+  },
+  {
+    "udid": "BE5A98D1-9224-4AC4-9FB7-81CBF3552BF0",
+    "ten": "Ngọc Huế",
+    "ngaymua": "2026-02-12",
+    "ngayhethan": "2026-06-12"
   }
 ]
