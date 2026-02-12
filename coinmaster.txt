@@ -1698,12 +1698,6 @@
     "ngayhethan": "2026-04-06"
   },
   {
-    "udid": "5F99A314-CB40-4C7F-AD59-20EB720670B5",
-    "ten": "Tiến Tài",
-    "ngaymua": "2026-01-06",
-    "ngayhethan": "2026-04-09"
-  },
-  {
     "udid": "909C0E65-43D8-4FE7-97D8-8BF02C3FEE62",
     "ten": "Vĩnh",
     "ngaymua": "2026-01-06",
