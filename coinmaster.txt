@@ -2538,12 +2538,6 @@
     "ngayhethan": "2026-02-18"
   },
   {
-    "udid": "DBAAF05C-1A5B-4D9C-9EDD-E6FCF0D82799",
-    "ten": "Chung Phạm.skip",
-    "ngaymua": "2026-01-20",
-    "ngayhethan": "2026-03-16"
-  },
-  {
     "udid": "89F7A744-F341-420B-A272-16A1FE85CF02",
     "ten": "Đình Hiếu.skip",
     "ngaymua": "2026-01-20",
