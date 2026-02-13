@@ -3520,5 +3520,11 @@
     "ten": "Bá Trúc",
     "ngaymua": "2026-02-13",
     "ngayhethan": "2026-06-13"
+  },
+  {
+    "udid": "FC0B2AF2-4EE2-405D-915B-959DBFEC9044",
+    "ten": "Khang Chivas",
+    "ngaymua": "2026-02-13",
+    "ngayhethan": "2026-04-14"
   }
 ]
