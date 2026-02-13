@@ -3514,11 +3514,5 @@
     "ten": "Minh",
     "ngaymua": "2026-02-12",
     "ngayhethan": "2026-03-14"
-  },
-  {
-    "udid": "E0C46F1F-4359-4D6F-B77A-710587B1D182",
-    "ten": "Bá Trúc",
-    "ngaymua": "2026-02-13",
-    "ngayhethan": "2026-02-28"
   }
 ]
