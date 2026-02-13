@@ -1074,12 +1074,6 @@
     "ngayhethan": "2025-12-18"
   },
   {
-    "udid": "0DCE3472-F65B-4D63-A8BD-96CB554C7C2C",
-    "ten": "Sơn",
-    "ngaymua": "2025-12-16",
-    "ngayhethan": "2026-03-16"
-  },
-  {
     "udid": "0B190834-7164-4861-9049-8394B9D99AE5",
     "ten": "Dương Nguyễn",
     "ngaymua": "2025-12-17",
