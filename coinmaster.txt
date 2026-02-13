@@ -3084,12 +3084,6 @@
     "ngayhethan": "2026-02-28"
   },
   {
-    "udid": "F207B285-D594-4393-87DC-B3F0E78190EA",
-    "ten": "Bá Trúc",
-    "ngaymua": "2026-01-29",
-    "ngayhethan": "2026-02-28"
-  },
-  {
     "udid": "4AE1A15F-C099-4885-96EC-A21B2A7F5496",
     "ten": "Đức Thiện",
     "ngaymua": "2026-01-29",
