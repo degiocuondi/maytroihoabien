@@ -3562,5 +3562,11 @@
     "ten": "Hương Ly 2",
     "ngaymua": "2026-02-15",
     "ngayhethan": "2026-05-16"
+  },
+  {
+    "udid": "5402AADD-F2C3-4651-9176-FF54FDD63997",
+    "ten": "Dow.skip",
+    "ngaymua": "2026-02-15",
+    "ngayhethan": "2026-03-19"
   }
 ]
