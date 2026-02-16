@@ -2245,9 +2245,9 @@
   },
   {
     "udid": "275B9927-F8EA-4AEA-B6B7-EE0638EAB9DD",
-    "ten": "Bóng",
+    "ten": "Bống",
     "ngaymua": "2026-01-14",
-    "ngayhethan": "2026-02-13"
+    "ngayhethan": "2026-06-01"
   },
   {
     "udid": "5970FF6B-2861-4BD2-B231-2E6B8B71CE38",
