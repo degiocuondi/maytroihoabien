@@ -3592,5 +3592,11 @@
     "ten": "test.skip",
     "ngaymua": "2026-02-16",
     "ngayhethan": "2026-02-18"
+  },
+  {
+    "udid": "1E4D7F35-EF62-48E2-BB7F-485E603EC1D7",
+    "ten": "test.skip",
+    "ngaymua": "2026-02-16",
+    "ngayhethan": "2026-02-18"
   }
 ]
