@@ -3586,5 +3586,11 @@
     "ten": "Anh Quân",
     "ngaymua": "2026-02-15",
     "ngayhethan": "2026-03-17"
+  },
+  {
+    "udid": "C77B417E-3CED-408B-AF23-D5EF74386BA4",
+    "ten": "test.skip",
+    "ngaymua": "2026-02-16",
+    "ngayhethan": "2026-02-18"
   }
 ]
