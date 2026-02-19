@@ -3628,5 +3628,11 @@
     "ten": "Ice.skip",
     "ngaymua": "2026-02-19",
     "ngayhethan": "2026-03-21"
+  },
+  {
+    "udid": "58261C4E-EE48-4AF1-8C8C-6EE34FAFBADD",
+    "ten": "Tùng Nt.skip",
+    "ngaymua": "2026-02-19",
+    "ngayhethan": "2026-05-20"
   }
 ]
