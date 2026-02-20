@@ -3402,12 +3402,6 @@
     "ngayhethan": "2026-03-11"
   },
   {
-    "udid": "69177999-EA3B-4360-BE8D-E765516AD6CB",
-    "ten": "Tuấn",
-    "ngaymua": "2026-02-09",
-    "ngayhethan": "2026-05-10"
-  },
-  {
     "udid": "D4B46BF9-C6CB-4D65-8DA3-96F4EEBA357D",
     "ten": "Trường Sơn",
     "ngaymua": "2026-02-10",
