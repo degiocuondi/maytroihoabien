@@ -582,12 +582,6 @@
     "ngayhethan": "2026-02-08"
   },
   {
-    "udid": "A29343DA-215D-493A-A10B-2ED0A350B44F",
-    "ten": "Tân",
-    "ngaymua": "2025-12-10",
-    "ngayhethan": "2026-05-10"
-  },
-  {
     "udid": "616025A1-4745-40C3-B02A-F9CE845E7B02",
     "ten": "Công",
     "ngaymua": "2025-12-10",
