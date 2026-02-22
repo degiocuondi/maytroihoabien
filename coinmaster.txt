@@ -3670,5 +3670,11 @@
     "ten": "Giang Giang",
     "ngaymua": "2026-02-22",
     "ngayhethan": "2026-03-24"
+  },
+  {
+    "udid": "CC8CFC8F-632C-4B2F-8131-7C5FAD9BE6FF",
+    "ten": "Đình Minh.skip",
+    "ngaymua": "2026-02-22",
+    "ngayhethan": "2026-03-24"
   }
 ]
