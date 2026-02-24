@@ -2736,12 +2736,6 @@
     "ngayhethan": "2026-02-21"
   },
   {
-    "udid": "95785E7F-31CA-4FD3-AB51-7EB204D34879",
-    "ten": "Minh Long",
-    "ngaymua": "2026-01-24",
-    "ngayhethan": "2026-03-16"
-  },
-  {
     "udid": "B00EAED0-39FB-4B15-9DD6-C9B9EDDF3C64",
     "ten": "Hưng",
     "ngaymua": "2026-01-24",
