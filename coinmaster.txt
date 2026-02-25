@@ -3694,5 +3694,11 @@
     "ten": "Minh Long.skip",
     "ngaymua": "2026-02-24",
     "ngayhethan": "2026-06-15"
+  },
+  {
+    "udid": "79AF1A69-4D46-4624-9DB0-2F0A77A78EF0",
+    "ten": "Thu Hà.skip",
+    "ngaymua": "2026-02-25",
+    "ngayhethan": "2026-06-25"
   }
 ]
