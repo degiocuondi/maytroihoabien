@@ -3715,7 +3715,7 @@
   },
   {
     "udid": "37CFBBA0-D937-4417-B04A-3E0B0CF60E7B",
-    "ten": "Sơn",
+    "ten": "Sơn.skip",
     "ngaymua": "2026-02-26",
     "ngayhethan": "2026-03-28"
   }
