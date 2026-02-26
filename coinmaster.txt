@@ -3729,6 +3729,6 @@
     "udid": "C14B6D90-8311-4360-89F7-9ED2027EDB9E",
     "ten": "Ice.skip",
     "ngaymua": "2026-02-27",
-    "ngayhethan": "2026-04-20"
+    "ngayhethan": "2026-03-20"
   }
 ]
