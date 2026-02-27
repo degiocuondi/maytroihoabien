@@ -3736,5 +3736,11 @@
     "ten": "Phước Hậu",
     "ngaymua": "2026-02-27",
     "ngayhethan": "2026-03-29"
+  },
+  {
+    "udid": "92D6E926-2E21-4F82-B3DA-772A6CC6C0EE",
+    "ten": "Nguyễn Bình.skip",
+    "ngaymua": "2026-02-27",
+    "ngayhethan": "2026-06-17"
   }
 ]
