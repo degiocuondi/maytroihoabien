@@ -3796,5 +3796,11 @@
     "ten": "Eve.skip",
     "ngaymua": "2026-03-03",
     "ngayhethan": "2026-04-02"
+  },
+  {
+    "udid": "C9D3F36C-9473-4949-9E1A-9C316185EB3E",
+    "ten": "Sơn.skip",
+    "ngaymua": "2026-03-03",
+    "ngayhethan": "2026-04-02"
   }
 ]
