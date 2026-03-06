@@ -3838,5 +3838,11 @@
     "ten": "Văn Trường",
     "ngaymua": "2026-03-05",
     "ngayhethan": "2026-04-04"
+  },
+  {
+    "udid": "0A1B1455-3C66-4FC0-8A54-CAE7941F5AC9",
+    "ten": "Beer",
+    "ngaymua": "2026-03-06",
+    "ngayhethan": "2026-06-16"
   }
 ]
