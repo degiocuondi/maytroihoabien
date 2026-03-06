@@ -3850,5 +3850,11 @@
     "ten": "Tài.skip",
     "ngaymua": "2026-03-06",
     "ngayhethan": "2026-04-05"
+  },
+  {
+    "udid": "9E100762-8FAE-430D-B8AE-D806BA65052D",
+    "ten": "Đức Tường.skip",
+    "ngaymua": "2026-03-06",
+    "ngayhethan": "2026-04-05"
   }
 ]
