@@ -2538,12 +2538,6 @@
     "ngayhethan": "2026-05-22"
   },
   {
-    "udid": "CEC238D6-0965-436C-B2D5-A8BF1A5B23F4",
-    "ten": "Beer",
-    "ngaymua": "2026-01-21",
-    "ngayhethan": "2026-06-06"
-  },
-  {
     "udid": "D92576DC-F752-4A44-9776-E98F054C9B40",
     "ten": "Nguyễn Tuấn.skip",
     "ngaymua": "2026-01-21",
