@@ -3843,6 +3843,6 @@
     "udid": "0A1B1455-3C66-4FC0-8A54-CAE7941F5AC9",
     "ten": "Beer",
     "ngaymua": "2026-03-06",
-    "ngayhethan": "2026-06-16"
+    "ngayhethan": "2026-06-06"
   }
 ]
