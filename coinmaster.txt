@@ -3844,5 +3844,11 @@
     "ten": "Beer",
     "ngaymua": "2026-03-06",
     "ngayhethan": "2026-06-06"
+  },
+  {
+    "udid": "C3F8C793-E17F-4368-A46F-9764AE8AD96A",
+    "ten": "Tài.skip",
+    "ngaymua": "2026-03-06",
+    "ngayhethan": "2026-04-05"
   }
 ]
