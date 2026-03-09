@@ -3886,5 +3886,11 @@
     "ten": "Thương Thương.skip",
     "ngaymua": "2026-03-09",
     "ngayhethan": "2026-04-08"
+  },
+  {
+    "udid": "627A25F1-85A6-4F4C-8600-43594DA12350",
+    "ten": "Praiya.skip",
+    "ngaymua": "2026-03-09",
+    "ngayhethan": "2026-03-18"
   }
 ]
