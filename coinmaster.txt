@@ -2190,12 +2190,6 @@
     "ngayhethan": "2026-03-15"
   },
   {
-    "udid": "63442641-7A3E-414F-B93C-7FE342DD1633",
-    "ten": "Praiya.skip",
-    "ngaymua": "2026-01-14",
-    "ngayhethan": "2026-03-18"
-  },
-  {
     "udid": "AEDBF124-B3B1-45CF-9960-75FE9C103C56",
     "ten": "Lương Xênh Gái",
     "ngaymua": "2026-01-14",
