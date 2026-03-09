@@ -3892,5 +3892,11 @@
     "ten": "Praiya.skip",
     "ngaymua": "2026-03-09",
     "ngayhethan": "2026-03-18"
+  },
+  {
+    "udid": "00A5995A-1863-4F0C-AEE9-AE80F73FB12F",
+    "ten": "May.skip",
+    "ngaymua": "2026-03-09",
+    "ngayhethan": "2026-04-08"
   }
 ]
