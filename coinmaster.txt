@@ -3892,5 +3892,11 @@
     "ten": "May.skip",
     "ngaymua": "2026-03-09",
     "ngayhethan": "2026-04-08"
+  },
+  {
+    "udid": "3D135D53-EE94-480D-902B-631848D7C300",
+    "ten": "Thanh Hà",
+    "ngaymua": "2026-03-10",
+    "ngayhethan": "2026-06-14"
   }
 ]
