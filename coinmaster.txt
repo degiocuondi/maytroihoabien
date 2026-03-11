@@ -3940,5 +3940,11 @@
     "ten": "Mạnh Cường",
     "ngaymua": "2026-03-11",
     "ngayhethan": "2026-04-10"
+  },
+  {
+    "udid": "1272EFC0-B626-48BA-838F-9C2A6EEA8C78",
+    "ten": "Admin test.skip",
+    "ngaymua": "2026-03-11",
+    "ngayhethan": "2026-04-10"
   }
 ]
