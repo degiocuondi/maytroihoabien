@@ -3952,5 +3952,11 @@
     "ten": "Hữu Nhân.skip",
     "ngaymua": "2026-03-11",
     "ngayhethan": "2026-06-20"
+  },
+  {
+    "udid": "99D16854-6946-46BA-8075-997CF2A56821",
+    "ten": "Vịnh Bango",
+    "ngaymua": "2026-03-11",
+    "ngayhethan": "2026-06-19"
   }
 ]
