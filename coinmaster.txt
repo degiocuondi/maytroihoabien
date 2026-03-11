@@ -3958,5 +3958,11 @@
     "ten": "Vịnh Bango.skip",
     "ngaymua": "2026-03-11",
     "ngayhethan": "2026-06-19"
+  },
+  {
+    "udid": "47EAB1DA-3180-4E8E-B715-9CBF1261425B",
+    "ten": "Hoà.skip",
+    "ngaymua": "2026-03-11",
+    "ngayhethan": "2026-06-19"
   }
 ]
