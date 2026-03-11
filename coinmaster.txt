@@ -3964,5 +3964,11 @@
     "ten": "Hoà.skip",
     "ngaymua": "2026-03-11",
     "ngayhethan": "2026-06-19"
+  },
+  {
+    "udid": "74E2905C-4F99-4FAC-AEAB-D1BCA6E6ECE6",
+    "ten": "Khải",
+    "ngaymua": "2026-03-11",
+    "ngayhethan": "2026-04-10"
   }
 ]
