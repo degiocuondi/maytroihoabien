@@ -3994,5 +3994,11 @@
     "ten": "Lâm",
     "ngaymua": "2026-03-11",
     "ngayhethan": "2026-04-10"
+  },
+  {
+    "udid": "113AA256-22B1-4D38-BBC6-D4D224CFBC66",
+    "ten": "Mali.skip",
+    "ngaymua": "2026-03-12",
+    "ngayhethan": "2026-04-11"
   }
 ]
