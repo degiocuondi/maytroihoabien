@@ -4084,5 +4084,11 @@
     "ten": "Thám.skip",
     "ngaymua": "2026-03-15",
     "ngayhethan": "2026-04-14"
+  },
+  {
+    "udid": "9AFC2164-15B1-47FC-912C-4CE3174ACF84",
+    "ten": "Kt.skip",
+    "ngaymua": "2026-03-15",
+    "ngayhethan": "2026-04-14"
   }
 ]
