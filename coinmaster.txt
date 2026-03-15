@@ -4078,5 +4078,11 @@
     "ten": "Kiên",
     "ngaymua": "2026-03-15",
     "ngayhethan": "2026-06-23"
+  },
+  {
+    "udid": "8B74B11B-82A5-453E-A2A1-D1B51FC233D0",
+    "ten": "Thám.skip",
+    "ngaymua": "2026-03-15",
+    "ngayhethan": "2026-04-14"
   }
 ]
