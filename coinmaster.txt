@@ -2376,12 +2376,6 @@
     "ngayhethan": "2026-04-01"
   },
   {
-    "udid": "67E37A29-996C-4683-85FD-F5286365C7E0",
-    "ten": "Bella.skip",
-    "ngaymua": "2026-01-18",
-    "ngayhethan": "2026-05-22"
-  },
-  {
     "udid": "A71F97B4-E01A-4176-A2A0-AD020001AE04",
     "ten": "Mạnh Hùng",
     "ngaymua": "2026-01-18",
