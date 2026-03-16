@@ -4162,5 +4162,11 @@
     "ten": "Gió",
     "ngaymua": "2026-03-16",
     "ngayhethan": "2026-04-15"
+  },
+  {
+    "udid": "5ED0B540-818E-460F-80FC-89408D8FB463",
+    "ten": "Vịnh.skip",
+    "ngaymua": "2026-03-16",
+    "ngayhethan": "2026-06-24"
   }
 ]
