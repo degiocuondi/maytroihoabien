@@ -4258,5 +4258,11 @@
     "ten": "Văn Sơn",
     "ngaymua": "2026-03-18",
     "ngayhethan": "2026-03-23"
+  },
+  {
+    "udid": "CEEBA2AF-2FB1-4735-B1E3-15C809FCC3F6",
+    "ten": "Win.skip",
+    "ngaymua": "2026-03-18",
+    "ngayhethan": "2026-04-17"
   }
 ]
