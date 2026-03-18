@@ -4252,5 +4252,11 @@
     "ten": "Dow.skip",
     "ngaymua": "2026-03-18",
     "ngayhethan": "2026-06-16"
+  },
+  {
+    "udid": "94D94DA2-F54B-453B-878C-B02060CB3E01",
+    "ten": "Nấm",
+    "ngaymua": "2026-03-18",
+    "ngayhethan": "2026-04-17"
   }
 ]
