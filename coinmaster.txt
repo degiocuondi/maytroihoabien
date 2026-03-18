@@ -4234,5 +4234,11 @@
     "ten": "Huy Kem",
     "ngaymua": "2026-03-18",
     "ngayhethan": "2026-04-17"
+  },
+  {
+    "udid": "94D94DA2-F54B-453B-878C-B02060CB3E0",
+    "ten": "Nấm",
+    "ngaymua": "2026-03-18",
+    "ngayhethan": "2026-04-17"
   }
 ]
