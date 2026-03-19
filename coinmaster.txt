@@ -4282,5 +4282,11 @@
     "ten": "Kha",
     "ngaymua": "2026-03-19",
     "ngayhethan": "2026-04-18"
+  },
+  {
+    "udid": "2558A1B7-878F-4F8A-A52A-BD254395F8D8",
+    "ten": "Minh Hiếu",
+    "ngaymua": "2026-03-19",
+    "ngayhethan": "2026-06-27"
   }
 ]
