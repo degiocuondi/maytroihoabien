@@ -3804,12 +3804,6 @@
     "ngayhethan": "2026-04-09"
   },
   {
-    "udid": "3BB99E2D-7537-45F3-B9B7-B8E6E2D833A3",
-    "ten": "Yourraporn.skip",
-    "ngaymua": "2026-03-10",
-    "ngayhethan": "2026-04-17"
-  },
-  {
     "udid": "73CDA6AD-1ACA-43E9-B3BB-9F9375C31BE2",
     "ten": "Aom.skip",
     "ngaymua": "2026-03-10",
