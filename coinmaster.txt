@@ -4384,5 +4384,11 @@
     "ten": "Văn Tiến",
     "ngaymua": "2026-03-24",
     "ngayhethan": "2026-04-15"
+  },
+  {
+    "udid": "BD6E1501-82AD-4083-A971-6F666EED9458",
+    "ten": "Tài.skip",
+    "ngaymua": "2026-03-24",
+    "ngayhethan": "2026-04-23"
   }
 ]
