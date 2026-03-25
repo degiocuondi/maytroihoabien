@@ -4396,5 +4396,11 @@
     "ten": "Tài Báo",
     "ngaymua": "2026-03-25",
     "ngayhethan": "2026-03-28"
+  },
+  {
+    "udid": "E9FE26E7-FC6B-4060-91AD-12D8D6A09800",
+    "ten": "Khương.skip",
+    "ngaymua": "2026-03-25",
+    "ngayhethan": "2026-04-24"
   }
 ]
