@@ -2359,9 +2359,9 @@
   },
   {
     "udid": "CB78E7C0-1891-43AC-895A-7F7BB3F9E6D9",
-    "ten": "Việt Nam",
+    "ten": "Việt Nam.skip",
     "ngaymua": "2026-01-19",
-    "ngayhethan": "2026-04-25"
+    "ngayhethan": "2026-04-28"
   },
   {
     "udid": "5B171EA6-8C31-44EE-8F52-160468D92263",
