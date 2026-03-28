@@ -4438,5 +4438,11 @@
     "ten": "Lan Tuyền.skip",
     "ngaymua": "2026-03-28",
     "ngayhethan": "2026-05-12"
+  },
+  {
+    "udid": "8EC24D09-DFE6-4F71-A0CF-EF19B5DB0571",
+    "ten": "Maew.skip",
+    "ngaymua": "2026-03-28",
+    "ngayhethan": "2026-04-27"
   }
 ]
