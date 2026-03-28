@@ -4444,5 +4444,11 @@
     "ten": "Maew.skip",
     "ngaymua": "2026-03-28",
     "ngayhethan": "2026-04-27"
+  },
+  {
+    "udid": "03030BB8-38CD-424E-A02D-2499D784D32B",
+    "ten": "Chí Được",
+    "ngaymua": "2026-03-28",
+    "ngayhethan": "2026-04-27"
   }
 ]
