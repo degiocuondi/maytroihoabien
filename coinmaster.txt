@@ -4416,12 +4416,6 @@
     "ngayhethan": "2026-04-16"
   },
   {
-    "udid": "F0ACF9F7-4A59-4BA5-9C89-569D41A60847",
-    "ten": "Thắng",
-    "ngaymua": "2026-03-27",
-    "ngayhethan": "2026-04-26"
-  },
-  {
     "udid": "319136E3-971A-4AFB-A98C-AE9828988301",
     "ten": "Tuấn",
     "ngaymua": "2026-03-27",
