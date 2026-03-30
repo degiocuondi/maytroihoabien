@@ -4416,12 +4416,6 @@
     "ngayhethan": "2026-04-26"
   },
   {
-    "udid": "621F3713-3DB1-4921-A71B-09FCEB278926",
-    "ten": "Tn Tân",
-    "ngaymua": "2026-03-28",
-    "ngayhethan": "2026-04-27"
-  },
-  {
     "udid": "642E8137-607E-419E-BD61-64277619A123",
     "ten": "Lan Tuyền.skip",
     "ngaymua": "2026-03-28",
