@@ -4503,6 +4503,6 @@
     "udid": "D17B0AF6-33BC-4940-B147-CA136C3347B7",
     "ten": "Nhi.skip",
     "ngaymua": "2026-04-01",
-    "ngayhethan": "2026-06-30"
+    "ngayhethan": "2026-07-01"
   }
 ]
