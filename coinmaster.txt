@@ -4531,8 +4531,8 @@
   },
   {
     "udid": "C4512603-0078-42F1-9E96-D9BBBFF225B4",
-    "ten": "Huy Trọng",
+    "ten": "Huy Trọng.skip",
     "ngaymua": "2026-04-01",
-    "ngayhethan": "2026-05-31"
+    "ngayhethan": "2026-06-01"
   }
 ]
