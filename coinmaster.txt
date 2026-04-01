@@ -4504,5 +4504,11 @@
     "ten": "Nhi.skip",
     "ngaymua": "2026-04-01",
     "ngayhethan": "2026-07-01"
+  },
+  {
+    "udid": "67B20928-D477-4D2F-8047-7331A21DF90C",
+    "ten": "Hữu Phát",
+    "ngaymua": "2026-04-01",
+    "ngayhethan": "2026-07-30"
   }
 ]
