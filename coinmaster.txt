@@ -2941,9 +2941,9 @@
   },
   {
     "udid": "E8D867F3-A798-4F11-B4CD-B77F4B5071EF",
-    "ten": "Tài Báo.skip",
+    "ten": "Tài.skip",
     "ngaymua": "2026-01-30",
-    "ngayhethan": "2026-04-01"
+    "ngayhethan": "2026-05-02"
   },
   {
     "udid": "E8D867F3-A798-4F11-B4CD-B77F4B5071EF.skip",
