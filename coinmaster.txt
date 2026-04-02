@@ -4540,5 +4540,11 @@
     "ten": "ชื่อ น้ำเพชร.skip",
     "ngaymua": "2026-04-01",
     "ngayhethan": "2026-06-01"
+  },
+  {
+    "udid": "DE3F2D57-A588-40E8-B5A0-4A411CE8E424",
+    "ten": "Triển.skip",
+    "ngaymua": "2026-04-02",
+    "ngayhethan": "2026-05-02"
   }
 ]
