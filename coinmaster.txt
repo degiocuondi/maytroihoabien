@@ -4546,5 +4546,11 @@
     "ten": "Triển.skip",
     "ngaymua": "2026-04-02",
     "ngayhethan": "2026-05-02"
+  },
+  {
+    "udid": "FC94BE90-108C-4243-834A-BC4E58C7312A",
+    "ten": "Nhi.skip",
+    "ngaymua": "2026-04-03",
+    "ngayhethan": "2026-05-03"
   }
 ]
