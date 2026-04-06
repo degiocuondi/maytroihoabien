@@ -4606,5 +4606,11 @@
     "ten": "Trương Tuyển.skip",
     "ngaymua": "2026-04-06",
     "ngayhethan": "2026-07-15"
+  },
+  {
+    "udid": "4BAEAA01-CF3B-430D-945C-C7729888EA32",
+    "ten": "Văn Trọng",
+    "ngaymua": "2026-04-06",
+    "ngayhethan": "2026-05-06"
   }
 ]
