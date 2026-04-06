@@ -4603,7 +4603,7 @@
   },
   {
     "udid": "FB4F619D-5DBB-419D-897B-E7989F84295D",
-    "ten": "Trương Tuyển",
+    "ten": "Trương Tuyển.skip",
     "ngaymua": "2026-04-06",
     "ngayhethan": "2026-07-15"
   }
