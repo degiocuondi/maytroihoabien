@@ -4624,5 +4624,11 @@
     "ten": "Sơn",
     "ngaymua": "2026-04-07",
     "ngayhethan": "2026-04-16"
+  },
+  {
+    "udid": "A05ED8AD-CB3E-4BE7-8600-FFDC862E7EE7",
+    "ten": "Nhật.skip",
+    "ngaymua": "2026-04-08",
+    "ngayhethan": "2026-05-08"
   }
 ]
