@@ -4666,5 +4666,11 @@
     "ten": "Nhật Hào.skip",
     "ngaymua": "2026-04-10",
     "ngayhethan": "2026-06-24"
+  },
+  {
+    "udid": "58869445-CB00-42D5-AC64-47C01B72CC56",
+    "ten": "Việt",
+    "ngaymua": "2026-04-10",
+    "ngayhethan": "2026-05-10"
   }
 ]
