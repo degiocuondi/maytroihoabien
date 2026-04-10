@@ -3103,9 +3103,9 @@
   },
   {
     "udid": "483CF187-0C93-4A37-A126-4686F0F3CFBA",
-    "ten": "Thông Hunter",
+    "ten": "Thông Hunter.skip",
     "ngaymua": "2026-02-05",
-    "ngayhethan": "2026-10-14"
+    "ngayhethan": "2026-11-06"
   },
   {
     "udid": "8CA9FDDE-4F0D-4CD6-A13D-8DABD115EB31",
