@@ -4660,5 +4660,11 @@
     "ten": "Nam Vương",
     "ngaymua": "2026-04-10",
     "ngayhethan": "2026-05-10"
+  },
+  {
+    "udid": "7AF0D7C3-4EDD-4C4E-8F3D-DBB49F27DA47",
+    "ten": "Nhật Hào.skip",
+    "ngaymua": "2026-04-10",
+    "ngayhethan": "2026-06-24"
   }
 ]
