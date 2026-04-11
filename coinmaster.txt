@@ -1657,7 +1657,7 @@
   },
   {
     "udid": "9511CF92-1443-4512-9350-9B36B511C952",
-    "ten": "Thu Hằng.skip",
+    "ten": "Thu Hằng",
     "ngaymua": "2026-01-07",
     "ngayhethan": "2026-05-11"
   },
