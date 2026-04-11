@@ -3558,12 +3558,6 @@
     "ngayhethan": "2026-03-25"
   },
   {
-    "udid": "24298BA5-2847-45AF-BE52-5D0B5570F6DA",
-    "ten": "Xuân Linh",
-    "ngaymua": "2026-02-28",
-    "ngayhethan": "2026-04-30"
-  },
-  {
     "udid": "D5BBA260-4F64-44C9-93CB-B1D3FDC5FCEA",
     "ten": "Nguyễn Thanh",
     "ngaymua": "2026-02-28",
