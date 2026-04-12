@@ -4660,5 +4660,11 @@
     "ten": "Minh Đức.skip",
     "ngaymua": "2026-04-12",
     "ngayhethan": "2026-05-12"
+  },
+  {
+    "udid": "D58E77AD-DF77-4EB5-8B54-3301EA44345C",
+    "ten": "Hữu Nhân.skip",
+    "ngaymua": "2026-04-13",
+    "ngayhethan": "2026-06-19"
   }
 ]
