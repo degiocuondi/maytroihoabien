@@ -4317,7 +4317,7 @@
     "udid": "27DB4D30-B8C8-4D79-B71A-815196C89617",
     "ten": "Tài Báo",
     "ngaymua": "2026-03-25",
-    "ngayhethan": "2026-03-28"
+    "ngayhethan": "2026-04-19"
   },
   {
     "udid": "E9FE26E7-FC6B-4060-91AD-12D8D6A09800",
