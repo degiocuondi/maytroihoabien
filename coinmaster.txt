@@ -4672,5 +4672,11 @@
     "ten": "Lvh Khói",
     "ngaymua": "2026-04-12",
     "ngayhethan": "2026-05-04"
+  },
+  {
+    "udid": "5B29393B-0EE9-40A5-9F89-047FB346E6B6",
+    "ten": "Minh Vương",
+    "ngaymua": "2026-04-12",
+    "ngayhethan": "2026-05-12"
   }
 ]
