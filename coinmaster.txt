@@ -3756,12 +3756,6 @@
     "ngayhethan": "2026-04-10"
   },
   {
-    "udid": "E7EA0B9B-D6A4-4C27-B379-C56AE48596C7",
-    "ten": "Hữu Nhân.skip",
-    "ngaymua": "2026-03-11",
-    "ngayhethan": "2026-06-20"
-  },
-  {
     "udid": "99D16854-6946-46BA-8075-997CF2A56821",
     "ten": "Vịnh Bango.skip",
     "ngaymua": "2026-03-11",
