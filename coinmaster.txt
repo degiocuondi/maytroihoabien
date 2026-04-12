@@ -3831,7 +3831,7 @@
     "udid": "113AA256-22B1-4D38-BBC6-D4D224CFBC66",
     "ten": "Mali.skip",
     "ngaymua": "2026-03-12",
-    "ngayhethan": "2026-04-11"
+    "ngayhethan": "2026-05-12"
   },
   {
     "udid": "43821CE5-A5E9-4B14-8B1F-7AD0EDD4E5BF",
