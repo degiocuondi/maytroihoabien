@@ -3732,12 +3732,6 @@
     "ngayhethan": "2026-04-09"
   },
   {
-    "udid": "73CDA6AD-1ACA-43E9-B3BB-9F9375C31BE2",
-    "ten": "Aom.skip",
-    "ngaymua": "2026-03-10",
-    "ngayhethan": "2026-05-20"
-  },
-  {
     "udid": "3E7BEDEB-2E70-4651-B7D0-E073F65B66D4",
     "ten": "Đỗ Vinh",
     "ngaymua": "2026-03-10",
