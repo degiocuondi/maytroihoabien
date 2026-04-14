@@ -3678,12 +3678,6 @@
     "ngayhethan": "2026-07-21"
   },
   {
-    "udid": "6164075C-D5BC-455D-A056-AD4DBE4F7028",
-    "ten": "Thương Thương.skip",
-    "ngaymua": "2026-03-09",
-    "ngayhethan": "2026-05-08"
-  },
-  {
     "udid": "627A25F1-85A6-4F4C-8600-43594DA12350",
     "ten": "Praiya.skip",
     "ngaymua": "2026-03-09",
