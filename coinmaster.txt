@@ -4702,5 +4702,11 @@
     "ten": "Huy Hoang",
     "ngaymua": "2026-04-14",
     "ngayhethan": "2026-07-23"
+  },
+  {
+    "udid": "251949EF-D289-4423-826D-3185E892B2D6",
+    "ten": "Thương Thương.skip",
+    "ngaymua": "2026-04-14",
+    "ngayhethan": "2026-05-08"
   }
 ]
