@@ -4506,12 +4506,6 @@
     "ngayhethan": "2026-05-04"
   },
   {
-    "udid": "15816DCE-62CE-46E4-89E4-D6060D708B11",
-    "ten": "Quốc Nam.skip",
-    "ngaymua": "2026-04-04",
-    "ngayhethan": "2026-05-04"
-  },
-  {
     "udid": "ADEBDE54-ED0A-46E4-858C-16064E7048C1",
     "ten": "Quang Trung",
     "ngaymua": "2026-04-04",
