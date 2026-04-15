@@ -4708,5 +4708,11 @@
     "ten": "Thương Thương.skip",
     "ngaymua": "2026-04-14",
     "ngayhethan": "2026-05-08"
+  },
+  {
+    "udid": "E34CEA65-82C1-4973-A82B-B022ABFBDCD8",
+    "ten": "Văn Tiến.skip",
+    "ngaymua": "2026-04-15",
+    "ngayhethan": "2026-06-29"
   }
 ]
