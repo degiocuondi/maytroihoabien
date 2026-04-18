@@ -3504,12 +3504,6 @@
     "ngayhethan": "2026-07-09"
   },
   {
-    "udid": "92D6E926-2E21-4F82-B3DA-772A6CC6C0EE",
-    "ten": "Nguyễn Bình.skip",
-    "ngaymua": "2026-02-27",
-    "ngayhethan": "2026-06-17"
-  },
-  {
     "udid": "6810D9CD-1326-4CA0-9BF5-085F55041F94",
     "ten": "Boy.skip",
     "ngaymua": "2026-02-27",
