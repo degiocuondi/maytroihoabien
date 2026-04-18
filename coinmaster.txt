@@ -4774,5 +4774,11 @@
     "ten": "Bé Bee.skip",
     "ngaymua": "2026-04-18",
     "ngayhethan": "2026-05-18"
+  },
+  {
+    "udid": "92D6E926-2E21-4F82-B3DA-772A6CC6C0EE",
+    "ten": "Nguyễn Bình.skip",
+    "ngaymua": "2026-04-18",
+    "ngayhethan": "2026-06-17"
   }
 ]
