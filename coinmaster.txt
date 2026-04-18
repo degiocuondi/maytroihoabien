@@ -4768,5 +4768,11 @@
     "ten": "Nguyễn Bình.skip",
     "ngaymua": "2026-04-18",
     "ngayhethan": "2026-06-17"
+  },
+  {
+    "udid": "ECFCFA64-83B3-46CD-A064-86CE49E59236",
+    "ten": "Vang Nguyen",
+    "ngaymua": "2026-04-18",
+    "ngayhethan": "2026-07-02"
   }
 ]
