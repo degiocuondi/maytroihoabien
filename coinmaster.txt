@@ -1513,9 +1513,9 @@
   },
   {
     "udid": "D44718B6-8094-40E9-BD9F-11C8A9110FC2",
-    "ten": "Nguyễn Bình",
+    "ten": "Nguyễn Bình.skip",
     "ngaymua": "2026-01-03",
-    "ngayhethan": "2026-04-03"
+    "ngayhethan": "2026-06-17"
   },
   {
     "udid": "41E12172-A367-4B1E-AEF1-4812FA86AA29",
