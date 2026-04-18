@@ -4774,5 +4774,11 @@
     "ten": "Minh Tiến",
     "ngaymua": "2026-04-18",
     "ngayhethan": "2026-05-18"
+  },
+  {
+    "udid": "5F1DC2F9-D864-491D-959D-C37F3EF5CDA6",
+    "ten": "Vũ Shin",
+    "ngaymua": "2026-04-18",
+    "ngayhethan": "2026-06-26"
   }
 ]
