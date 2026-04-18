@@ -1927,9 +1927,9 @@
   },
   {
     "udid": "BF07956A-7A97-4DDC-9033-46031B4879C9",
-    "ten": "Tiến.skip",
+    "ten": "Tiến",
     "ngaymua": "2026-01-11",
-    "ngayhethan": "2026-02-09"
+    "ngayhethan": "2026-07-27"
   },
   {
     "udid": "1AA6C680-5FF4-46B9-91CA-E58CC2737D62",
