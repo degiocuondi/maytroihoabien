@@ -4738,5 +4738,11 @@
     "ten": "Khắc Vũ",
     "ngaymua": "2026-04-17",
     "ngayhethan": "2026-05-17"
+  },
+  {
+    "udid": "050A49FC-EA74-4BA0-A0F0-9CE5A45B5F86",
+    "ten": "Đức Tuyên.skip",
+    "ngaymua": "2026-04-18",
+    "ngayhethan": "2026-07-27"
   }
 ]
