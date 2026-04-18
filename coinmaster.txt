@@ -4774,5 +4774,11 @@
     "ten": "Vang Nguyen",
     "ngaymua": "2026-04-18",
     "ngayhethan": "2026-07-02"
+  },
+  {
+    "udid": "A43F5921-C799-4437-9B2B-74A320EBFE6C",
+    "ten": "Minh Tiến",
+    "ngaymua": "2026-04-18",
+    "ngayhethan": "2026-05-18"
   }
 ]
