@@ -4816,5 +4816,11 @@
     "ten": "Hoàng Giang.skip",
     "ngaymua": "2026-04-19",
     "ngayhethan": "2026-07-28"
+  },
+  {
+    "udid": "4E79C247-555D-4ED0-B8F1-529BB9A81AF5",
+    "ten": "Din.skip",
+    "ngaymua": "2026-04-19",
+    "ngayhethan": "2026-05-19"
   }
 ]
