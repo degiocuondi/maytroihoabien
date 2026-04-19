@@ -4476,12 +4476,6 @@
     "ngayhethan": "2026-06-04"
   },
   {
-    "udid": "E79E34D1-AFE2-4773-819A-E5611606EE1D",
-    "ten": "Hung Nguyen",
-    "ngaymua": "2026-04-05",
-    "ngayhethan": "2026-07-14"
-  },
-  {
     "udid": "876EEA86-BDDB-43B9-A9E1-09679E6A0C25",
     "ten": "Chanz",
     "ngaymua": "2026-04-06",
