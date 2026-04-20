@@ -4852,5 +4852,11 @@
     "ten": "Long Nhật.skip",
     "ngaymua": "2026-04-20",
     "ngayhethan": "2026-05-20"
+  },
+  {
+    "udid": "6AE76D63-7857-4D02-BCBD-34B6854F96CE",
+    "ten": "Thu",
+    "ngaymua": "2026-04-20",
+    "ngayhethan": "2026-05-20"
   }
 ]
