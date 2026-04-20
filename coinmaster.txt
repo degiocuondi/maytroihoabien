@@ -4858,5 +4858,11 @@
     "ten": "Hiếu",
     "ngaymua": "2026-04-20",
     "ngayhethan": "2026-05-20"
+  },
+  {
+    "udid": "C4512603-0078-42F1-9E96-D9BBBFF225B4",
+    "ten": "Huy Trọng.skip",
+    "ngaymua": "2026-04-21",
+    "ngayhethan": "2026-06-02"
   }
 ]
