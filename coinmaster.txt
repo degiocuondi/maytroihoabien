@@ -4830,12 +4830,6 @@
     "ngayhethan": "2026-05-19"
   },
   {
-    "udid": "ED83467A-EE9A-479B-899D-64F12004D50E",
-    "ten": "Tờ Pi",
-    "ngaymua": "2026-04-20",
-    "ngayhethan": "2026-10-07"
-  },
-  {
     "udid": "49099D24-B829-4FAA-9D82-7C4C414F952C",
     "ten": "Trọng Tín",
     "ngaymua": "2026-04-20",
