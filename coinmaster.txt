@@ -480,12 +480,6 @@
     "ngayhethan": "2026-03-08"
   },
   {
-    "udid": "4147A332-9EE3-41FA-8C74-EA75FF2238CB",
-    "ten": "Trọng Tín",
-    "ngaymua": "2025-12-09",
-    "ngayhethan": "2026-07-19"
-  },
-  {
     "udid": "A8A45DAF-F0CD-4814-86B9-4827513964E1",
     "ten": "Điển Doanh",
     "ngaymua": "2025-12-09",
