@@ -4410,12 +4410,6 @@
     "ngayhethan": "2026-07-30"
   },
   {
-    "udid": "C4512603-0078-42F1-9E96-D9BBBFF225B4",
-    "ten": "Huy Trọng.skip",
-    "ngaymua": "2026-04-01",
-    "ngayhethan": "2026-06-01"
-  },
-  {
     "udid": "6E661F4F-0D25-470C-A038-404C9CCDF7B9",
     "ten": "ชื่อ น้ำเพชร.skip",
     "ngaymua": "2026-04-01",
