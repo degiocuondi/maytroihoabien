@@ -4864,5 +4864,11 @@
     "ten": "Huy Trần.skip",
     "ngaymua": "2026-04-21",
     "ngayhethan": "2026-07-30"
+  },
+  {
+    "udid": "75A1B72D-4BD9-487A-AE27-92F15FED61BC",
+    "ten": "Trung Kiên",
+    "ngaymua": "2026-04-22",
+    "ngayhethan": "2026-06-22"
   }
 ]
