@@ -4870,5 +4870,11 @@
     "ten": "Trung Kiên",
     "ngaymua": "2026-04-22",
     "ngayhethan": "2026-06-23"
+  },
+  {
+    "udid": "60E19046-FBB1-4154-B4FD-7619C6E42710",
+    "ten": "Bá Long.skip",
+    "ngaymua": "2026-04-22",
+    "ngayhethan": "2026-07-31"
   }
 ]
