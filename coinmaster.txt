@@ -4900,5 +4900,11 @@
     "ten": "Lvh Khói",
     "ngaymua": "2026-04-23",
     "ngayhethan": "2026-05-04"
+  },
+  {
+    "udid": "FA1ADC17-165A-486F-9262-0430E26852FC",
+    "ten": "Quang Hải.skip",
+    "ngaymua": "2026-04-23",
+    "ngayhethan": "2026-08-11"
   }
 ]
