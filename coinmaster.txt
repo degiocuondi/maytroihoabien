@@ -3978,12 +3978,6 @@
     "ngayhethan": "2026-05-17"
   },
   {
-    "udid": "9EF06022-5C30-4D57-B3BF-6D00FD123EB9",
-    "ten": "Đông Hy",
-    "ngaymua": "2026-03-17",
-    "ngayhethan": "2026-06-25"
-  },
-  {
     "udid": "4782D699-46C7-4836-B364-26D7CAC95B42",
     "ten": "Hoàn Tuyên",
     "ngaymua": "2026-03-17",
