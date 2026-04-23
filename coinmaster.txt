@@ -4888,5 +4888,11 @@
     "ten": "Trương Tuyền.skip",
     "ngaymua": "2026-04-23",
     "ngayhethan": "2026-07-16"
+  },
+  {
+    "udid": "39BE54E7-4A48-4070-8C36-6E60056E7C1F",
+    "ten": "Long Quân",
+    "ngaymua": "2026-04-23",
+    "ngayhethan": "2026-05-23"
   }
 ]
