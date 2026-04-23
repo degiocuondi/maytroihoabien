@@ -2976,12 +2976,6 @@
     "ngayhethan": "2026-07-15"
   },
   {
-    "udid": "1E235450-717F-474B-BBA3-9AB5858C495B",
-    "ten": "Quang Hải.skip",
-    "ngaymua": "2026-02-02",
-    "ngayhethan": "2026-05-03"
-  },
-  {
     "udid": "6EB953E0-5A18-4C66-97A9-142EA83B1B92",
     "ten": "Na Nè",
     "ngaymua": "2026-02-02",
