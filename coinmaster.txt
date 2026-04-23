@@ -4716,12 +4716,6 @@
     "ngayhethan": "2026-05-18"
   },
   {
-    "udid": "5F1DC2F9-D864-491D-959D-C37F3EF5CDA6",
-    "ten": "Vũ Shin",
-    "ngaymua": "2026-04-18",
-    "ngayhethan": "2026-06-26"
-  },
-  {
     "udid": "F06B0B24-0A2A-47E7-8347-90C332CD6070",
     "ten": "Mạnh Đức",
     "ngaymua": "2026-04-18",
