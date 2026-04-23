@@ -4894,5 +4894,11 @@
     "ten": "Vũ Shin",
     "ngaymua": "2026-04-23",
     "ngayhethan": "2026-06-26"
+  },
+  {
+    "udid": "06F08F12-BC29-455A-9C19-005F5388DE01",
+    "ten": "Ng Hung",
+    "ngaymua": "2026-04-23",
+    "ngayhethan": "2026-05-23"
   }
 ]
