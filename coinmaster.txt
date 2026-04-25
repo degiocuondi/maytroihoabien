@@ -4936,5 +4936,11 @@
     "ten": "Lan Tuyền.skip",
     "ngaymua": "2026-04-25",
     "ngayhethan": "2026-05-12"
+  },
+  {
+    "udid": "B001398C-97B7-44F1-BF99-7147C4508803",
+    "ten": "Huy Trần.skip",
+    "ngaymua": "2026-04-25",
+    "ngayhethan": "2026-07-28"
   }
 ]
