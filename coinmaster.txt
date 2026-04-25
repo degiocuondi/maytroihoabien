@@ -4830,12 +4830,6 @@
     "ngayhethan": "2026-07-31"
   },
   {
-    "udid": "49851AA0-915D-4636-8EEC-38504804A98F",
-    "ten": "Huy Trần.skip",
-    "ngaymua": "2026-04-22",
-    "ngayhethan": "2026-07-30"
-  },
-  {
     "udid": "E010F5A1-2C64-48CD-AD8C-3119EA43FB08",
     "ten": "Đình Huấn.skip",
     "ngaymua": "2026-04-22",
