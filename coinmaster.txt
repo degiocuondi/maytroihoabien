@@ -3390,12 +3390,6 @@
     "ngayhethan": "2026-06-15"
   },
   {
-    "udid": "79AF1A69-4D46-4624-9DB0-2F0A77A78EF0",
-    "ten": "Thu Trà.skip",
-    "ngaymua": "2026-02-25",
-    "ngayhethan": "2026-06-25"
-  },
-  {
     "udid": "565DD795-F382-4550-86C3-D8AAD538B208",
     "ten": "Kim Ngọc",
     "ngaymua": "2026-02-25",
