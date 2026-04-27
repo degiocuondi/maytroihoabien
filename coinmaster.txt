@@ -4812,12 +4812,6 @@
     "ngayhethan": "2026-05-20"
   },
   {
-    "udid": "C4512603-0078-42F1-9E96-D9BBBFF225B4",
-    "ten": "Huy Trọng.skip",
-    "ngaymua": "2026-04-21",
-    "ngayhethan": "2026-06-01"
-  },
-  {
     "udid": "75A1B72D-4BD9-487A-AE27-92F15FED61BC",
     "ten": "Trung Kiên",
     "ngaymua": "2026-04-22",
