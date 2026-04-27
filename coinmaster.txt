@@ -4797,7 +4797,7 @@
     "udid": "60E19046-FBB1-4154-B4FD-7619C6E42710",
     "ten": "Bá Long.skip",
     "ngaymua": "2026-04-22",
-    "ngayhethan": "2026-07-31"
+    "ngayhethan": "2026-08-23"
   },
   {
     "udid": "E010F5A1-2C64-48CD-AD8C-3119EA43FB08",
