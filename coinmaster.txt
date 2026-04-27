@@ -4959,6 +4959,6 @@
     "udid": "BC5B97E8-8A7D-44B7-886F-E8F53359F4C8",
     "ten": "Huy Trọng.skip",
     "ngaymua": "2026-04-27",
-    "ngayhethan": "2026-05-31"
+    "ngayhethan": "2026-06-01"
   }
 ]
