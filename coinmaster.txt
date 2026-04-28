@@ -2727,7 +2727,7 @@
     "udid": "E6D1F64B-49D8-43D4-812F-00A961D0A39F",
     "ten": "Giang Còi",
     "ngaymua": "2026-01-27",
-    "ngayhethan": "2026-04-27"
+    "ngayhethan": "2026-08-26"
   },
   {
     "udid": "2FEFAC40-5730-4052-A2A4-7857A841B9C4",
