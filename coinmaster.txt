@@ -4977,7 +4977,7 @@
     "udid": "8F9C176D-9243-4D71-8A9F-D19FB0B626E6",
     "ten": "Trang.skip",
     "ngaymua": "2026-04-27",
-    "ngayhethan": "2026-05-30"
+    "ngayhethan": "2026-08-29"
   },
   {
     "udid": "8FDDFEDC-14F6-46CE-BB27-962C5ED0FA88",
