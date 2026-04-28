@@ -4317,7 +4317,7 @@
     "udid": "96382BCA-9BBA-42BC-94D3-BCC1ADDF1DAA",
     "ten": "Đức Giang.skip",
     "ngaymua": "2026-04-01",
-    "ngayhethan": "2026-08-26"
+    "ngayhethan": "2026-08-25"
   },
   {
     "udid": "D17B0AF6-33BC-4940-B147-CA136C3347B7",
