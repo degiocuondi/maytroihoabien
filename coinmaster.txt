@@ -4465,9 +4465,9 @@
   },
   {
     "udid": "58869445-CB00-42D5-AC64-47C01B72CC56",
-    "ten": "Việt",
+    "ten": "Việt.skip",
     "ngaymua": "2026-04-10",
-    "ngayhethan": "2026-05-10"
+    "ngayhethan": "2026-08-26"
   },
   {
     "udid": "0E70E6B1-D18A-4AAB-99FF-4FE398AFB4C8",
