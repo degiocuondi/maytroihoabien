@@ -3417,7 +3417,7 @@
     "udid": "6810D9CD-1326-4CA0-9BF5-085F55041F94",
     "ten": "Boy.skip",
     "ngaymua": "2026-02-27",
-    "ngayhethan": "2026-05-30"
+    "ngayhethan": "2026-05-29"
   },
   {
     "udid": "E3EB0CCD-E403-41FB-B9A6-1CACDFA1EAE9",
