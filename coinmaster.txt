@@ -3441,7 +3441,7 @@
     "udid": "ACD40817-B669-4B35-8279-21908B6121AE",
     "ten": "Xuân Lợi.skip",
     "ngaymua": "2026-03-01",
-    "ngayhethan": "2026-05-01"
+    "ngayhethan": "2026-06-30"
   },
   {
     "udid": "D3FA33FD-D039-4698-BCC0-A9BA411D2C28",
