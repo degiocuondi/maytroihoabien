@@ -4866,12 +4866,6 @@
     "ngayhethan": "2026-05-25"
   },
   {
-    "udid": "B001398C-97B7-44F1-BF99-7147C4508803",
-    "ten": "Huy Trần.skip",
-    "ngaymua": "2026-04-25",
-    "ngayhethan": "2026-07-30"
-  },
-  {
     "udid": "C5C38D9B-46BF-495E-8F75-673E2169F18C",
     "ten": "Xuân Hinh",
     "ngaymua": "2026-04-25",
