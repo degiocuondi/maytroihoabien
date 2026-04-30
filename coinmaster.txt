@@ -4996,5 +4996,11 @@
     "ten": "Huy Trần.skip",
     "ngaymua": "2026-04-30",
     "ngayhethan": "2026-08-13"
+  },
+  {
+    "udid": "F9A8912A-9549-4B0F-B0C5-42991E34D2F8",
+    "ten": "Tuấn 1.skip",
+    "ngaymua": "2026-04-30",
+    "ngayhethan": "2026-06-29"
   }
 ]
