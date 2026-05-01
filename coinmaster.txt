@@ -5050,5 +5050,11 @@
     "ten": "Việt Hà.skip",
     "ngaymua": "2026-05-01",
     "ngayhethan": "2026-08-29"
+  },
+  {
+    "udid": "F9C1A2B3-B856-4608-B736-594254D52C35",
+    "ten": "Trương Văn Duy.skip",
+    "ngaymua": "2026-05-01",
+    "ngayhethan": "2026-06-30"
   }
 ]
