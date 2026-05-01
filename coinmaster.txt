@@ -5062,5 +5062,11 @@
     "ten": "Khanh.skip",
     "ngaymua": "2026-05-01",
     "ngayhethan": "2026-08-04"
+  },
+  {
+    "udid": "63C4D49C-48A6-4CFB-8FBD-C634001F36B6",
+    "ten": "Din.skip",
+    "ngaymua": "2026-05-01",
+    "ngayhethan": "2026-05-19"
   }
 ]
