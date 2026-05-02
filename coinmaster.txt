@@ -4758,12 +4758,6 @@
     "ngayhethan": "2026-05-22"
   },
   {
-    "udid": "F8F8EF77-73B7-44D3-B4AC-4D4CBCF7CCE3",
-    "ten": "Lê Chân",
-    "ngaymua": "2026-04-22",
-    "ngayhethan": "2026-05-22"
-  },
-  {
     "udid": "DFFE629F-DF68-4E90-BF7F-1ED0C9BBFF84",
     "ten": "Trương Tuyền.skip",
     "ngaymua": "2026-04-23",
