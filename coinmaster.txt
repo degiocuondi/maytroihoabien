@@ -2517,7 +2517,7 @@
     "udid": "9DE8CB9F-0636-47A9-8D86-627CFC5656FD",
     "ten": "Mấy Giàu",
     "ngaymua": "2026-01-24",
-    "ngayhethan": "2026-05-13"
+    "ngayhethan": "2026-08-30"
   },
   {
     "udid": "F64C6D41-10C7-469E-A66B-06EC5F50423B",
