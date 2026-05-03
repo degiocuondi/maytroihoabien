@@ -5110,5 +5110,11 @@
     "ten": "Tài Báo free",
     "ngaymua": "2026-05-03",
     "ngayhethan": "2026-05-06"
+  },
+  {
+    "udid": "2F7CC50A-470A-433A-8D6C-7946295127A8",
+    "ten": "Việt Hùng.skip",
+    "ngaymua": "2026-05-03",
+    "ngayhethan": "2026-06-02"
   }
 ]
