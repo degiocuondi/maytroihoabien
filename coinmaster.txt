@@ -4836,12 +4836,6 @@
     "ngayhethan": "2026-05-25"
   },
   {
-    "udid": "C5C38D9B-46BF-495E-8F75-673E2169F18C",
-    "ten": "Xuân Hinh",
-    "ngaymua": "2026-04-25",
-    "ngayhethan": "2026-05-25"
-  },
-  {
     "udid": "677274B6-D7BD-44A9-98DF-A5B829800FD8",
     "ten": "Tháo Xe",
     "ngaymua": "2026-04-26",
