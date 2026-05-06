@@ -4579,9 +4579,9 @@
   },
   {
     "udid": "B2647D0F-B385-43B6-9092-7B89CFCF1F82",
-    "ten": "Xuân Nhật",
+    "ten": "Xuân Nhật.skip",
     "ngaymua": "2026-04-18",
-    "ngayhethan": "2026-07-27"
+    "ngayhethan": "2026-07-15"
   },
   {
     "udid": "C52D894B-32B2-447A-AFEF-2E17FACB28CB",
