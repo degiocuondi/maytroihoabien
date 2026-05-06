@@ -5158,5 +5158,11 @@
     "ten": "Ngoan Nhất Làng",
     "ngaymua": "2026-05-06",
     "ngayhethan": "2026-06-05"
+  },
+  {
+    "udid": "62F8CD29-B86B-4878-9D3F-2E5D749B2E5D",
+    "ten": "Xuân Nhật.skip",
+    "ngaymua": "2026-05-06",
+    "ngayhethan": "2026-07-15"
   }
 ]
