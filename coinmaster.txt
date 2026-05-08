@@ -2347,9 +2347,9 @@
   },
   {
     "udid": "5B0FEAF4-4DC1-4631-BF84-2BD64C43A825",
-    "ten": "Phúc Drak",
+    "ten": "Phúc Dark",
     "ngaymua": "2026-01-20",
-    "ngayhethan": "2026-03-16"
+    "ngayhethan": "2026-08-16"
   },
   {
     "udid": "A1357A33-3BC8-455E-9CF7-F2026529EC22",
