@@ -5176,5 +5176,11 @@
     "ten": "Mr Tón",
     "ngaymua": "2026-05-07",
     "ngayhethan": "2026-08-29"
+  },
+  {
+    "udid": "7736D99D-AFD5-47D4-9F83-1F752B739E9D",
+    "ten": "Hữu Nhân.skip",
+    "ngaymua": "2026-05-08",
+    "ngayhethan": "2026-07-27"
   }
 ]
