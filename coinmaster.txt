@@ -5224,5 +5224,11 @@
     "ten": "test.skip",
     "ngaymua": "2026-05-09",
     "ngayhethan": "2026-05-12"
+  },
+  {
+    "udid": "4EF58D67-0172-41B2-8BFF-37E606C020A0",
+    "ten": "Chaxyo.skip",
+    "ngaymua": "2026-05-09",
+    "ngayhethan": "2026-06-08"
   }
 ]
