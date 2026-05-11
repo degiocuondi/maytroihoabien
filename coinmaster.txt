@@ -5266,5 +5266,11 @@
     "ten": "Duyệt",
     "ngaymua": "2026-05-11",
     "ngayhethan": "2026-08-19"
+  },
+  {
+    "udid": "41DAD6CF-37F8-499A-ABBB-643BF23FBE11",
+    "ten": "Tài Báo",
+    "ngaymua": "2026-05-11",
+    "ngayhethan": "2026-06-10"
   }
 ]
