@@ -5242,5 +5242,11 @@
     "ten": "Hoàng Nước.skip",
     "ngaymua": "2026-05-10",
     "ngayhethan": "2026-06-09"
+  },
+  {
+    "udid": "9E5DD648-DF02-4334-B46E-CA53F7C07B8B",
+    "ten": "Thu Thảo.skip",
+    "ngaymua": "2026-05-11",
+    "ngayhethan": "2026-06-10"
   }
 ]
