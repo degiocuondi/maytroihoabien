@@ -5290,5 +5290,11 @@
     "ten": "Keble.skip",
     "ngaymua": "2026-05-13",
     "ngayhethan": "2026-06-12"
+  },
+  {
+    "udid": "711D81F5-0522-443E-B84D-27B9B6FC6E9B",
+    "ten": "Việt Cry.skip",
+    "ngaymua": "2026-05-13",
+    "ngayhethan": "2026-12-09"
   }
 ]
