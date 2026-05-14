@@ -5305,8 +5305,8 @@
   },
   {
     "udid": "AF14642C-013E-4902-B2A2-AC3231BEDBD4",
-    "ten": "Tiến",
+    "ten": "Tiến.skip",
     "ngaymua": "2026-05-14",
-    "ngayhethan": "2026-06-13"
+    "ngayhethan": "2026-08-22"
   }
 ]
