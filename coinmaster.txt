@@ -5320,5 +5320,11 @@
     "ten": "Chuyên Trần",
     "ngaymua": "2026-05-15",
     "ngayhethan": "2026-06-14"
+  },
+  {
+    "udid": "708EB090-7C08-49AC-9D51-79E862110FB2",
+    "ten": "Mini",
+    "ngaymua": "2026-05-15",
+    "ngayhethan": "2026-06-14"
   }
 ]
