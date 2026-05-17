@@ -5392,5 +5392,11 @@
     "ten": "Giang",
     "ngaymua": "2026-05-17",
     "ngayhethan": "2026-06-16"
+  },
+  {
+    "udid": "516953EE-6CD8-476E-9F69-D1DEAFA1F20A",
+    "ten": "Trường Giang.skip",
+    "ngaymua": "2026-05-17",
+    "ngayhethan": "2026-06-16"
   }
 ]
