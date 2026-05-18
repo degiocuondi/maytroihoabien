@@ -5434,5 +5434,11 @@
     "ten": "Long Nhật.skip",
     "ngaymua": "2026-05-18",
     "ngayhethan": "2026-06-15"
+  },
+  {
+    "udid": "BA21545B-D02C-47A1-844D-6507D50063B8",
+    "ten": "Vi Kiên",
+    "ngaymua": "2026-05-18",
+    "ngayhethan": "2026-06-17"
   }
 ]
