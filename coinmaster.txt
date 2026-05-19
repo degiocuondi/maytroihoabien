@@ -4069,9 +4069,9 @@
   },
   {
     "udid": "A219E1CD-B5DB-4E7A-9C94-548C1B6E4938",
-    "ten": "Yourrapon.skip",
+    "ten": "Khói.skip",
     "ngaymua": "2026-03-23",
-    "ngayhethan": "2026-05-18"
+    "ngayhethan": "2026-08-27"
   },
   {
     "udid": "119D750D-50C5-4E5B-AD0B-B07CB4C30777",
