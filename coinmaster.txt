@@ -5446,5 +5446,11 @@
     "ten": "Hoài Mi 1",
     "ngaymua": "2026-05-20",
     "ngayhethan": "2026-06-30"
+  },
+  {
+    "udid": "33077CF6-8494-4622-B6B7-11988E95AC16",
+    "ten": "Nguyễn Mạnh.skip",
+    "ngaymua": "2026-05-20",
+    "ngayhethan": "2026-08-28"
   }
 ]
