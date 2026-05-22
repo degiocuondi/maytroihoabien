@@ -5029,9 +5029,9 @@
   },
   {
     "udid": "A0773BAF-4165-4E81-85DA-DC305F175860",
-    "ten": "Đinh Hiếu.skip",
+    "ten": "Đinh Huấn.skip",
     "ngaymua": "2026-05-03",
-    "ngayhethan": "2026-05-22"
+    "ngayhethan": "2026-08-30"
   },
   {
     "udid": "BA245574-4564-4761-A7EF-035E03C135F3",
