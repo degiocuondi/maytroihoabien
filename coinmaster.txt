@@ -5506,5 +5506,11 @@
     "ten": "Minh Nhật",
     "ngaymua": "2026-05-23",
     "ngayhethan": "2026-06-22"
+  },
+  {
+    "udid": "6C02539B-5C43-4842-B60C-771E22C452C2",
+    "ten": "Long Quân.skip",
+    "ngaymua": "2026-05-23",
+    "ngayhethan": "2026-08-01"
   }
 ]
