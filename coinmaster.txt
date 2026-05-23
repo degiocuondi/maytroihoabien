@@ -4770,12 +4770,6 @@
     "ngayhethan": "2026-05-23"
   },
   {
-    "udid": "BCB0B588-9A84-420D-ACFB-BAE46EEBD9F1",
-    "ten": "Long Quân.skip",
-    "ngaymua": "2026-04-23",
-    "ngayhethan": "2026-08-01"
-  },
-  {
     "udid": "4FE8CD8D-79AF-4EFD-A31A-463B599FB0C0",
     "ten": "Vịnh Bango.skip",
     "ngaymua": "2026-04-23",
