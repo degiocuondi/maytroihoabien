@@ -5488,5 +5488,11 @@
     "ten": "Trần Huy",
     "ngaymua": "2026-05-23",
     "ngayhethan": "2026-06-22"
+  },
+  {
+    "udid": "A16B5352-88A5-404C-9DC9-39A7545FDB15",
+    "ten": "Admin Test.skip",
+    "ngaymua": "2026-05-23",
+    "ngayhethan": "2026-06-22"
   }
 ]
