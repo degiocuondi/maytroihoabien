@@ -3717,7 +3717,7 @@
     "udid": "C72435AD-40D8-41E2-B928-501FEE5F0E07",
     "ten": "Trường.skip",
     "ngaymua": "2026-03-13",
-    "ngayhethan": "2026-04-12"
+    "ngayhethan": "2026-06-25"
   },
   {
     "udid": "B0FD5858-7B53-4A61-8B8A-5C3ABEF4D8D4",
