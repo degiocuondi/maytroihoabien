@@ -4926,12 +4926,6 @@
     "ngayhethan": "2026-08-18"
   },
   {
-    "udid": "6B991EC8-4245-4D2D-AE34-8DA40C82BA42",
-    "ten": "Đức Huy.skip",
-    "ngaymua": "2026-04-30",
-    "ngayhethan": "2026-10-17"
-  },
-  {
     "udid": "17FAEAC6-BBA4-4BD5-A672-0899B47C710E",
     "ten": "Nguyễn Mạnh.skip",
     "ngaymua": "2026-05-01",
