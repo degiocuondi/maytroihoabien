@@ -4789,9 +4789,9 @@
   },
   {
     "udid": "344A631B-DD50-4A18-885A-06884F1CD10B",
-    "ten": "Bồ Công Anh",
+    "ten": "Bồ Công Anh.skip",
     "ngaymua": "2026-04-26",
-    "ngayhethan": "2026-05-26"
+    "ngayhethan": "2026-09-04"
   },
   {
     "udid": "52C2E250-5B80-4985-A3F4-EE60CCC6FE3D",
