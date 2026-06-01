@@ -5602,5 +5602,11 @@
     "ten": "Văn Thìn.skip",
     "ngaymua": "2026-06-01",
     "ngayhethan": "2026-09-09"
+  },
+  {
+    "udid": "BF5188EF-B076-446B-BF6F-EF5A940F62CC",
+    "ten": "Hoàng Khang",
+    "ngaymua": "2026-06-02",
+    "ngayhethan": "2026-08-01"
   }
 ]
