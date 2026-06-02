@@ -5602,5 +5602,11 @@
     "ten": "Hoàng Khang",
     "ngaymua": "2026-06-02",
     "ngayhethan": "2026-08-01"
+  },
+  {
+    "udid": "A6E509CF-527E-46BE-8679-03A03ED03E0C",
+    "ten": "Thu Thảo.skip",
+    "ngaymua": "2026-06-02",
+    "ngayhethan": "2026-07-12"
   }
 ]
