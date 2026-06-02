@@ -5184,12 +5184,6 @@
     "ngayhethan": "2026-06-09"
   },
   {
-    "udid": "9E5DD648-DF02-4334-B46E-CA53F7C07B8B",
-    "ten": "Thu Thảo.skip",
-    "ngaymua": "2026-05-11",
-    "ngayhethan": "2026-07-10"
-  },
-  {
     "udid": "424BD088-2A13-4912-8BC2-32436BC21196",
     "ten": "Phạm Thiện",
     "ngaymua": "2026-05-11",
