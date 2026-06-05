@@ -4977,7 +4977,7 @@
     "udid": "1A2B95EA-57E3-46A3-9B94-5E9724669CEB",
     "ten": "ชื่อ baron.skip",
     "ngaymua": "2026-05-02",
-    "ngayhethan": "2026-06-01"
+    "ngayhethan": "2026-07-05"
   },
   {
     "udid": "969D293F-724F-4C14-937E-4B06AE2F9D49",
