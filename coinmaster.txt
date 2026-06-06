@@ -5632,5 +5632,11 @@
     "ten": "New.skip",
     "ngaymua": "2026-06-06",
     "ngayhethan": "2026-07-06"
+  },
+  {
+    "udid": "FE65CB92-F122-4044-AC83-067F2B061DA1",
+    "ten": "Hoàng Nam",
+    "ngaymua": "2026-06-06",
+    "ngayhethan": "2026-10-04"
   }
 ]
