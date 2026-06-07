@@ -5656,5 +5656,11 @@
     "ten": "Minh Đức.skip",
     "ngaymua": "2026-06-07",
     "ngayhethan": "2026-07-07"
+  },
+  {
+    "udid": "551E1833-09E9-44E2-B5E1-6A07160F67A1",
+    "ten": "Minh Trí",
+    "ngaymua": "2026-06-07",
+    "ngayhethan": "2026-09-15"
   }
 ]
