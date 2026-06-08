@@ -5704,5 +5704,11 @@
     "ten": "Đinh Thắng",
     "ngaymua": "2026-06-08",
     "ngayhethan": "2026-07-08"
+  },
+  {
+    "udid": "60E99001-5012-42C4-B137-3D313429A7E3",
+    "ten": "Nguyễn Sơn.skip",
+    "ngaymua": "2026-06-08",
+    "ngayhethan": "2026-09-16"
   }
 ]
