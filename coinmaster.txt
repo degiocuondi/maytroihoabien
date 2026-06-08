@@ -5710,5 +5710,11 @@
     "ten": "Lê Huy.skip",
     "ngaymua": "2026-06-08",
     "ngayhethan": "2026-09-21"
+  },
+  {
+    "udid": "7F1CB149-1B93-44CE-9B31-C92C39853FA8",
+    "ten": "Trung",
+    "ngaymua": "2026-06-08",
+    "ngayhethan": "2026-06-22"
   }
 ]
