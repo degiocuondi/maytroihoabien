@@ -5418,12 +5418,6 @@
     "ngayhethan": "2026-06-22"
   },
   {
-    "udid": "DBD52EB4-30F2-4C52-8F44-004C2B512DE6",
-    "ten": "Trung",
-    "ngaymua": "2026-05-23",
-    "ngayhethan": "2026-06-22"
-  },
-  {
     "udid": "D30B1E08-F956-4A58-8521-181AD60C1DDD",
     "ten": "Trần Huy",
     "ngaymua": "2026-05-23",
