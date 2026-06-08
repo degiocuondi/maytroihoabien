@@ -5710,5 +5710,11 @@
     "ten": "Nguyễn Sơn.skip",
     "ngaymua": "2026-06-08",
     "ngayhethan": "2026-09-16"
+  },
+  {
+    "udid": "DF1C52A3-6A98-46B9-82F1-6D0C0B1351EA",
+    "ten": "Lê Huy.skip",
+    "ngaymua": "2026-06-08",
+    "ngayhethan": "2026-09-21"
   }
 ]
