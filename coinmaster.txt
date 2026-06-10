@@ -5758,5 +5758,11 @@
     "ten": "Nghĩa Nghĩa",
     "ngaymua": "2026-06-09",
     "ngayhethan": "2026-07-09"
+  },
+  {
+    "udid": "C459F174-E63C-4B5C-BD32-75D02DE3B48B",
+    "ten": "Hồng Sơn.skip",
+    "ngaymua": "2026-06-10",
+    "ngayhethan": "2026-07-10"
   }
 ]
