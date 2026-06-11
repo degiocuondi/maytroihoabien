@@ -5794,5 +5794,11 @@
     "ten": "Tuấn Kiệt.skip",
     "ngaymua": "2026-06-11",
     "ngayhethan": "2026-07-11"
+  },
+  {
+    "udid": "1CFEF87A-446B-4457-805A-7D48DC279FF8",
+    "ten": "Thanh Dat.skip",
+    "ngaymua": "2026-06-11",
+    "ngayhethan": "2026-07-11"
   }
 ]
