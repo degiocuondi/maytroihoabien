@@ -5586,12 +5586,6 @@
     "ngayhethan": "2026-07-04"
   },
   {
-    "udid": "B5A37949-CA5A-4753-8621-61C3FDADD7BE",
-    "ten": "Tuấn Hùng",
-    "ngaymua": "2026-06-04",
-    "ngayhethan": "2026-07-04"
-  },
-  {
     "udid": "88E50A74-9D35-4587-8455-9DE386614740",
     "ten": "ชื่อ Pisit.skip",
     "ngaymua": "2026-06-05",
