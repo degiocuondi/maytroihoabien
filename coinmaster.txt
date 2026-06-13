@@ -5694,12 +5694,6 @@
     "ngayhethan": "2026-09-21"
   },
   {
-    "udid": "7F1CB149-1B93-44CE-9B31-C92C39853FA8",
-    "ten": "Trung",
-    "ngaymua": "2026-06-08",
-    "ngayhethan": "2026-06-22"
-  },
-  {
     "udid": "1A5B4B1F-954C-423B-9474-349F2E10915C",
     "ten": "M Đức",
     "ngaymua": "2026-06-08",
