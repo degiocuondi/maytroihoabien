@@ -5866,5 +5866,11 @@
     "ten": "Bảo Ty",
     "ngaymua": "2026-06-14",
     "ngayhethan": "2026-07-08"
+  },
+  {
+    "udid": "2A885D84-84BB-4286-8E2F-39DBE5960E97",
+    "ten": "Minh Thuận.skip",
+    "ngaymua": "2026-06-14",
+    "ngayhethan": "2026-10-02"
   }
 ]
