@@ -5854,5 +5854,11 @@
     "ten": "Minh Huệ.skip",
     "ngaymua": "2026-06-14",
     "ngayhethan": "2026-09-27"
+  },
+  {
+    "udid": "2B0B50A9-C0CF-4C3E-8A1A-3516BE49C4F7",
+    "ten": "Minh Du",
+    "ngaymua": "2026-06-14",
+    "ngayhethan": "2026-07-14"
   }
 ]
