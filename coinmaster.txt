@@ -5872,5 +5872,11 @@
     "ten": "Minh Thuận.skip",
     "ngaymua": "2026-06-14",
     "ngayhethan": "2026-10-02"
+  },
+  {
+    "udid": "414F6BA3-04E2-4515-B00D-219CAA201F90",
+    "ten": "Hoài Nam.skip",
+    "ngaymua": "2026-06-14",
+    "ngayhethan": "2026-07-14"
   }
 ]
