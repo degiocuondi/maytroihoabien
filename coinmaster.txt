@@ -5848,5 +5848,11 @@
     "ten": "Công Minh",
     "ngaymua": "2026-06-14",
     "ngayhethan": "2026-07-14"
+  },
+  {
+    "udid": "BB4D023A-9FA1-4981-9496-B974C01F988E",
+    "ten": "Minh Huệ.skip",
+    "ngaymua": "2026-06-14",
+    "ngayhethan": "2026-09-27"
   }
 ]
