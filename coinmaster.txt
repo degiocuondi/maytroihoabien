@@ -2574,12 +2574,6 @@
     "ngayhethan": "2026-03-24"
   },
   {
-    "udid": "CBE952D5-281B-477A-9C64-2773964A96CA",
-    "ten": "Liên Nguyễn",
-    "ngaymua": "2026-01-25",
-    "ngayhethan": "2026-08-04"
-  },
-  {
     "udid": "7A6CD56D-8FD2-44AE-9C70-5950DAAF3B22",
     "ten": "ธรรมนูญ.skip",
     "ngaymua": "2026-01-25",
