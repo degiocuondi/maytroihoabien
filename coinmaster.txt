@@ -2682,12 +2682,6 @@
     "ngayhethan": "2026-08-26"
   },
   {
-    "udid": "2FEFAC40-5730-4052-A2A4-7857A841B9C4",
-    "ten": "Kiệt Kuto",
-    "ngaymua": "2026-01-27",
-    "ngayhethan": "2026-07-26"
-  },
-  {
     "udid": "FA33CF5A-6FD0-4B85-B793-6212122827BE",
     "ten": "Trọng Duy",
     "ngaymua": "2026-01-27",
