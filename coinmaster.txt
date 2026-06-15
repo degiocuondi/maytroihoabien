@@ -5275,9 +5275,9 @@
   },
   {
     "udid": "DCE601FA-5926-4847-97B0-1F0E9389F9DF",
-    "ten": "Lê Hoàng Thiết",
+    "ten": "Hoàng Thiết",
     "ngaymua": "2026-05-15",
-    "ngayhethan": "2026-06-14"
+    "ngayhethan": "2026-08-14"
   },
   {
     "udid": "F94C140A-D8E0-4A12-90F1-2B3C50EA0FA8",
