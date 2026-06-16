@@ -5908,5 +5908,11 @@
     "ten": "Kha.skip",
     "ngaymua": "2026-06-16",
     "ngayhethan": "2026-09-29"
+  },
+  {
+    "udid": "3F957531-F84A-4824-9F0C-2DFECA494126",
+    "ten": "Hà Bắc",
+    "ngaymua": "2026-06-16",
+    "ngayhethan": "2026-09-24"
   }
 ]
