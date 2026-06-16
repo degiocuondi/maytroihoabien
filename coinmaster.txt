@@ -5331,7 +5331,7 @@
     "udid": "FE5C099D-F752-48AC-9429-40A6F124606C",
     "ten": "Long Nhật.skip",
     "ngaymua": "2026-05-18",
-    "ngayhethan": "2026-06-15"
+    "ngayhethan": "2026-07-16"
   },
   {
     "udid": "BA21545B-D02C-47A1-844D-6507D50063B8",
