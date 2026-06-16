@@ -3315,7 +3315,7 @@
     "udid": "4C8F715E-63F3-4206-A843-CF200A868302",
     "ten": "Minh Long.skip",
     "ngaymua": "2026-02-24",
-    "ngayhethan": "2026-10-03"
+    "ngayhethan": "2026-10-04"
   },
   {
     "udid": "565DD795-F382-4550-86C3-D8AAD538B208",
