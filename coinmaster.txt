@@ -5902,5 +5902,11 @@
     "ten": "Sơn Lâm.skip",
     "ngaymua": "2026-06-16",
     "ngayhethan": "2026-07-16"
+  },
+  {
+    "udid": "FE3C76EE-596E-4602-BE69-7789D90E226F",
+    "ten": "Kha.skip",
+    "ngaymua": "2026-06-16",
+    "ngayhethan": "2026-09-29"
   }
 ]
