@@ -5874,12 +5874,6 @@
     "ngayhethan": "2026-09-15"
   },
   {
-    "udid": "5E8DD617-6F12-46C6-800E-C1E301EBFD0B",
-    "ten": "Đạt.skip",
-    "ngaymua": "2026-06-16",
-    "ngayhethan": "2026-07-10"
-  },
-  {
     "udid": "2049BC45-445D-40EA-9071-6AB6180E167A",
     "ten": "test",
     "ngaymua": "2026-06-16",
