@@ -5914,5 +5914,11 @@
     "ten": "Truong Giang",
     "ngaymua": "2026-06-16",
     "ngayhethan": "2026-09-24"
+  },
+  {
+    "udid": "E3094605-7B2A-4A06-B9F1-8E09C8E7BD3A",
+    "ten": "Gia Kiệt",
+    "ngaymua": "2026-06-18",
+    "ngayhethan": "2026-07-18"
   }
 ]
