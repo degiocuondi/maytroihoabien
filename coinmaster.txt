@@ -5914,5 +5914,11 @@
     "ten": "Gia Kiệt",
     "ngaymua": "2026-06-18",
     "ngayhethan": "2026-07-18"
+  },
+  {
+    "udid": "5E8DD617-6F12-46C6-800E-C1E301EBFD0B",
+    "ten": "Đạt.skip",
+    "ngaymua": "2026-06-18",
+    "ngayhethan": "2026-07-10"
   }
 ]
