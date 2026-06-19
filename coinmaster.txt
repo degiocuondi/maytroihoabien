@@ -5926,5 +5926,11 @@
     "ten": "Quang Vinh",
     "ngaymua": "2026-06-19",
     "ngayhethan": "2026-07-19"
+  },
+  {
+    "udid": "6C93EAD0-4F2C-4C5C-9E21-7BCF01208C06",
+    "ten": "Minh Điền.skip",
+    "ngaymua": "2026-06-19",
+    "ngayhethan": "2026-07-19"
   }
 ]
