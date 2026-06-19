@@ -5920,5 +5920,11 @@
     "ten": "Minh Trí",
     "ngaymua": "2026-06-18",
     "ngayhethan": "2026-09-15"
+  },
+  {
+    "udid": "1F375705-1FA7-435D-A9F9-4A61A273A312",
+    "ten": "Hữu Nhâb",
+    "ngaymua": "2026-06-19",
+    "ngayhethan": "2026-08-18"
   }
 ]
