@@ -5932,5 +5932,11 @@
     "ten": "Minh Điền.skip",
     "ngaymua": "2026-06-19",
     "ngayhethan": "2026-07-19"
+  },
+  {
+    "udid": "EA8853DB-B87D-4EF8-86A6-19C5A5E5A441",
+    "ten": "Bùi Việt.skip",
+    "ngaymua": "2026-06-19",
+    "ngayhethan": "2026-07-19"
   }
 ]
