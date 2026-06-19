@@ -5070,12 +5070,6 @@
     "ngayhethan": "2026-08-29"
   },
   {
-    "udid": "7736D99D-AFD5-47D4-9F83-1F752B739E9D",
-    "ten": "Hữu Nhân.skip",
-    "ngaymua": "2026-05-08",
-    "ngayhethan": "2026-08-20"
-  },
-  {
     "udid": "5A22C8B0-9572-47F3-B49E-E9B0B3BD8518",
     "ten": "Nghĩa Nghĩa",
     "ngaymua": "2026-05-08",
