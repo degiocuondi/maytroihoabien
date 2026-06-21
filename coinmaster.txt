@@ -5992,5 +5992,11 @@
     "ten": "Bảo Ty",
     "ngaymua": "2026-06-21",
     "ngayhethan": "2026-07-08"
+  },
+  {
+    "udid": "BF7F657D-B217-41DC-A13E-CF077C44D119",
+    "ten": "Free 5",
+    "ngaymua": "2026-06-21",
+    "ngayhethan": "2026-07-01"
   }
 ]
