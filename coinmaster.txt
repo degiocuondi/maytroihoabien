@@ -4377,7 +4377,7 @@
     "udid": "7AF0D7C3-4EDD-4C4E-8F3D-DBB49F27DA47",
     "ten": "Nhật Hào.skip",
     "ngaymua": "2026-04-10",
-    "ngayhethan": "2026-06-24"
+    "ngayhethan": "2026-08-20"
   },
   {
     "udid": "58869445-CB00-42D5-AC64-47C01B72CC56",
