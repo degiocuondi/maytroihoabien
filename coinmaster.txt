@@ -5986,5 +5986,11 @@
     "ten": "Văn Đông",
     "ngaymua": "2026-06-21",
     "ngayhethan": "2026-07-21"
+  },
+  {
+    "udid": "4FCDF458-3B45-4DE1-A90A-7A746A6B6AE2",
+    "ten": "Free 5",
+    "ngaymua": "2026-06-21",
+    "ngayhethan": "2026-07-01"
   }
 ]
