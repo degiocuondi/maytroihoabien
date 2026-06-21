@@ -6004,5 +6004,11 @@
     "ten": "Free 6",
     "ngaymua": "2026-06-21",
     "ngayhethan": "2026-07-01"
+  },
+  {
+    "udid": "F0E00B21-7651-49BC-B0EF-450650240600",
+    "ten": "Detong",
+    "ngaymua": "2026-06-21",
+    "ngayhethan": "2026-07-21"
   }
 ]
