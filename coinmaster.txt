@@ -6012,12 +6012,6 @@
     "ngayhethan": "2026-09-15"
   },
   {
-    "udid": "EC4C83A2-A50C-4136-B1C4-37B2C4B66A93",
-    "ten": "Mont Blanc.skip",
-    "ngaymua": "2026-06-22",
-    "ngayhethan": "2026-09-30"
-  },
-  {
     "udid": "7A9E10BF-0AE0-4465-8173-59364B811103",
     "ten": "Mị Mị.skip",
     "ngaymua": "2026-06-22",
