@@ -6016,5 +6016,11 @@
     "ten": "Mị Mị.skip",
     "ngaymua": "2026-06-22",
     "ngayhethan": "2026-08-21"
+  },
+  {
+    "udid": "4C76AB81-0E88-470B-BE92-E353B235D58F",
+    "ten": "Free 7",
+    "ngaymua": "2026-06-22",
+    "ngayhethan": "2026-07-02"
   }
 ]
