@@ -6022,5 +6022,11 @@
     "ten": "Free 7",
     "ngaymua": "2026-06-22",
     "ngayhethan": "2026-07-02"
+  },
+  {
+    "udid": "CED920AA-D447-4FA4-9C40-CFF5920F0B0C",
+    "ten": "Free 8",
+    "ngaymua": "2026-06-22",
+    "ngayhethan": "2026-07-02"
   }
 ]
