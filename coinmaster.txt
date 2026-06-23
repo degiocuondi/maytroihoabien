@@ -6028,5 +6028,11 @@
     "ten": "Free 9",
     "ngaymua": "2026-06-22",
     "ngayhethan": "2026-07-02"
+  },
+  {
+    "udid": "456A874B-03DA-4BFE-B7BB-FA48285B0B41",
+    "ten": "Tun Thượng.skip",
+    "ngaymua": "2026-06-23",
+    "ngayhethan": "2026-08-22"
   }
 ]
