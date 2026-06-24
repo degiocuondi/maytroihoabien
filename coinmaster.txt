@@ -3379,9 +3379,9 @@
   },
   {
     "udid": "D5BBA260-4F64-44C9-93CB-B1D3FDC5FCEA",
-    "ten": "Nguyễn Thanh",
+    "ten": "Nguyen Thanh.skip",
     "ngaymua": "2026-02-28",
-    "ngayhethan": "2026-06-01"
+    "ngayhethan": "2026-10-12"
   },
   {
     "udid": "D980C78C-88A8-41D7-8043-2BDDA02E01A8",
