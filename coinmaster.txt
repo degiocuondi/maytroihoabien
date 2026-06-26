@@ -6046,5 +6046,11 @@
     "ten": "Khang.skip",
     "ngaymua": "2026-06-26",
     "ngayhethan": "2026-07-26"
+  },
+  {
+    "udid": "C3644A6B-607B-41C9-AF2C-ED1C63774AE7",
+    "ten": "Free 10",
+    "ngaymua": "2026-06-26",
+    "ngayhethan": "2026-07-06"
   }
 ]
