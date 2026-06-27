@@ -6070,5 +6070,11 @@
     "ten": "Free 12",
     "ngaymua": "2026-06-27",
     "ngayhethan": "2026-07-27"
+  },
+  {
+    "udid": "4134B828-04A5-40C3-BCA9-637F03ABE07D",
+    "ten": "Free 13",
+    "ngaymua": "2026-06-27",
+    "ngayhethan": "2026-07-07"
   }
 ]
