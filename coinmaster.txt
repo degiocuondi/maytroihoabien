@@ -6075,6 +6075,6 @@
     "udid": "9806A7CA-E316-4638-9EA6-13BB018B47FF",
     "ten": "Nghĩa Tũn.skip",
     "ngaymua": "2026-06-29",
-    "ngayhethan": "2026-08-23"
+    "ngayhethan": "2026-08-22"
   }
 ]
