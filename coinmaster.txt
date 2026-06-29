@@ -6079,7 +6079,7 @@
   },
   {
     "udid": "C475A828-AD6E-4FCE-B39C-6B33C634F68D",
-    "ten": "Khang Nhỏ.skip",
+    "ten": "Khang Nhỏ",
     "ngaymua": "2026-06-29",
     "ngayhethan": "2026-07-29"
   }
