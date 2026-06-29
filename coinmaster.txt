@@ -6076,5 +6076,11 @@
     "ten": "Nghĩa Tũn.skip",
     "ngaymua": "2026-06-29",
     "ngayhethan": "2026-08-22"
+  },
+  {
+    "udid": "C475A828-AD6E-4FCE-B39C-6B33C634F68D",
+    "ten": "Khang Nhỏ.skip",
+    "ngaymua": "2026-06-29",
+    "ngayhethan": "2026-07-29"
   }
 ]
