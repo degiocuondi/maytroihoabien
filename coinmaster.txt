@@ -6106,5 +6106,11 @@
     "ten": "Nhi Nhi",
     "ngaymua": "2026-07-01",
     "ngayhethan": "2026-07-31"
+  },
+  {
+    "udid": "06663B43-6DEF-4968-BACA-1982DFC7F8E6",
+    "ten": "Hoài",
+    "ngaymua": "2026-07-01",
+    "ngayhethan": "2026-07-31"
   }
 ]
