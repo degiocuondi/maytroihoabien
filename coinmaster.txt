@@ -5706,12 +5706,6 @@
     "ngayhethan": "2026-07-10"
   },
   {
-    "udid": "7096C6A8-9174-4F0D-9077-71E0144AE7E0",
-    "ten": "Thái Bình",
-    "ngaymua": "2026-06-10",
-    "ngayhethan": "2026-07-10"
-  },
-  {
     "udid": "087BA010-8D93-40DF-BB59-7A7945A17647",
     "ten": "Tuấn Kiệt.skip",
     "ngaymua": "2026-06-11",
