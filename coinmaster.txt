@@ -5935,9 +5935,9 @@
   },
   {
     "udid": "870FD3F6-0FA0-4A54-82E2-FD18068BDA67",
-    "ten": "Free 3",
+    "ten": "Trần Thế",
     "ngaymua": "2026-06-20",
-    "ngayhethan": "2026-06-30"
+    "ngayhethan": "2026-08-01"
   },
   {
     "udid": "D8730D58-516C-4CD8-A08A-76B94DD3B298",
