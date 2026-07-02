@@ -5820,12 +5820,6 @@
     "ngayhethan": "2026-07-26"
   },
   {
-    "udid": "44D2A9A7-2FFA-4CBF-957E-60103C65B8CD",
-    "ten": "Văn Công",
-    "ngaymua": "2026-06-15",
-    "ngayhethan": "2026-08-20"
-  },
-  {
     "udid": "2049BC45-445D-40EA-9071-6AB6180E167A",
     "ten": "test",
     "ngaymua": "2026-06-16",
