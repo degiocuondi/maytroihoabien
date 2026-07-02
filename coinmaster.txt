@@ -6124,5 +6124,11 @@
     "ten": "Bé Be.skip",
     "ngaymua": "2026-07-01",
     "ngayhethan": "2026-07-31"
+  },
+  {
+    "udid": "EFF5ECCC-CDD0-43CC-A892-63CB67CE1F47",
+    "ten": "Free 15",
+    "ngaymua": "2026-07-02",
+    "ngayhethan": "2026-07-12"
   }
 ]
