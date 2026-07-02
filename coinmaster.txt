@@ -6130,5 +6130,11 @@
     "ten": "Free 16",
     "ngaymua": "2026-07-02",
     "ngayhethan": "2026-07-12"
+  },
+  {
+    "udid": "ABCB16BD-743E-4DED-A444-983E09083863",
+    "ten": "Thái Bình",
+    "ngaymua": "2026-07-02",
+    "ngayhethan": "2026-07-10"
   }
 ]
