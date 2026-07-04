@@ -5535,7 +5535,7 @@
     "udid": "88E50A74-9D35-4587-8455-9DE386614740",
     "ten": "ชื่อ Pisit.skip",
     "ngaymua": "2026-06-05",
-    "ngayhethan": "2026-07-05"
+    "ngayhethan": "2026-08-04"
   },
   {
     "udid": "8F5B9976-BBAB-47A5-950C-4FF1C20F3EC4",
