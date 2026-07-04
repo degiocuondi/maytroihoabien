@@ -2859,7 +2859,7 @@
     "udid": "726D8012-1CAF-433D-8366-1CB0016A8248",
     "ten": "ชื่อ Saman.skip",
     "ngaymua": "2026-01-31",
-    "ngayhethan": "2026-07-04"
+    "ngayhethan": "2026-10-22"
   },
   {
     "udid": "830808CC-763E-40C5-9DFB-485BE22F3F84",
