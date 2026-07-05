@@ -6148,5 +6148,11 @@
     "ten": "Quang Chiến",
     "ngaymua": "2026-07-05",
     "ngayhethan": "2026-08-04"
+  },
+  {
+    "udid": "33A13539-50B3-45A4-AC16-B8A09790D6CE",
+    "ten": "Minh Trí",
+    "ngaymua": "2026-07-05",
+    "ngayhethan": "2026-09-03"
   }
 ]
