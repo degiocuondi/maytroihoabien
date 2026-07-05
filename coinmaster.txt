@@ -5868,12 +5868,6 @@
     "ngayhethan": "2026-07-10"
   },
   {
-    "udid": "BFD28F25-F540-44E4-866F-E1AEB8FB3994",
-    "ten": "Minh Trí",
-    "ngaymua": "2026-06-18",
-    "ngayhethan": "2026-09-15"
-  },
-  {
     "udid": "1F375705-1FA7-435D-A9F9-4A61A273A312",
     "ten": "Hữu Nhân.skip",
     "ngaymua": "2026-06-19",
