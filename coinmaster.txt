@@ -2907,7 +2907,7 @@
     "udid": "0FEA85C0-6E6E-4FD2-8F44-588C69FEA0E3",
     "ten": "Thông.skip",
     "ngaymua": "2026-02-02",
-    "ngayhethan": "2026-07-15"
+    "ngayhethan": "2026-11-02"
   },
   {
     "udid": "6EB953E0-5A18-4C66-97A9-142EA83B1B92",
