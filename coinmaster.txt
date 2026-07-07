@@ -6292,5 +6292,11 @@
     "ten": "Free 17",
     "ngaymua": "2026-07-07",
     "ngayhethan": "2026-07-17"
+  },
+  {
+    "udid": "ADB4F629-D434-49D0-BA85-DA61CAB50F87",
+    "ten": "Đình Việt",
+    "ngaymua": "2026-07-07",
+    "ngayhethan": "2026-08-06"
   }
 ]
