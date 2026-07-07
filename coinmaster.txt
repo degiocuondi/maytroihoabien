@@ -6286,5 +6286,11 @@
     "ten": "Tiến Lực",
     "ngaymua": "2026-07-07",
     "ngayhethan": "2026-08-06"
+  },
+  {
+    "udid": "C6D05D51-B5B2-48BB-892C-23F719D181C8",
+    "ten": "Free 17",
+    "ngaymua": "2026-07-07",
+    "ngayhethan": "2026-07-17"
   }
 ]
