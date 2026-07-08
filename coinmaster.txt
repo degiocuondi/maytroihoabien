@@ -6322,5 +6322,11 @@
     "ten": "Công",
     "ngaymua": "2026-07-08",
     "ngayhethan": "2026-08-07"
+  },
+  {
+    "udid": "2534DEF3-BCCC-45C4-B20B-7664CF0A587D",
+    "ten": "Công.skip",
+    "ngaymua": "2026-07-08",
+    "ngayhethan": "2026-10-21"
   }
 ]
