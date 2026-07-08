@@ -6298,5 +6298,11 @@
     "ten": "Đình Việt",
     "ngaymua": "2026-07-07",
     "ngayhethan": "2026-08-06"
+  },
+  {
+    "udid": "3CC2A1E6-0ED4-40AA-AD82-3B84F0F5FBA6",
+    "ten": "Free 18",
+    "ngaymua": "2026-07-08",
+    "ngayhethan": "2026-07-18"
   }
 ]
