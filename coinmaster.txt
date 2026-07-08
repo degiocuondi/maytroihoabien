@@ -6310,5 +6310,11 @@
     "ten": "Free 19",
     "ngaymua": "2026-07-08",
     "ngayhethan": "2026-07-18"
+  },
+  {
+    "udid": "AEE08657-748D-46CF-9755-CADDC57134B7",
+    "ten": "Khởi Min",
+    "ngaymua": "2026-07-08",
+    "ngayhethan": "2026-07-15"
   }
 ]
