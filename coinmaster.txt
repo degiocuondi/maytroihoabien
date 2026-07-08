@@ -6304,5 +6304,11 @@
     "ten": "Free 18",
     "ngaymua": "2026-07-08",
     "ngayhethan": "2026-07-18"
+  },
+  {
+    "udid": "D7E4F776-43F6-48E0-BD8B-600E5CF8E800",
+    "ten": "Free 19",
+    "ngaymua": "2026-07-08",
+    "ngayhethan": "2026-07-18"
   }
 ]
