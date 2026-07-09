@@ -6264,12 +6264,6 @@
     "ngayhethan": "2026-10-04"
   },
   {
-    "udid": "2558A1B7-878F-4F8A-A52A-BD254395F8D8",
-    "ten": "Minh Hiếu",
-    "ngaymua": "2026-07-06",
-    "ngayhethan": "2026-09-04"
-  },
-  {
     "udid": "EFAF4F8A-F677-4D3F-BECE-D0E6FFDD2ECD",
     "ten": "Ba Duong",
     "ngaymua": "2026-07-07",
