@@ -2952,12 +2952,6 @@
     "ngayhethan": "2026-05-01"
   },
   {
-    "udid": "483CF187-0C93-4A37-A126-4686F0F3CFBA",
-    "ten": "Thông Hunter.skip",
-    "ngaymua": "2026-02-05",
-    "ngayhethan": "2026-11-06"
-  },
-  {
     "udid": "77A40739-70E9-4EAE-B031-6F034C077035",
     "ten": "LouisVo",
     "ngaymua": "2026-02-05",
