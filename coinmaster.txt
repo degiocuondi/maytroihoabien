@@ -6406,5 +6406,11 @@
     "ten": "Thông Hunter.skip",
     "ngaymua": "2026-07-10",
     "ngayhethan": "2026-11-06"
+  },
+  {
+    "udid": "4E6836D6-D6A8-41A6-8E90-8D09364B96EC",
+    "ten": "Duy Mạnh",
+    "ngaymua": "2026-07-11",
+    "ngayhethan": "2026-08-10"
   }
 ]
