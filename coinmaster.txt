@@ -6430,5 +6430,11 @@
     "ten": "Trâm.skip",
     "ngaymua": "2026-07-11",
     "ngayhethan": "2026-08-05"
+  },
+  {
+    "udid": "D7D00542-22E3-4465-BBF0-79F4FEBCB727",
+    "ten": "Danh",
+    "ngaymua": "2026-07-11",
+    "ngayhethan": "2026-08-10"
   }
 ]
