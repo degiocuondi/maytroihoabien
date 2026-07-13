@@ -6478,5 +6478,11 @@
     "ten": "Lâm Vũ.skip",
     "ngaymua": "2026-07-13",
     "ngayhethan": "2026-08-12"
+  },
+  {
+    "udid": "F706F1A1-8A7A-4225-BA7D-F474B963C753",
+    "ten": "Ngọc Hải",
+    "ngaymua": "2026-07-13",
+    "ngayhethan": "2026-08-12"
   }
 ]
