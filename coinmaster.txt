@@ -6490,5 +6490,11 @@
     "ten": "Minh Điền.skip",
     "ngaymua": "2026-07-15",
     "ngayhethan": "2026-10-13"
+  },
+  {
+    "udid": "8AFFA015-6F4D-4C77-BB91-FF24BF51D39A",
+    "ten": "Free 22",
+    "ngaymua": "2026-07-15",
+    "ngayhethan": "2026-07-18"
   }
 ]
