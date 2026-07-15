@@ -6496,5 +6496,11 @@
     "ten": "Free 22",
     "ngaymua": "2026-07-15",
     "ngayhethan": "2026-07-18"
+  },
+  {
+    "udid": "9876ADC1-E6F3-4F4C-AD0E-33C34D2720A1",
+    "ten": "Đình Hà",
+    "ngaymua": "2026-07-15",
+    "ngayhethan": "2026-08-14"
   }
 ]
