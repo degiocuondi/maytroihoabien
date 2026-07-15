@@ -6484,5 +6484,11 @@
     "ten": "Dũng Lê.skip",
     "ngaymua": "2026-07-14",
     "ngayhethan": "2026-10-15"
+  },
+  {
+    "udid": "6EB6FD0F-C5FC-4935-AA70-EA7B0A10493F",
+    "ten": "Minh Điền.skip",
+    "ngaymua": "2026-07-15",
+    "ngayhethan": "2026-10-13"
   }
 ]
