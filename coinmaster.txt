@@ -6526,5 +6526,11 @@
     "ten": "Văn Lệ",
     "ngaymua": "2026-07-16",
     "ngayhethan": "2026-08-15"
+  },
+  {
+    "udid": "3799989A-C186-4B6C-8519-BAED74182327",
+    "ten": "test.skip",
+    "ngaymua": "2026-07-16",
+    "ngayhethan": "2026-07-23"
   }
 ]
