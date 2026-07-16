@@ -6532,5 +6532,11 @@
     "ten": "test.skip",
     "ngaymua": "2026-07-16",
     "ngayhethan": "2026-07-23"
+  },
+  {
+    "udid": "BD2C1228-469A-4E34-9853-04A79C4ED0E9",
+    "ten": "Free 23",
+    "ngaymua": "2026-07-16",
+    "ngayhethan": "2026-07-19"
   }
 ]
