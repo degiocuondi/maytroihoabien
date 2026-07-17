@@ -5529,7 +5529,7 @@
     "udid": "8F5B9976-BBAB-47A5-950C-4FF1C20F3EC4",
     "ten": "New.skip",
     "ngaymua": "2026-06-06",
-    "ngayhethan": "2026-07-16"
+    "ngayhethan": "2026-08-16"
   },
   {
     "udid": "FE65CB92-F122-4044-AC83-067F2B061DA1",
