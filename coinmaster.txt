@@ -6550,5 +6550,11 @@
     "ten": "Free 25",
     "ngaymua": "2026-07-18",
     "ngayhethan": "2026-07-21"
+  },
+  {
+    "udid": "D51BD320-3713-4AA6-BB48-30DABFC45F79",
+    "ten": "Văn Đức.skip",
+    "ngaymua": "2026-07-18",
+    "ngayhethan": "2026-10-25"
   }
 ]
