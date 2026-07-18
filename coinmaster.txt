@@ -6438,12 +6438,6 @@
     "ngayhethan": "2026-08-12"
   },
   {
-    "udid": "FDE74915-537A-47A0-B975-9192AE8BD2A0",
-    "ten": "Huyền",
-    "ngaymua": "2026-07-13",
-    "ngayhethan": "2026-10-21"
-  },
-  {
     "udid": "5D6F3BFD-547C-4C85-B6E2-FEC1F5D4CE23",
     "ten": "Lâm Vũ.skip",
     "ngaymua": "2026-07-13",
