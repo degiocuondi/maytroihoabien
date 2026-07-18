@@ -6580,5 +6580,11 @@
     "ten": "Phạm Chinh.skip",
     "ngaymua": "2026-07-18",
     "ngayhethan": "2026-10-26"
+  },
+  {
+    "udid": "4449974D-69A2-4223-BFD1-6D43649F0245",
+    "ten": "Xị Cốm",
+    "ngaymua": "2026-07-18",
+    "ngayhethan": "2026-08-17"
   }
 ]
