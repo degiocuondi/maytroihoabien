@@ -6120,12 +6120,6 @@
     "ngayhethan": "2026-09-05"
   },
   {
-    "udid": "CFCCF353-440B-4580-9CE9-4C175C9040CC",
-    "ten": "Hoàng Ngọc",
-    "ngaymua": "2026-07-05",
-    "ngayhethan": "2026-08-04"
-  },
-  {
     "udid": "0FB518B4-7C28-4BD3-AEF1-02C2406FA4F4",
     "ten": "Nguyễn Đạt",
     "ngaymua": "2026-07-05",
