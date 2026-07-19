@@ -6198,12 +6198,6 @@
     "ngayhethan": "2026-07-29"
   },
   {
-    "udid": "F9C56052-228B-42ED-90AB-FE2517957903",
-    "ten": "Trâm.skip",
-    "ngaymua": "2026-07-06",
-    "ngayhethan": "2026-08-05"
-  },
-  {
     "udid": "1C9138FF-E22E-4E27-857D-72D72FD40646",
     "ten": "Hoàng Sơn.skip",
     "ngaymua": "2026-07-06",
