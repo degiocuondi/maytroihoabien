@@ -6586,5 +6586,11 @@
     "ten": "Bảo Ti.skip",
     "ngaymua": "2026-07-19",
     "ngayhethan": "2026-08-14"
+  },
+  {
+    "udid": "054CF5BE-A477-4757-AB42-B9740B4C1D67",
+    "ten": "Văn Đức.skip",
+    "ngaymua": "2026-07-19",
+    "ngayhethan": "2026-10-25"
   }
 ]
