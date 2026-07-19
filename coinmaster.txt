@@ -6586,5 +6586,11 @@
     "ten": "Xị Cốm",
     "ngaymua": "2026-07-18",
     "ngayhethan": "2026-08-17"
+  },
+  {
+    "udid": "C4D1E2B7-0004-4D79-B66D-798532E1EACB",
+    "ten": "Free 26",
+    "ngaymua": "2026-07-19",
+    "ngayhethan": "2026-07-22"
   }
 ]
