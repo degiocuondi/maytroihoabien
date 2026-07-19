@@ -6540,12 +6540,6 @@
     "ngayhethan": "2026-07-21"
   },
   {
-    "udid": "D51BD320-3713-4AA6-BB48-30DABFC45F79",
-    "ten": "Văn Đức.skip",
-    "ngaymua": "2026-07-18",
-    "ngayhethan": "2026-10-25"
-  },
-  {
     "udid": "08E487C3-1E7E-43BE-82C8-DE279F1768BB",
     "ten": "Huyền",
     "ngaymua": "2026-07-18",
