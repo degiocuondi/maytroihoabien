@@ -6591,6 +6591,6 @@
     "udid": "0EE37ACF-3165-4491-8BEA-8E4D63AE98AC",
     "ten": "Minh Long.skip",
     "ngaymua": "2026-07-20",
-    "ngayhethan": "2026-10-13"
+    "ngayhethan": "2026-10-14"
   }
 ]
