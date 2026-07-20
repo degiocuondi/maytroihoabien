@@ -5289,7 +5289,7 @@
     "udid": "853E5291-F118-4B0D-8F66-FC6A2CF3D290",
     "ten": "Chuyên Trần.skip",
     "ngaymua": "2026-05-19",
-    "ngayhethan": "2026-07-19"
+    "ngayhethan": "2026-08-19"
   },
   {
     "udid": "6778D19F-35BF-4A8D-9384-C4A127832D06",
