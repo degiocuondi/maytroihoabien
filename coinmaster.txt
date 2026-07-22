@@ -4395,7 +4395,7 @@
     "udid": "945DD045-530B-4443-8EB6-514F37DBB558",
     "ten": "Bee.skip",
     "ngaymua": "2026-04-13",
-    "ngayhethan": "2026-07-21"
+    "ngayhethan": "2026-10-30"
   },
   {
     "udid": "52FD34F9-BD07-4456-91C4-3331ED5D0E48",
