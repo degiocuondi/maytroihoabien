@@ -3495,7 +3495,7 @@
     "udid": "016919D1-2ABE-4F94-B1BA-19FA0574CEB7",
     "ten": "Chiến Đá",
     "ngaymua": "2026-03-08",
-    "ngayhethan": "2026-07-21"
+    "ngayhethan": "2026-10-31"
   },
   {
     "udid": "627A25F1-85A6-4F4C-8600-43594DA12350",
