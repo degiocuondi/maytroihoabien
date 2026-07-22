@@ -6604,5 +6604,11 @@
     "ten": "Dũng",
     "ngaymua": "2026-07-22",
     "ngayhethan": "2026-08-21"
+  },
+  {
+    "udid": "CF28E55A-422C-4503-AE2C-48102AA170AE",
+    "ten": "Hữu Hải",
+    "ngaymua": "2026-07-23",
+    "ngayhethan": "2026-08-22"
   }
 ]
