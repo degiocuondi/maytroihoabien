@@ -5373,7 +5373,7 @@
     "udid": "96B1ABD2-7B38-47CD-AC1C-74A42DBBEEDF",
     "ten": "Trung Kiên",
     "ngaymua": "2026-05-24",
-    "ngayhethan": "2026-07-23"
+    "ngayhethan": "2026-10-31"
   },
   {
     "udid": "F9B5B9FA-53C2-496B-A3F4-A9876D8E2F87",
