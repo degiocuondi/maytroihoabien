@@ -6652,5 +6652,11 @@
     "ten": "Bảo Ti.skip",
     "ngaymua": "2026-07-26",
     "ngayhethan": "2026-08-14"
+  },
+  {
+    "udid": "01A39755-6623-43FF-9F84-56CEDF2753AF",
+    "ten": "Mạnh",
+    "ngaymua": "2026-07-26",
+    "ngayhethan": "2026-08-25"
   }
 ]
