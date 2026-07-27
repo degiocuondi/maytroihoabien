@@ -5451,7 +5451,7 @@
     "udid": "BB5BF2EE-9CE4-4F94-9803-22DAB3CB419D",
     "ten": "Độc.skip",
     "ngaymua": "2026-05-31",
-    "ngayhethan": "2026-07-30"
+    "ngayhethan": "2026-11-12"
   },
   {
     "udid": "D0C7A669-9C66-4F2B-ADD2-68B51A9F8401",
