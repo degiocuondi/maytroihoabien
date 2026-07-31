@@ -6682,5 +6682,11 @@
     "ten": "Lan Tuyền.skip",
     "ngaymua": "2026-07-30",
     "ngayhethan": "2026-09-12"
+  },
+  {
+    "udid": "8B963CF1-2806-45D1-B8F3-D7CFE84D1EC8",
+    "ten": "Mao Đài",
+    "ngaymua": "2026-07-31",
+    "ngayhethan": "2026-08-30"
   }
 ]
