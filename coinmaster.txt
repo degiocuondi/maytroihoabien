@@ -6694,5 +6694,11 @@
     "ten": "Tấn Tài.skip",
     "ngaymua": "2026-07-31",
     "ngayhethan": "2026-08-30"
+  },
+  {
+    "udid": "3CA937B5-DCE6-42A3-9BA7-8C96AD80441F",
+    "ten": "Nam Phong",
+    "ngaymua": "2026-08-01",
+    "ngayhethan": "2026-09-30"
   }
 ]
