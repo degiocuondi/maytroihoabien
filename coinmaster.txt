@@ -6718,5 +6718,11 @@
     "ten": "Thành Lợi",
     "ngaymua": "2026-08-02",
     "ngayhethan": "2026-10-01"
+  },
+  {
+    "udid": "11BE94AD-879D-4966-BAFF-EE4D1454E76F",
+    "ten": "Mẫn Mẫn.skip",
+    "ngaymua": "2026-08-03",
+    "ngayhethan": "2026-09-02"
   }
 ]
