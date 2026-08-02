@@ -6700,5 +6700,11 @@
     "ten": "Nam Phong",
     "ngaymua": "2026-08-01",
     "ngayhethan": "2026-09-30"
+  },
+  {
+    "udid": "59CF634B-7C3C-4799-8D97-EC9A63C3FEA7",
+    "ten": "Free 27",
+    "ngaymua": "2026-08-02",
+    "ngayhethan": "2026-08-05"
   }
 ]
