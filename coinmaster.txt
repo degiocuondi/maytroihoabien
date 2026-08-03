@@ -6730,5 +6730,11 @@
     "ten": "Tờ Pi.skip",
     "ngaymua": "2026-08-03",
     "ngayhethan": "2026-09-02"
+  },
+  {
+    "udid": "D2CC256A-B330-44AF-AC8A-6B8AF34198CC",
+    "ten": "Free 28",
+    "ngaymua": "2026-08-03",
+    "ngayhethan": "2026-08-06"
   }
 ]
