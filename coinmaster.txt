@@ -6754,5 +6754,11 @@
     "ten": "Nguyễn Trung",
     "ngaymua": "2026-08-04",
     "ngayhethan": "2026-09-03"
+  },
+  {
+    "udid": "78DD7E4D-16A7-4254-B1EE-86ED2FB1A51F",
+    "ten": "Nguyễn Trung.skip",
+    "ngaymua": "2026-08-04",
+    "ngayhethan": "2026-08-24"
   }
 ]
