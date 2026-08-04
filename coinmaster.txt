@@ -6612,12 +6612,6 @@
     "ngayhethan": "2026-08-23"
   },
   {
-    "udid": "27CEF748-9898-4F52-A5D3-8714CC1A5986",
-    "ten": "Nguyễn Trung.skip",
-    "ngaymua": "2026-07-25",
-    "ngayhethan": "2026-08-25"
-  },
-  {
     "udid": "D1484F69-9F85-46A8-B738-74CAF309BB44",
     "ten": "Nguyễn Kiệt",
     "ngaymua": "2026-07-25",
