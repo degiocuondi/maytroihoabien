@@ -6820,5 +6820,11 @@
     "ten": "Hoài",
     "ngaymua": "2026-08-10",
     "ngayhethan": "2026-09-09"
+  },
+  {
+    "udid": "EF4DC92A-D0A9-4187-8E30-075490161B8B",
+    "ten": "Hải Dương",
+    "ngaymua": "2026-08-11",
+    "ngayhethan": "2026-09-10"
   }
 ]
