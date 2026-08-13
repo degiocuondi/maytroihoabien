@@ -6844,5 +6844,11 @@
     "ten": "Mị Mị.skip",
     "ngaymua": "2026-08-13",
     "ngayhethan": "2026-08-21"
+  },
+  {
+    "udid": "E4C4E830-3550-4DD8-AB7B-55FF0E07F924",
+    "ten": "Dương Đức",
+    "ngaymua": "2026-08-13",
+    "ngayhethan": "2026-09-14"
   }
 ]
