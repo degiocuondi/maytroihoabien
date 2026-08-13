@@ -6534,12 +6534,6 @@
     "ngayhethan": "2026-10-14"
   },
   {
-    "udid": "5A52268A-FBC9-4BAC-A1B3-0EEADF6B995B",
-    "ten": "Ba Duong",
-    "ngaymua": "2026-07-20",
-    "ngayhethan": "2026-09-06"
-  },
-  {
     "udid": "2D6DEF18-56A9-4B89-9C5A-816B1269D50E",
     "ten": "Chương Trần",
     "ngaymua": "2026-07-21",
