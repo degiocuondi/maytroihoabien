@@ -6850,5 +6850,11 @@
     "ten": "Dương Đức",
     "ngaymua": "2026-08-13",
     "ngayhethan": "2026-09-15"
+  },
+  {
+    "udid": "EE75E5B4-A027-4BF2-B961-6258B7A48EA2",
+    "ten": "Ngọc Thế",
+    "ngaymua": "2026-08-13",
+    "ngayhethan": "2026-09-12"
   }
 ]
