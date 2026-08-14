@@ -6862,5 +6862,11 @@
     "ten": "Thanh",
     "ngaymua": "2026-08-14",
     "ngayhethan": "2026-10-21"
+  },
+  {
+    "udid": "767815CE-051B-4DF4-AD81-12E590986DA1",
+    "ten": "Minh Duc",
+    "ngaymua": "2026-08-14",
+    "ngayhethan": "2026-10-13"
   }
 ]
