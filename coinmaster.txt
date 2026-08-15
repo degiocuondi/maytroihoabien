@@ -6874,5 +6874,11 @@
     "ten": "Định",
     "ngaymua": "2026-08-14",
     "ngayhethan": "2026-09-13"
+  },
+  {
+    "udid": "6BA6A809-C49A-440A-B083-E54D8677728D",
+    "ten": "Trung.skip",
+    "ngaymua": "2026-08-15",
+    "ngayhethan": "2026-11-28"
   }
 ]
