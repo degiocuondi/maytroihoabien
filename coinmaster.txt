@@ -6874,5 +6874,11 @@
     "ten": "Trung.skip",
     "ngaymua": "2026-08-15",
     "ngayhethan": "2026-11-28"
+  },
+  {
+    "udid": "68DB811F-48A3-4F9D-9CC2-F401A0A57D9D",
+    "ten": "Ba Duong",
+    "ngaymua": "2026-08-16",
+    "ngayhethan": "2026-09-05"
   }
 ]
