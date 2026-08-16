@@ -6840,12 +6840,6 @@
     "ngayhethan": "2026-09-12"
   },
   {
-    "udid": "51F800E1-D538-48FC-BCE8-5AACAE576010",
-    "ten": "Ba Duong",
-    "ngaymua": "2026-08-13",
-    "ngayhethan": "2026-09-06"
-  },
-  {
     "udid": "39A3574F-0537-4138-B98A-DD1A682D08DD",
     "ten": "Hiền.skip",
     "ngaymua": "2026-08-14",
