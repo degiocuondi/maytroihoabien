@@ -6898,5 +6898,11 @@
     "ten": "Free 31",
     "ngaymua": "2026-08-17",
     "ngayhethan": "2026-08-20"
+  },
+  {
+    "udid": "2DBEF6EF-5353-4102-BACE-D4FD00232152",
+    "ten": "Bảo",
+    "ngaymua": "2026-08-17",
+    "ngayhethan": "2026-11-25"
   }
 ]
