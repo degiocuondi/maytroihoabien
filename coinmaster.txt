@@ -6922,5 +6922,11 @@
     "ten": "Free 32",
     "ngaymua": "2026-08-18",
     "ngayhethan": "2026-08-21"
+  },
+  {
+    "udid": "0EE65667-D856-4F84-969A-FA8F48A5AAF4",
+    "ten": "Free 33",
+    "ngaymua": "2026-08-18",
+    "ngayhethan": "2026-08-21"
   }
 ]
