@@ -6270,12 +6270,6 @@
     "ngayhethan": "2026-08-18"
   },
   {
-    "udid": "6F9BC9FD-6312-4D46-911C-528D91C82E92",
-    "ten": "Đinh Khoa",
-    "ngaymua": "2026-07-09",
-    "ngayhethan": "2026-08-23"
-  },
-  {
     "udid": "B95AA480-1FDF-4B07-AAA5-8A868E75694C",
     "ten": "Quốc.skip",
     "ngaymua": "2026-07-09",
