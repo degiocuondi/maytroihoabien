@@ -6934,5 +6934,11 @@
     "ten": "Nguyễn Công",
     "ngaymua": "2026-08-18",
     "ngayhethan": "2026-10-17"
+  },
+  {
+    "udid": "312419CA-6E4D-4BEC-8E32-58D91514AC6F",
+    "ten": "Giang J",
+    "ngaymua": "2026-08-19",
+    "ngayhethan": "2026-09-18"
   }
 ]
