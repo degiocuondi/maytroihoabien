@@ -6940,5 +6940,11 @@
     "ten": "Giang J",
     "ngaymua": "2026-08-19",
     "ngayhethan": "2026-09-18"
+  },
+  {
+    "udid": "71A0ED11-A2B3-4F65-9E80-16E7A4BA448C",
+    "ten": "Văn Minh",
+    "ngaymua": "2026-08-20",
+    "ngayhethan": "2026-09-19"
   }
 ]
