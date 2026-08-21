@@ -6123,7 +6123,7 @@
     "udid": "216CF113-9F22-40A5-A7C1-E242CCF452E9",
     "ten": "Chiến",
     "ngaymua": "2026-07-06",
-    "ngayhethan": "2026-08-20"
+    "ngayhethan": "2026-10-20"
   },
   {
     "udid": "03E9EBB0-3560-4BDA-AA63-32C32410673A",
