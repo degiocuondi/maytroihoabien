@@ -6978,12 +6978,6 @@
     "ngayhethan": "2026-09-21"
   },
   {
-    "udid": "C3EBC811-F30D-4B55-923D-2A08135E64DF",
-    "ten": "Công Minh",
-    "ngaymua": "2026-08-22",
-    "ngayhethan": "2026-09-19"
-  },
-  {
     "udid": "D7A6DF74-D2C2-485F-A6A3-885AD0F9C031",
     "ten": "Hiệp",
     "ngaymua": "2026-08-23",
