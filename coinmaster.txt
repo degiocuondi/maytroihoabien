@@ -7042,5 +7042,11 @@
     "ten": "Oanh",
     "ngaymua": "2026-08-29",
     "ngayhethan": "2026-09-28"
+  },
+  {
+    "udid": "CC74A8BA-9E4E-4F69-92FC-526B3AFA2093",
+    "ten": "ipad.skip",
+    "ngaymua": "2026-08-29",
+    "ngayhethan": "2026-09-28"
   }
 ]
