@@ -7030,5 +7030,11 @@
     "ten": "Ta Ta",
     "ngaymua": "2026-08-28",
     "ngayhethan": "2026-10-27"
+  },
+  {
+    "udid": "336EBC9C-9E7B-4601-BF78-BEBFC391E7EF",
+    "ten": "Luân",
+    "ngaymua": "2026-08-29",
+    "ngayhethan": "2026-09-28"
   }
 ]
