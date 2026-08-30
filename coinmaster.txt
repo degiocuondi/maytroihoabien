@@ -6597,7 +6597,7 @@
     "udid": "080D64D7-9A69-468D-9CF7-9F0BE60D89D2",
     "ten": "Tấn Tài.skip",
     "ngaymua": "2026-07-31",
-    "ngayhethan": "2026-08-30"
+    "ngayhethan": "2026-09-29"
   },
   {
     "udid": "3CA937B5-DCE6-42A3-9BA7-8C96AD80441F",
