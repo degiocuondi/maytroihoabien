@@ -7048,5 +7048,11 @@
     "ten": "ipad.skip",
     "ngaymua": "2026-08-29",
     "ngayhethan": "2026-09-28"
+  },
+  {
+    "udid": "7C8F67CF-D3EA-4D43-B16C-8CB17CF47F9B",
+    "ten": "Hải",
+    "ngaymua": "2026-09-01",
+    "ngayhethan": "2026-10-01"
   }
 ]
