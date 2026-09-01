@@ -7054,5 +7054,11 @@
     "ten": "Hải",
     "ngaymua": "2026-09-01",
     "ngayhethan": "2026-10-01"
+  },
+  {
+    "udid": "EB8B4B96-4F1B-4B6A-8E1E-3886071C3134",
+    "ten": "Vung Tau",
+    "ngaymua": "2026-09-01",
+    "ngayhethan": "2026-10-31"
   }
 ]
