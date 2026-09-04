@@ -7068,12 +7068,6 @@
     "ngayhethan": "2026-10-03"
   },
   {
-    "udid": "3A5D02FD-AC2C-45FE-AC26-02EDE15C2629",
-    "ten": "Thuy",
-    "ngaymua": "2026-09-03",
-    "ngayhethan": "2026-10-03"
-  },
-  {
     "udid": "B7775F31-975A-46CB-A9C9-0DB257065A5C",
     "ten": "Tiến",
     "ngaymua": "2026-09-04",
