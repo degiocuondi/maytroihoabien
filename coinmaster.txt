@@ -6786,12 +6786,6 @@
     "ngayhethan": "2026-10-16"
   },
   {
-    "udid": "59887A49-76AC-4CE8-B475-074EEFC07FCB",
-    "ten": "Tiến",
-    "ngaymua": "2026-08-13",
-    "ngayhethan": "2026-09-17"
-  },
-  {
     "udid": "20331BEE-4B5A-4363-AD96-4FB457CF3AD0",
     "ten": "Mị Mị.skip",
     "ngaymua": "2026-08-13",
