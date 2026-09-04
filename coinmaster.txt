@@ -7078,5 +7078,11 @@
     "ten": "Thuy",
     "ngaymua": "2026-09-04",
     "ngayhethan": "2026-10-03"
+  },
+  {
+    "udid": "B666BF28-E74B-41CE-8C27-F4EF72CEA6DB",
+    "ten": "Hữu Hiếu.skip",
+    "ngaymua": "2026-09-04",
+    "ngayhethan": "2026-12-13"
   }
 ]
