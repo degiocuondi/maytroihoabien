@@ -7114,5 +7114,11 @@
     "ten": "Free",
     "ngaymua": "2026-09-08",
     "ngayhethan": "2026-09-11"
+  },
+  {
+    "udid": "ED698B80-65E6-4B81-9847-4203BFBD03DF",
+    "ten": "vvip",
+    "ngaymua": "2026-09-08",
+    "ngayhethan": "2026-09-15"
   }
 ]
