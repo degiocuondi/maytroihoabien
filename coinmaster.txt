@@ -7150,5 +7150,11 @@
     "ten": "Bảo Ti.skip",
     "ngaymua": "2026-09-10",
     "ngayhethan": "2026-10-10"
+  },
+  {
+    "udid": "2A2BF052-37C3-480D-94BB-478C277DBED8",
+    "ten": "Hải Hậu",
+    "ngaymua": "2026-09-10",
+    "ngayhethan": "2026-10-10"
   }
 ]
