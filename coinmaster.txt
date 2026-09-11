@@ -7162,5 +7162,11 @@
     "ten": "Minh Nhựt",
     "ngaymua": "2026-09-11",
     "ngayhethan": "2026-10-11"
+  },
+  {
+    "udid": "30F3A3C6-5248-40DF-942C-0D9DDBBF757B",
+    "ten": "Thanh Bình.skip",
+    "ngaymua": "2026-09-11",
+    "ngayhethan": "2026-09-25"
   }
 ]
