@@ -7150,5 +7150,11 @@
     "ten": "Hải Hậu",
     "ngaymua": "2026-09-10",
     "ngayhethan": "2026-10-10"
+  },
+  {
+    "udid": "D4A851BE-F3C4-44E7-9087-5A4B3459013E",
+    "ten": "Thông.skip",
+    "ngaymua": "2026-09-11",
+    "ngayhethan": "2026-11-02"
   }
 ]
