@@ -6840,12 +6840,6 @@
     "ngayhethan": "2026-08-20"
   },
   {
-    "udid": "2DBEF6EF-5353-4102-BACE-D4FD00232152",
-    "ten": "Bảo",
-    "ngaymua": "2026-08-17",
-    "ngayhethan": "2026-11-25"
-  },
-  {
     "udid": "5F041694-67C6-4AF3-B1BA-A2F58D3637D5",
     "ten": "Đinh Khoa",
     "ngaymua": "2026-08-18",
