@@ -7162,5 +7162,11 @@
     "ten": "Trọng Tũn.skip",
     "ngaymua": "2026-09-11",
     "ngayhethan": "2026-10-11"
+  },
+  {
+    "udid": "E7118C9D-C0FF-4DC1-B231-3E08FA989E74",
+    "ten": "Minh Nhựt",
+    "ngaymua": "2026-09-11",
+    "ngayhethan": "2026-10-11"
   }
 ]
