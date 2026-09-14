@@ -7204,11 +7204,5 @@
     "ten": "Thu Hằng",
     "ngaymua": "2026-09-14",
     "ngayhethan": "2026-10-14"
-  },
-  {
-    "udid": "E882939F-5D0C-46CA-BB00-CF15B3FC2C14",
-    "ten": "Nam Phương.skip",
-    "ngaymua": "2026-09-14",
-    "ngayhethan": "2026-10-14"
   }
 ]
