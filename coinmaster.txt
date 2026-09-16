@@ -7222,5 +7222,11 @@
     "ten": "Gia Khang",
     "ngaymua": "2026-09-16",
     "ngayhethan": "2026-11-12"
+  },
+  {
+    "udid": "646CA339-43EF-4204-A89C-235DB810550C",
+    "ten": "Minh Trí",
+    "ngaymua": "2026-09-16",
+    "ngayhethan": "2026-12-25"
   }
 ]
