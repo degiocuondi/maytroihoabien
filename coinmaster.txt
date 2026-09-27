@@ -7300,5 +7300,11 @@
     "ten": "Thanh Truong",
     "ngaymua": "2026-09-27",
     "ngayhethan": "2026-10-27"
+  },
+  {
+    "udid": "C2226B41-DC2A-44FE-9DBF-670704A62128",
+    "ten": "Ninh.skip",
+    "ngaymua": "2026-09-27",
+    "ngayhethan": "2026-10-27"
   }
 ]
