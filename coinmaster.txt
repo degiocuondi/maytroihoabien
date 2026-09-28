@@ -7306,5 +7306,11 @@
     "ten": "Ninh.skip",
     "ngaymua": "2026-09-27",
     "ngayhethan": "2026-10-27"
+  },
+  {
+    "udid": "0193BD8A-68D8-4D26-B4D1-96190EE911E8",
+    "ten": "Khanh Dang",
+    "ngaymua": "2026-09-28",
+    "ngayhethan": "2026-10-28"
   }
 ]
