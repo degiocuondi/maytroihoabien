@@ -7330,5 +7330,11 @@
     "ten": "Hải.skip",
     "ngaymua": "2026-09-29",
     "ngayhethan": "2026-10-29"
+  },
+  {
+    "udid": "26AFA078-8363-4BBE-8A98-0D118FFAA918",
+    "ten": "Ngoc Tri",
+    "ngaymua": "2026-09-29",
+    "ngayhethan": "2026-10-29"
   }
 ]
