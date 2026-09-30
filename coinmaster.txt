@@ -5673,7 +5673,7 @@
     "udid": "2A885D84-84BB-4286-8E2F-39DBE5960E97",
     "ten": "Minh Thuận.skip",
     "ngaymua": "2026-06-14",
-    "ngayhethan": "2026-10-02"
+    "ngayhethan": "2027-01-18"
   },
   {
     "udid": "414F6BA3-04E2-4515-B00D-219CAA201F90",
