@@ -7342,5 +7342,11 @@
     "ten": "Lin",
     "ngaymua": "2026-10-01",
     "ngayhethan": "2026-10-31"
+  },
+  {
+    "udid": "9D4128B8-53F9-428B-9D57-84AFA75FB18E",
+    "ten": "Tài Nguyễn.skip",
+    "ngaymua": "2026-10-01",
+    "ngayhethan": "2026-10-31"
   }
 ]
