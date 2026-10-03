@@ -7366,5 +7366,11 @@
     "ten": "Phương Thúy",
     "ngaymua": "2026-10-03",
     "ngayhethan": "2026-11-02"
+  },
+  {
+    "udid": "8849D292-D5D8-419B-A5CE-D8B3078FA5DA",
+    "ten": "Trung.skip",
+    "ngaymua": "2026-10-03",
+    "ngayhethan": "2026-11-02"
   }
 ]
