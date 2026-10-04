@@ -5415,7 +5415,7 @@
     "udid": "994F07FC-F3B2-4B1A-9017-E14CD4CFC6A1",
     "ten": "D Thái",
     "ngaymua": "2026-05-31",
-    "ngayhethan": "2026-10-03"
+    "ngayhethan": "2027-05-02"
   },
   {
     "udid": "E33C6102-DE87-4275-B003-D547CB51D19A",
