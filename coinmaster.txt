@@ -7372,5 +7372,11 @@
     "ten": "Trung.skip",
     "ngaymua": "2026-10-03",
     "ngayhethan": "2026-11-02"
+  },
+  {
+    "udid": "58249C6A-36C6-4768-ACDD-0011EAF5A03E",
+    "ten": "Thu Cúc",
+    "ngaymua": "2026-10-04",
+    "ngayhethan": "2026-11-03"
   }
 ]
