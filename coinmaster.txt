@@ -7378,5 +7378,11 @@
     "ten": "Ngọc Huyền",
     "ngaymua": "2026-10-04",
     "ngayhethan": "2026-11-03"
+  },
+  {
+    "udid": "57B77C9E-3220-4DC4-969F-27585E0C3CB1",
+    "ten": "Thu Thảo.skip",
+    "ngaymua": "2026-10-05",
+    "ngayhethan": "2026-11-24"
   }
 ]
