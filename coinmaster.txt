@@ -7384,5 +7384,11 @@
     "ten": "Thu Thảo.skip",
     "ngaymua": "2026-10-05",
     "ngayhethan": "2026-11-24"
+  },
+  {
+    "udid": "E61F736A-07D8-4F00-957E-1411373764F4",
+    "ten": "Chiến Lê",
+    "ngaymua": "2026-10-06",
+    "ngayhethan": "2026-12-05"
   }
 ]
