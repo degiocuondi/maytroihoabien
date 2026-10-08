@@ -7414,5 +7414,11 @@
     "ten": "Công Mạnh.skip",
     "ngaymua": "2026-10-08",
     "ngayhethan": "2026-11-07"
+  },
+  {
+    "udid": "930EF226-AB0E-4B67-9415-927B05547CCA",
+    "ten": "Chiến Đá",
+    "ngaymua": "2026-10-08",
+    "ngayhethan": "2026-10-31"
   }
 ]
