@@ -7404,12 +7404,6 @@
     "ngayhethan": "2026-11-07"
   },
   {
-    "udid": "44DEEFAF-DC94-43F6-BFDE-356734488EAC",
-    "ten": "Huỳnh.skip",
-    "ngaymua": "2026-10-08",
-    "ngayhethan": "2026-11-07"
-  },
-  {
     "udid": "38D5F4A5-473D-47FD-87D2-0B7CE36B8545",
     "ten": "Hải",
     "ngaymua": "2026-10-08",
