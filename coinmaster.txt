@@ -7420,5 +7420,11 @@
     "ten": "Phú Việt",
     "ngaymua": "2026-10-09",
     "ngayhethan": "2026-11-08"
+  },
+  {
+    "udid": "D60B221D-F2E0-41AC-9AE9-B88813C89F7A",
+    "ten": "Phú.skip",
+    "ngaymua": "2026-10-10",
+    "ngayhethan": "2026-11-09"
   }
 ]
