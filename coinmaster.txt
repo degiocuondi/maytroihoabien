@@ -4728,12 +4728,6 @@
     "ngayhethan": "2026-12-01"
   },
   {
-    "udid": "84E4A5F1-52EC-42ED-93B6-10BBD2FE580E",
-    "ten": "Thành",
-    "ngaymua": "2026-04-29",
-    "ngayhethan": "2027-05-12"
-  },
-  {
     "udid": "A578989B-8A82-4687-AE74-7502405A6B2C",
     "ten": "Huy Trần.skip",
     "ngaymua": "2026-04-30",
