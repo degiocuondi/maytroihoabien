@@ -7444,5 +7444,11 @@
     "ten": "Hiếu Thứ 2.skip",
     "ngaymua": "2026-10-14",
     "ngayhethan": "2026-12-13"
+  },
+  {
+    "udid": "F7FEA249-9B1D-4F56-B65B-CB1476174950",
+    "ten": "Thành.skip",
+    "ngaymua": "2026-10-14",
+    "ngayhethan": "2027-02-01"
   }
 ]
