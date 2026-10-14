@@ -7444,5 +7444,11 @@
     "ten": "Hoài Mi 1",
     "ngaymua": "2026-10-13",
     "ngayhethan": "2027-02-16"
+  },
+  {
+    "udid": "FED0BA7A-634A-4F19-94E5-D0FFD754A740",
+    "ten": "Hiếu Thứ 2.skip",
+    "ngaymua": "2026-10-14",
+    "ngayhethan": "2026-12-13"
   }
 ]
