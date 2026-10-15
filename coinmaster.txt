@@ -7462,5 +7462,11 @@
     "ten": "Trí",
     "ngaymua": "2026-10-14",
     "ngayhethan": "2026-11-13"
+  },
+  {
+    "udid": "D12BFC0C-7D0A-416B-AC73-C46474F4F0E9",
+    "ten": "Cool",
+    "ngaymua": "2026-10-15",
+    "ngayhethan": "2026-12-14"
   }
 ]
