@@ -5976,12 +5976,6 @@
     "ngayhethan": "2026-08-31"
   },
   {
-    "udid": "A4DDF639-5AE7-4858-A260-08BA0EF729E5",
-    "ten": "Bách Phạm.skip",
-    "ngaymua": "2026-07-06",
-    "ngayhethan": "2027-02-02"
-  },
-  {
     "udid": "A40D8788-EFA9-4821-8047-1330FC634E75",
     "ten": "Hiếu",
     "ngaymua": "2026-07-06",
