@@ -7477,7 +7477,7 @@
   },
   {
     "udid": "ECB6D379-E216-4992-89C2-0DEAAD52FA1C",
-    "ten": "Test",
+    "ten": "Test.skip",
     "ngaymua": "2026-10-17",
     "ngayhethan": "2027-01-15"
   }
