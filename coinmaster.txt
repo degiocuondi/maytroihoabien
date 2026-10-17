@@ -7480,5 +7480,11 @@
     "ten": "Test.skip",
     "ngaymua": "2026-10-17",
     "ngayhethan": "2027-01-15"
+  },
+  {
+    "udid": "E8DCFB8F-96CB-446E-85C5-6ADF74310609",
+    "ten": "Đâu Xinh",
+    "ngaymua": "2026-10-17",
+    "ngayhethan": "2026-11-16"
   }
 ]
