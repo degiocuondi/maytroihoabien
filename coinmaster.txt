@@ -7486,5 +7486,11 @@
     "ten": "Đâu Xinh",
     "ngaymua": "2026-10-17",
     "ngayhethan": "2026-11-16"
+  },
+  {
+    "udid": "2754BC73-AFE7-4BC6-8D80-C955C9AA13C2",
+    "ten": "Sơn Kiệt",
+    "ngaymua": "2026-10-18",
+    "ngayhethan": "2026-11-17"
   }
 ]
