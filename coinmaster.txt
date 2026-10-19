@@ -2412,12 +2412,6 @@
     "ngayhethan": "2026-04-04"
   },
   {
-    "udid": "6DA5CEF3-CE88-4951-8F97-3D92594C3DF7",
-    "ten": "Minh Quân",
-    "ngaymua": "2026-01-23",
-    "ngayhethan": "2026-12-11"
-  },
-  {
     "udid": "7DA31202-3EA4-44B1-BBAF-A3923845F3C8",
     "ten": "Trí Phải",
     "ngaymua": "2026-01-23",
