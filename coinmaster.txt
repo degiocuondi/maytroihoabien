@@ -6078,12 +6078,6 @@
     "ngayhethan": "2026-07-18"
   },
   {
-    "udid": "AEE08657-748D-46CF-9755-CADDC57134B7",
-    "ten": "Khởi Min",
-    "ngaymua": "2026-07-08",
-    "ngayhethan": "2027-04-17"
-  },
-  {
     "udid": "472318D7-E8E6-4F0C-A195-5E14D15181EA",
     "ten": "Công",
     "ngaymua": "2026-07-08",
