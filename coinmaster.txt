@@ -7510,5 +7510,11 @@
     "ten": "Bảo Châu",
     "ngaymua": "2026-10-22",
     "ngayhethan": "2026-11-21"
+  },
+  {
+    "udid": "E84B5C60-B2C9-4453-A648-035EC3F14147",
+    "ten": "Thanh Tâm.skip",
+    "ngaymua": "2026-10-22",
+    "ngayhethan": "2026-11-21"
   }
 ]
