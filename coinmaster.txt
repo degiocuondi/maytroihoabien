@@ -7522,5 +7522,11 @@
     "ten": "Minh Trí",
     "ngaymua": "2026-10-22",
     "ngayhethan": "2026-12-25"
+  },
+  {
+    "udid": "B9D56DBE-1DC4-43D2-83D3-6343FEFDBAE7",
+    "ten": "Hoàng.skip",
+    "ngaymua": "2026-10-23",
+    "ngayhethan": "2026-11-22"
   }
 ]
