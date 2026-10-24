@@ -7500,12 +7500,6 @@
     "ngayhethan": "2026-11-20"
   },
   {
-    "udid": "51F92517-6D36-4748-9278-A9D4D942E9AB",
-    "ten": "Bảo Châu",
-    "ngaymua": "2026-10-22",
-    "ngayhethan": "2026-11-21"
-  },
-  {
     "udid": "E84B5C60-B2C9-4453-A648-035EC3F14147",
     "ten": "Thanh Tâm.skip",
     "ngaymua": "2026-10-22",
