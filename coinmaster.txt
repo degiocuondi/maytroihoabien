@@ -7546,5 +7546,11 @@
     "ten": "Thanh Hà",
     "ngaymua": "2026-10-25",
     "ngayhethan": "2026-11-24"
+  },
+  {
+    "udid": "8A4C497E-BED7-4DBB-9EC7-BD94D1FF0788",
+    "ten": "Minh Hiếu.skip",
+    "ngaymua": "2026-10-26",
+    "ngayhethan": "2026-11-25"
   }
 ]
