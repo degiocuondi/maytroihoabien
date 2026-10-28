@@ -7600,11 +7600,5 @@
     "ten": "Đức Tân",
     "ngaymua": "2026-10-28",
     "ngayhethan": "2026-12-27"
-  },
-  {
-    "udid": "D51BD320-3713-4AA6-BB48-30DABFC45F79",
-    "ten": "test",
-    "ngaymua": "2026-10-28",
-    "ngayhethan": "2026-10-29"
   }
 ]
