@@ -7594,5 +7594,11 @@
     "ten": "Nhi.skip",
     "ngaymua": "2026-10-28",
     "ngayhethan": "2027-02-05"
+  },
+  {
+    "udid": "BE60B849-8ED5-46FB-B391-267689C66600",
+    "ten": "Đức Tân",
+    "ngaymua": "2026-10-28",
+    "ngayhethan": "2026-12-27"
   }
 ]
