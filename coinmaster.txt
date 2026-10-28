@@ -7588,5 +7588,11 @@
     "ten": "Trương Tốt.skip",
     "ngaymua": "2026-10-28",
     "ngayhethan": "2026-11-27"
+  },
+  {
+    "udid": "B7222D29-6CA8-460F-8E23-D8D5F7041195",
+    "ten": "Nhi.skip",
+    "ngaymua": "2026-10-28",
+    "ngayhethan": "2027-02-05"
   }
 ]
