@@ -7582,5 +7582,11 @@
     "ten": "Minh Khôi.skip",
     "ngaymua": "2026-10-27",
     "ngayhethan": "2026-11-27"
+  },
+  {
+    "udid": "944FA10A-0134-4D01-A445-6B049B850942",
+    "ten": "Trương Tốt.skip",
+    "ngaymua": "2026-10-28",
+    "ngayhethan": "2026-11-27"
   }
 ]
