@@ -7579,8 +7579,8 @@
   },
   {
     "udid": "A421DA20-628B-43C1-BD1E-36075181F508",
-    "ten": "Minh Khôi",
+    "ten": "Minh Khôi.skip",
     "ngaymua": "2026-10-27",
-    "ngayhethan": "2026-11-26"
+    "ngayhethan": "2026-11-27"
   }
 ]
