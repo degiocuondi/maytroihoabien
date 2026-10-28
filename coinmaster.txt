@@ -7137,7 +7137,7 @@
     "udid": "05FFC6FE-AF51-4A39-83B7-08CA93B76115",
     "ten": "Triển",
     "ngaymua": "2026-09-18",
-    "ngayhethan": "2026-10-18"
+    "ngayhethan": "2026-11-27"
   },
   {
     "udid": "80E68787-F094-4699-8DDD-E495F6D025C0",
