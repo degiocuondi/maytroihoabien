@@ -6895,9 +6895,9 @@
   },
   {
     "udid": "CC74A8BA-9E4E-4F69-92FC-526B3AFA2093",
-    "ten": "ipad.skip",
+    "ten": "test.skip",
     "ngaymua": "2026-08-29",
-    "ngayhethan": "2026-09-28"
+    "ngayhethan": "2026-11-28"
   },
   {
     "udid": "7C8F67CF-D3EA-4D43-B16C-8CB17CF47F9B",
