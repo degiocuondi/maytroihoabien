@@ -7612,5 +7612,11 @@
     "ten": "test",
     "ngaymua": "2026-10-29",
     "ngayhethan": "2026-10-31"
+  },
+  {
+    "udid": "A2CBC6F6-AE81-4E3A-B383-DA9DF29B1D75",
+    "ten": "Ahrshano.skip",
+    "ngaymua": "2026-10-29",
+    "ngayhethan": "2026-11-28"
   }
 ]
