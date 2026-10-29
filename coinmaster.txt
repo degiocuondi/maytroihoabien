@@ -7600,11 +7600,5 @@
     "ten": "Đức Tân",
     "ngaymua": "2026-10-28",
     "ngayhethan": "2026-12-27"
-  },
-  {
-    "udid": "45BEB260-5CCF-4E2F-BB5B-64E1E906DA59",
-    "ten": "Mạnh Dũng",
-    "ngaymua": "2026-10-29",
-    "ngayhethan": "2026-12-28"
   }
 ]
