@@ -7233,7 +7233,7 @@
     "udid": "F55B7EAF-2C8B-495D-AF52-C81275D2EC39",
     "ten": "Hải.skip",
     "ngaymua": "2026-09-29",
-    "ngayhethan": "2026-10-29"
+    "ngayhethan": "2026-11-29"
   },
   {
     "udid": "26AFA078-8363-4BBE-8A98-0D118FFAA918",
