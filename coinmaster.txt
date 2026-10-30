@@ -6909,7 +6909,7 @@
     "udid": "EB8B4B96-4F1B-4B6A-8E1E-3886071C3134",
     "ten": "Vung Tau",
     "ngaymua": "2026-09-01",
-    "ngayhethan": "2026-10-31"
+    "ngayhethan": "2027-02-07"
   },
   {
     "udid": "5E8E5D2F-D8C8-4DFB-AF50-08917FE88B07",
