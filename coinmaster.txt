@@ -7434,12 +7434,6 @@
     "ngayhethan": "2026-11-13"
   },
   {
-    "udid": "D12BFC0C-7D0A-416B-AC73-C46474F4F0E9",
-    "ten": "Cool",
-    "ngaymua": "2026-10-15",
-    "ngayhethan": "2026-12-14"
-  },
-  {
     "udid": "B28EB599-0B0E-46F6-B700-C24170795E24",
     "ten": "Đức Quyền",
     "ngaymua": "2026-10-16",
