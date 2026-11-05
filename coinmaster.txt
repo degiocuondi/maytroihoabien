@@ -7660,5 +7660,11 @@
     "ten": "Nhất Bảo",
     "ngaymua": "2026-11-05",
     "ngayhethan": "2027-01-04"
+  },
+  {
+    "udid": "0911BD19-C972-4F0E-AC1C-612DFF6D1083",
+    "ten": "Duy Minh",
+    "ngaymua": "2026-11-05",
+    "ngayhethan": "2026-12-05"
   }
 ]
