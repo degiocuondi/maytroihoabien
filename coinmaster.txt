@@ -7653,6 +7653,6 @@
     "udid": "EBD48C03-D913-4D7E-9A56-1F2981125C93",
     "ten": "Cool",
     "ngaymua": "2026-11-05",
-    "ngayhethan": "2026-12-15"
+    "ngayhethan": "2026-12-14"
   }
 ]
