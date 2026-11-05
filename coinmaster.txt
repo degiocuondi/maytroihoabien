@@ -7666,5 +7666,11 @@
     "ten": "Duy Minh",
     "ngaymua": "2026-11-05",
     "ngayhethan": "2027-02-13"
+  },
+  {
+    "udid": "F67D8307-C0C6-49A6-B7DF-0EDEA2A1EB93",
+    "ten": "test.skip",
+    "ngaymua": "2026-11-05",
+    "ngayhethan": "2027-02-03"
   }
 ]
