@@ -7677,6 +7677,6 @@
     "udid": "B49405FD-1A0C-4305-981B-BD7E9C6019C2",
     "ten": "Thuỷ.skip",
     "ngaymua": "2026-11-06",
-    "ngayhethan": "2027-01-05"
+    "ngayhethan": "2026-12-06"
   }
 ]
