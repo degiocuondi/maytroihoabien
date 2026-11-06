@@ -7672,5 +7672,11 @@
     "ten": "test.skip",
     "ngaymua": "2026-11-05",
     "ngayhethan": "2027-02-03"
+  },
+  {
+    "udid": "B49405FD-1A0C-4305-981B-BD7E9C6019C2",
+    "ten": "Thuỷ.skip",
+    "ngaymua": "2026-11-06",
+    "ngayhethan": "2027-01-05"
   }
 ]
