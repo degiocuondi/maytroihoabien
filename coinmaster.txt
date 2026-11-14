@@ -7605,7 +7605,7 @@
     "udid": "EF5FE827-BFEB-4DBC-AF0C-DCB10F267759",
     "ten": "test",
     "ngaymua": "2026-10-29",
-    "ngayhethan": "2026-11-06"
+    "ngayhethan": "2026-11-15"
   },
   {
     "udid": "A2CBC6F6-AE81-4E3A-B383-DA9DF29B1D75",
