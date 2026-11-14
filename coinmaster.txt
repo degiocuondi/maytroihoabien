@@ -7744,5 +7744,11 @@
     "ten": "skip.skip",
     "ngaymua": "2026-11-14",
     "ngayhethan": "2026-12-14"
+  },
+  {
+    "udid": "AD2B6D4B-FE83-4622-9617-5D4A73C731C1",
+    "ten": "Trung Nguyễn.skip",
+    "ngaymua": "2026-11-14",
+    "ngayhethan": "2026-12-14"
   }
 ]
