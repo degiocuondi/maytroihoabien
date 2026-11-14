@@ -7744,5 +7744,11 @@
     "ten": "Ngọc Quý",
     "ngaymua": "2026-11-12",
     "ngayhethan": "2026-12-12"
+  },
+  {
+    "udid": "C77602F1-D194-4648-8F8A-EF514A5491EE",
+    "ten": "skip.skip",
+    "ngaymua": "2026-11-14",
+    "ngayhethan": "2026-12-14"
   }
 ]
