@@ -7768,5 +7768,11 @@
     "ten": "D T Q",
     "ngaymua": "2026-11-17",
     "ngayhethan": "2027-04-16"
+  },
+  {
+    "udid": "6C89D76E-15F6-43D7-AAB0-301A206F3D89",
+    "ten": "Ánh Hưng.skip",
+    "ngaymua": "2026-11-19",
+    "ngayhethan": "2026-12-19"
   }
 ]
