@@ -7740,12 +7740,6 @@
     "ngayhethan": "2026-12-14"
   },
   {
-    "udid": "F08F0B75-02F2-440E-8DD7-3536CE9F8C1F",
-    "ten": "Toản",
-    "ngaymua": "2026-11-14",
-    "ngayhethan": "2026-12-11"
-  },
-  {
     "udid": "C3E7E356-70A9-49E2-82C1-0DAEE576C422",
     "ten": "Gia Bảo",
     "ngaymua": "2026-11-15",
