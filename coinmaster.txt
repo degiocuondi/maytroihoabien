@@ -7786,5 +7786,11 @@
     "ten": "Linh qiun",
     "ngaymua": "2026-11-19",
     "ngayhethan": "2026-12-19"
+  },
+  {
+    "udid": "0243F51D-E103-4C1B-9631-77C14A554AA9",
+    "ten": "Trần Huy.skip",
+    "ngaymua": "2026-11-20",
+    "ngayhethan": "2026-12-20"
   }
 ]
