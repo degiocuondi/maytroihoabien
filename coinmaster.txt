@@ -7792,5 +7792,11 @@
     "ten": "Trần Huy.skip",
     "ngaymua": "2026-11-20",
     "ngayhethan": "2026-12-20"
+  },
+  {
+    "udid": "FDEA70BB-7DCC-451E-94E5-68051437FFC5",
+    "ten": "Thu Cúc.skip",
+    "ngaymua": "2026-11-21",
+    "ngayhethan": "2027-03-21"
   }
 ]
