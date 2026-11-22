@@ -7798,5 +7798,11 @@
     "ten": "Thu Cúc.skip",
     "ngaymua": "2026-11-21",
     "ngayhethan": "2027-03-21"
+  },
+  {
+    "udid": "F701FBED-E62F-4CB7-8808-70F12099E529",
+    "ten": "Văn Luận",
+    "ngaymua": "2026-11-22",
+    "ngayhethan": "2027-01-21"
   }
 ]
