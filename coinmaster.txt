@@ -7810,5 +7810,11 @@
     "ten": "Hiên.skip",
     "ngaymua": "2026-11-23",
     "ngayhethan": "2026-12-23"
+  },
+  {
+    "udid": "D98DF045-BCD1-4B3F-A774-F3DD3935D30E",
+    "ten": "Duy Khánh",
+    "ngaymua": "2026-11-24",
+    "ngayhethan": "2026-12-24"
   }
 ]
