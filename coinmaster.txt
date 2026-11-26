@@ -7686,12 +7686,6 @@
     "ngayhethan": "2026-12-08"
   },
   {
-    "udid": "AB214481-9304-46A1-878D-4FAD88127541",
-    "ten": "Phú",
-    "ngaymua": "2026-11-10",
-    "ngayhethan": "2026-12-10"
-  },
-  {
     "udid": "706CC44D-491E-4E0F-9116-EF1BA81F5D0F",
     "ten": "Vinh.skip",
     "ngaymua": "2026-11-10",
