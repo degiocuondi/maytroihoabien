@@ -5359,9 +5359,9 @@
   },
   {
     "udid": "E33C6102-DE87-4275-B003-D547CB51D19A",
-    "ten": "Văn Thìn.skip",
+    "ten": "Thìn.skip",
     "ngaymua": "2026-06-01",
-    "ngayhethan": "2026-10-10"
+    "ngayhethan": "2027-03-27"
   },
   {
     "udid": "BF5188EF-B076-446B-BF6F-EF5A940F62CC",
